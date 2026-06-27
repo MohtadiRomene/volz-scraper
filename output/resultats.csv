@@ -1,0 +1,14 @@
+id,prix_dzd,places,aller_date,aller_dep,aller_arr,aller_stops,aller_duree,retour_date,retour_dep,retour_arr,retour_stops,retour_duree
+1,"65 845,00",1,"Sat 15 Aug",11:10,20:40,"2 Stops",27h 55m,"Sat 22 Aug",06:10,10:15,"1 Stop",1h 10m
+2,"67 989,00",1,"Sat 15 Aug",11:10,20:40,"2 Stops",27h 55m,"Sat 22 Aug",16:50,10:10,"2 Stops",13h 45m
+3,"70 105,00",1,"Sat 15 Aug",11:10,20:40,"2 Stops",27h 55m,"Sat 22 Aug",06:10,10:15,"1 Stop",1h 10m
+4,"71 609,00",1,"Sat 15 Aug",11:10,20:40,"2 Stops",27h 55m,"Sat 22 Aug",14:05,10:10,"1 Stop",17h 5m
+5,"75 519,00",4,"Sat 15 Aug",11:10,20:40,"2 Stops",27h 55m,"Sat 22 Aug",16:50,10:10,"2 Stops",13h 45m
+6,"76 775,00",1,"Sat 15 Aug",11:10,20:40,"2 Stops",27h 55m,"Sat 22 Aug",06:10,23:00,"1 Stop",14h 0m
+7,"76 775,00",1,"Sat 15 Aug",11:10,20:40,"2 Stops",27h 55m,"Sat 22 Aug",11:40,10:10,"1 Stop",19h 30m
+8,"78 348,00",2,"Sat 15 Aug",12:40,10:40,"1 Stop",17h 5m,"Sat 22 Aug",07:20,11:20,"1 Stop",1h 10m
+9,"78 348,00",2,"Sat 15 Aug",12:40,10:40,"1 Stop",17h 5m,"Sat 22 Aug",18:30,22:45,"1 Stop",1h 25m
+10,"78 348,00",2,"Sat 15 Aug",12:40,10:40,"1 Stop",17h 5m,"Sat 22 Aug",14:45,22:45,"1 Stop",5h 10m
+11,"78 348,00",2,"Sat 15 Aug",12:40,10:40,"1 Stop",17h 5m,"Sat 22 Aug",11:30,22:45,"1 Stop",8h 25m
+12,"78 348,00",2,"Sat 15 Aug",12:40,10:40,"1 Stop",17h 5m,"Sat 22 Aug",10:30,22:45,"1 Stop",9h 25m
+13,"78 919,00",1,"Sat 15 Aug",11:10,20:40,"2 Stops",27h 55m,"Sat 22 Aug",16:50,23:00,"2 Stops",26h 40m

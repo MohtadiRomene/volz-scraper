@@ -1,0 +1,21 @@
+{
+  "name": "volz-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "inspect": "node scripts/inspect.js",
+    "scrape": "node scripts/scrape-home.js",
+    "intercept": "node scripts/intercept-api.js",
+    "scrape-all": "node scripts/scrape-all.js",
+    "search": "node scripts/search-flight.js",
+    "codegen": "npx playwright codegen https://volz.app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "playwright": "^1.61.1"
+  }
+}

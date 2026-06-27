@@ -1,0 +1,275 @@
+[
+  {
+    "id": 1,
+    "prix_dzd": "65 845,00",
+    "places_restantes": 1,
+    "aller": {
+      "date": "Sat 15 Aug",
+      "heure_dep": "11:10",
+      "origine": "Alger",
+      "nb_stops": "2 Stops",
+      "duree": "27h 55m",
+      "heure_arr": "20:40"
+    },
+    "retour": {
+      "date": "Sat 22 Aug",
+      "heure_dep": "06:10",
+      "origine": "Paris",
+      "nb_stops": "1 Stop",
+      "duree": "1h 10m",
+      "heure_arr": "10:15"
+    }
+  },
+  {
+    "id": 2,
+    "prix_dzd": "67 989,00",
+    "places_restantes": 1,
+    "aller": {
+      "date": "Sat 15 Aug",
+      "heure_dep": "11:10",
+      "origine": "Alger",
+      "nb_stops": "2 Stops",
+      "duree": "27h 55m",
+      "heure_arr": "20:40"
+    },
+    "retour": {
+      "date": "Sat 22 Aug",
+      "heure_dep": "16:50",
+      "origine": "Paris",
+      "nb_stops": "2 Stops",
+      "duree": "13h 45m",
+      "heure_arr": "10:10"
+    }
+  },
+  {
+    "id": 3,
+    "prix_dzd": "70 105,00",
+    "places_restantes": 1,
+    "aller": {
+      "date": "Sat 15 Aug",
+      "heure_dep": "11:10",
+      "origine": "Alger",
+      "nb_stops": "2 Stops",
+      "duree": "27h 55m",
+      "heure_arr": "20:40"
+    },
+    "retour": {
+      "date": "Sat 22 Aug",
+      "heure_dep": "06:10",
+      "origine": "Paris",
+      "nb_stops": "1 Stop",
+      "duree": "1h 10m",
+      "heure_arr": "10:15"
+    }
+  },
+  {
+    "id": 4,
+    "prix_dzd": "71 609,00",
+    "places_restantes": 1,
+    "aller": {
+      "date": "Sat 15 Aug",
+      "heure_dep": "11:10",
+      "origine": "Alger",
+      "nb_stops": "2 Stops",
+      "duree": "27h 55m",
+      "heure_arr": "20:40"
+    },
+    "retour": {
+      "date": "Sat 22 Aug",
+      "heure_dep": "14:05",
+      "origine": "Paris",
+      "nb_stops": "1 Stop",
+      "duree": "17h 5m",
+      "heure_arr": "10:10"
+    }
+  },
+  {
+    "id": 5,
+    "prix_dzd": "75 519,00",
+    "places_restantes": 4,
+    "aller": {
+      "date": "Sat 15 Aug",
+      "heure_dep": "11:10",
+      "origine": "Alger",
+      "nb_stops": "2 Stops",
+      "duree": "27h 55m",
+      "heure_arr": "20:40"
+    },
+    "retour": {
+      "date": "Sat 22 Aug",
+      "heure_dep": "16:50",
+      "origine": "Paris",
+      "nb_stops": "2 Stops",
+      "duree": "13h 45m",
+      "heure_arr": "10:10"
+    }
+  },
+  {
+    "id": 6,
+    "prix_dzd": "76 775,00",
+    "places_restantes": 1,
+    "aller": {
+      "date": "Sat 15 Aug",
+      "heure_dep": "11:10",
+      "origine": "Alger",
+      "nb_stops": "2 Stops",
+      "duree": "27h 55m",
+      "heure_arr": "20:40"
+    },
+    "retour": {
+      "date": "Sat 22 Aug",
+      "heure_dep": "06:10",
+      "origine": "Paris",
+      "nb_stops": "1 Stop",
+      "duree": "14h 0m",
+      "heure_arr": "23:00"
+    }
+  },
+  {
+    "id": 7,
+    "prix_dzd": "76 775,00",
+    "places_restantes": 1,
+    "aller": {
+      "date": "Sat 15 Aug",
+      "heure_dep": "11:10",
+      "origine": "Alger",
+      "nb_stops": "2 Stops",
+      "duree": "27h 55m",
+      "heure_arr": "20:40"
+    },
+    "retour": {
+      "date": "Sat 22 Aug",
+      "heure_dep": "11:40",
+      "origine": "Paris",
+      "nb_stops": "1 Stop",
+      "duree": "19h 30m",
+      "heure_arr": "10:10"
+    }
+  },
+  {
+    "id": 8,
+    "prix_dzd": "78 348,00",
+    "places_restantes": 2,
+    "aller": {
+      "date": "Sat 15 Aug",
+      "heure_dep": "12:40",
+      "origine": "Alger",
+      "nb_stops": "1 Stop",
+      "duree": "17h 5m",
+      "heure_arr": "10:40"
+    },
+    "retour": {
+      "date": "Sat 22 Aug",
+      "heure_dep": "07:20",
+      "origine": "Paris",
+      "nb_stops": "1 Stop",
+      "duree": "1h 10m",
+      "heure_arr": "11:20"
+    }
+  },
+  {
+    "id": 9,
+    "prix_dzd": "78 348,00",
+    "places_restantes": 2,
+    "aller": {
+      "date": "Sat 15 Aug",
+      "heure_dep": "12:40",
+      "origine": "Alger",
+      "nb_stops": "1 Stop",
+      "duree": "17h 5m",
+      "heure_arr": "10:40"
+    },
+    "retour": {
+      "date": "Sat 22 Aug",
+      "heure_dep": "18:30",
+      "origine": "Paris",
+      "nb_stops": "1 Stop",
+      "duree": "1h 25m",
+      "heure_arr": "22:45"
+    }
+  },
+  {
+    "id": 10,
+    "prix_dzd": "78 348,00",
+    "places_restantes": 2,
+    "aller": {
+      "date": "Sat 15 Aug",
+      "heure_dep": "12:40",
+      "origine": "Alger",
+      "nb_stops": "1 Stop",
+      "duree": "17h 5m",
+      "heure_arr": "10:40"
+    },
+    "retour": {
+      "date": "Sat 22 Aug",
+      "heure_dep": "14:45",
+      "origine": "Paris",
+      "nb_stops": "1 Stop",
+      "duree": "5h 10m",
+      "heure_arr": "22:45"
+    }
+  },
+  {
+    "id": 11,
+    "prix_dzd": "78 348,00",
+    "places_restantes": 2,
+    "aller": {
+      "date": "Sat 15 Aug",
+      "heure_dep": "12:40",
+      "origine": "Alger",
+      "nb_stops": "1 Stop",
+      "duree": "17h 5m",
+      "heure_arr": "10:40"
+    },
+    "retour": {
+      "date": "Sat 22 Aug",
+      "heure_dep": "11:30",
+      "origine": "Paris",
+      "nb_stops": "1 Stop",
+      "duree": "8h 25m",
+      "heure_arr": "22:45"
+    }
+  },
+  {
+    "id": 12,
+    "prix_dzd": "78 348,00",
+    "places_restantes": 2,
+    "aller": {
+      "date": "Sat 15 Aug",
+      "heure_dep": "12:40",
+      "origine": "Alger",
+      "nb_stops": "1 Stop",
+      "duree": "17h 5m",
+      "heure_arr": "10:40"
+    },
+    "retour": {
+      "date": "Sat 22 Aug",
+      "heure_dep": "10:30",
+      "origine": "Paris",
+      "nb_stops": "1 Stop",
+      "duree": "9h 25m",
+      "heure_arr": "22:45"
+    }
+  },
+  {
+    "id": 13,
+    "prix_dzd": "78 919,00",
+    "places_restantes": 1,
+    "aller": {
+      "date": "Sat 15 Aug",
+      "heure_dep": "11:10",
+      "origine": "Alger",
+      "nb_stops": "2 Stops",
+      "duree": "27h 55m",
+      "heure_arr": "20:40"
+    },
+    "retour": {
+      "date": "Sat 22 Aug",
+      "heure_dep": "16:50",
+      "origine": "Paris",
+      "nb_stops": "2 Stops",
+      "duree": "26h 40m",
+      "heure_arr": "23:00"
+    }
+  }
+]
