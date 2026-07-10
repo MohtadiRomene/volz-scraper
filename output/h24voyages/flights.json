@@ -12,7 +12,7 @@
     "price": 66311,
     "currency": "DZD",
     "airline": "Air Algerie",
-    "scraped_at": "2026-07-10T11:56:57.964Z"
+    "scraped_at": "2026-07-10T12:10:36.485Z"
   },
   {
     "site": "h24voyages",
@@ -27,7 +27,7 @@
     "price": 51493,
     "currency": "DZD",
     "airline": "Pegasus",
-    "scraped_at": "2026-07-10T11:57:07.155Z"
+    "scraped_at": "2026-07-10T12:10:47.144Z"
   },
   {
     "site": "h24voyages",
@@ -42,7 +42,7 @@
     "price": 66593,
     "currency": "DZD",
     "airline": "Air Algerie",
-    "scraped_at": "2026-07-10T11:57:20.613Z"
+    "scraped_at": "2026-07-10T12:11:06.118Z"
   },
   {
     "site": "h24voyages",
@@ -57,7 +57,7 @@
     "price": 125947,
     "currency": "DZD",
     "airline": "Turkish Airlines",
-    "scraped_at": "2026-07-10T11:57:31.165Z"
+    "scraped_at": "2026-07-10T12:11:14.980Z"
   },
   {
     "site": "h24voyages",
@@ -72,7 +72,7 @@
     "price": 104007,
     "currency": "DZD",
     "airline": "Turkish Airlines",
-    "scraped_at": "2026-07-10T11:57:38.927Z"
+    "scraped_at": "2026-07-10T12:11:25.378Z"
   },
   {
     "site": "h24voyages",
@@ -84,10 +84,10 @@
     "adults": 1,
     "departDate": "2026-07-10",
     "returnDate": "2026-07-20",
-    "price": 108811,
+    "price": 145824,
     "currency": "DZD",
-    "airline": "Pegasus",
-    "scraped_at": "2026-07-10T11:57:51.006Z"
+    "airline": "Air France",
+    "scraped_at": "2026-07-10T12:11:33.997Z"
   },
   {
     "site": "h24voyages",
@@ -102,7 +102,7 @@
     "price": 59867,
     "currency": "DZD",
     "airline": "Vueling Airlines",
-    "scraped_at": "2026-07-10T11:58:02.055Z"
+    "scraped_at": "2026-07-10T12:11:42.815Z"
   },
   {
     "site": "h24voyages",
@@ -117,7 +117,7 @@
     "price": 105514,
     "currency": "DZD",
     "airline": "Air France",
-    "scraped_at": "2026-07-10T11:58:11.258Z"
+    "scraped_at": "2026-07-10T12:12:10.457Z"
   },
   {
     "site": "h24voyages",
@@ -132,6 +132,6 @@
     "price": 40650,
     "currency": "DZD",
     "airline": "Tunisair",
-    "scraped_at": "2026-07-10T11:58:19.358Z"
+    "scraped_at": "2026-07-10T12:12:17.290Z"
   }
 ]
