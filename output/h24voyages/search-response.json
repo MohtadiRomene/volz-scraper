@@ -1,0 +1,3193 @@
+{
+  "success": true,
+  "statusMessage": "SUCCESS",
+  "searchCode": "e0faa4d9-1f98-46e3-a0dc-c51e9095251b",
+  "warningDetails": [],
+  "data": {
+    "offers": [
+      {
+        "offerId": "AMS-26089227-1",
+        "detail": {
+          "hasCodeshare": false,
+          "checkedBaggageIncluded": true,
+          "cabinBaggageIncluded": true,
+          "elapsedDurationTime": 275
+        },
+        "journey": [
+          {
+            "flight": {
+              "flightKey": "75ac83a5-a185-4a8a-9b4c-48cbb7b1575b",
+              "flightInfo": {
+                "duration": "2H20M",
+                "departureDate": "2026-07-09T18:35:00",
+                "arrivalDate": "2026-07-09T21:55:00",
+                "departureTime": "18:35:00",
+                "arrivalTime": "21:55:00",
+                "durationTime": 140,
+                "dayOffset": 0
+              },
+              "segmentReference": {
+                "onPoint": "ALG",
+                "offPoint": "ORY"
+              },
+              "stopQuantity": 0
+            },
+            "flightSegments": [
+              {
+                "segmentKey": "63ad5e9d-72ec-4caa-a12d-8bffb0720d63",
+                "segmentId": "9",
+                "departureAirportCode": "ALG",
+                "departureDateTime": "2026-07-09T18:35:00",
+                "departureTerminal": "4",
+                "arrivalAirportCode": "ORY",
+                "arrivalDateTime": "2026-07-09T21:55:00",
+                "arrivalTerminal": "4",
+                "duration": "2H20M",
+                "flightNumber": 1008,
+                "layoverTime": "",
+                "resBookDesigCode": "M",
+                "numberInParty": 1,
+                "operatingAirline": "AH",
+                "marketingAirline": "AH",
+                "seatsAvailable": 2,
+                "fareBasis": "MDZFR0BG",
+                "equipmentType": "73H",
+                "equipmentName": "BOEING 737-800 (WINGLETS)",
+                "baggageAllowance": {
+                  "checkedInBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 0,
+                      "unit": "PIECE"
+                    }
+                  ],
+                  "cabinBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ]
+                },
+                "cabinClass": "ECONOMY",
+                "operatingAirlineName": "Air Algerie",
+                "marketingAirlineName": "Air Algerie",
+                "departureAirportDetails": {
+                  "IataCode": "ALG",
+                  "City": "Algiers",
+                  "Country": "DZ",
+                  "Name": "Houari Boumediene"
+                },
+                "arrivalAirportDetails": {
+                  "IataCode": "ORY",
+                  "City": "Paris",
+                  "Country": "FR",
+                  "Name": "Paris Orly Apt"
+                }
+              }
+            ],
+            "brandedFare": null
+          },
+          {
+            "flight": {
+              "flightKey": "289555ff-2e76-4cb0-a1a3-ef6ed91ff45a",
+              "flightInfo": {
+                "duration": "2H15M",
+                "departureDate": "2026-07-19T12:15:00",
+                "arrivalDate": "2026-07-19T13:30:00",
+                "departureTime": "12:15:00",
+                "arrivalTime": "13:30:00",
+                "durationTime": 135,
+                "dayOffset": 0
+              },
+              "segmentReference": {
+                "onPoint": "CDG",
+                "offPoint": "ALG"
+              },
+              "stopQuantity": 0
+            },
+            "flightSegments": [
+              {
+                "segmentKey": "4375d52b-3520-4d73-a67c-c4ac505aef28",
+                "segmentId": "52",
+                "departureAirportCode": "CDG",
+                "departureDateTime": "2026-07-19T12:15:00",
+                "departureTerminal": "2D",
+                "arrivalAirportCode": "ALG",
+                "arrivalDateTime": "2026-07-19T13:30:00",
+                "arrivalTerminal": "4",
+                "duration": "2H15M",
+                "flightNumber": 1003,
+                "layoverTime": "",
+                "resBookDesigCode": "Y",
+                "numberInParty": 1,
+                "operatingAirline": "AH",
+                "marketingAirline": "AH",
+                "seatsAvailable": 2,
+                "fareBasis": "YFRT",
+                "equipmentType": "332",
+                "equipmentName": "AIRBUS A330-200",
+                "baggageAllowance": {
+                  "checkedInBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ],
+                  "cabinBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ]
+                },
+                "cabinClass": "ECONOMY",
+                "operatingAirlineName": "Air Algerie",
+                "marketingAirlineName": "Air Algerie",
+                "departureAirportDetails": {
+                  "IataCode": "CDG",
+                  "City": "Paris",
+                  "Country": "FR",
+                  "Name": "Paris Charles de Gaulle Apt"
+                },
+                "arrivalAirportDetails": {
+                  "IataCode": "ALG",
+                  "City": "Algiers",
+                  "Country": "DZ",
+                  "Name": "Houari Boumediene"
+                }
+              }
+            ],
+            "brandedFare": null
+          }
+        ],
+        "fare": {
+          "fareKey": "975c3917-094b-45d3-bad5-777fb91771b3",
+          "currencyCode": "DZD",
+          "fareType": {
+            "fareCode": "PUBLISHED",
+            "farePreference": "",
+            "refundable": true,
+            "refundFees": 2420,
+            "modifiable": true,
+            "modifFees": 11000
+          },
+          "baseFare": 32160,
+          "totalTax": 26414,
+          "totalFare": 60474,
+          "platingAirlineCode": "AH",
+          "platingAirlineDetails": {
+            "Name": "Air Algerie",
+            "IataCode": "AH",
+            "Country": "",
+            "price": 60474
+          },
+          "fareBreakdown": [
+            {
+              "fareBreakdownKey": "8bb66b90-c081-40ae-ab5c-caa6125d61cd",
+              "fareType": "STANDARD",
+              "passengerKeys": [
+                "1"
+              ],
+              "paxType": "ADT",
+              "paxRate": {
+                "currency": "DZD",
+                "baseFare": 34060,
+                "totalTax": 26414,
+                "totalFare": 60474
+              }
+            }
+          ],
+          "acdFee": 0
+        },
+        "brandedFare": null,
+        "isUpsellOffer": false,
+        "supplierId": 163
+      },
+      {
+        "offerId": "AMS-26089227-2",
+        "detail": {
+          "hasCodeshare": false,
+          "checkedBaggageIncluded": true,
+          "cabinBaggageIncluded": true,
+          "elapsedDurationTime": 275
+        },
+        "journey": [
+          {
+            "flight": {
+              "flightKey": "e6903dbb-fd8d-4ee4-8907-877b20d6738f",
+              "flightInfo": {
+                "duration": "2H20M",
+                "departureDate": "2026-07-09T18:35:00",
+                "arrivalDate": "2026-07-09T21:55:00",
+                "departureTime": "18:35:00",
+                "arrivalTime": "21:55:00",
+                "durationTime": 140,
+                "dayOffset": 0
+              },
+              "segmentReference": {
+                "onPoint": "ALG",
+                "offPoint": "ORY"
+              },
+              "stopQuantity": 0
+            },
+            "flightSegments": [
+              {
+                "segmentKey": "52e53d32-6321-4d7b-9392-575eef7845a3",
+                "segmentId": "9",
+                "departureAirportCode": "ALG",
+                "departureDateTime": "2026-07-09T18:35:00",
+                "departureTerminal": "4",
+                "arrivalAirportCode": "ORY",
+                "arrivalDateTime": "2026-07-09T21:55:00",
+                "arrivalTerminal": "4",
+                "duration": "2H20M",
+                "flightNumber": 1008,
+                "layoverTime": "",
+                "resBookDesigCode": "M",
+                "numberInParty": 1,
+                "operatingAirline": "AH",
+                "marketingAirline": "AH",
+                "seatsAvailable": 5,
+                "fareBasis": "MDZFR0BG",
+                "equipmentType": "73H",
+                "equipmentName": "BOEING 737-800 (WINGLETS)",
+                "baggageAllowance": {
+                  "checkedInBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 0,
+                      "unit": "PIECE"
+                    }
+                  ],
+                  "cabinBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ]
+                },
+                "cabinClass": "ECONOMY",
+                "operatingAirlineName": "Air Algerie",
+                "marketingAirlineName": "Air Algerie",
+                "departureAirportDetails": {
+                  "IataCode": "ALG",
+                  "City": "Algiers",
+                  "Country": "DZ",
+                  "Name": "Houari Boumediene"
+                },
+                "arrivalAirportDetails": {
+                  "IataCode": "ORY",
+                  "City": "Paris",
+                  "Country": "FR",
+                  "Name": "Paris Orly Apt"
+                }
+              }
+            ],
+            "brandedFare": null
+          },
+          {
+            "flight": {
+              "flightKey": "4162707a-0542-4c89-9341-63acfee3470b",
+              "flightInfo": {
+                "duration": "2H15M",
+                "departureDate": "2026-07-19T18:30:00",
+                "arrivalDate": "2026-07-19T19:45:00",
+                "departureTime": "18:30:00",
+                "arrivalTime": "19:45:00",
+                "durationTime": 135,
+                "dayOffset": 0
+              },
+              "segmentReference": {
+                "onPoint": "CDG",
+                "offPoint": "ALG"
+              },
+              "stopQuantity": 0
+            },
+            "flightSegments": [
+              {
+                "segmentKey": "127f02d6-ee4f-4932-9d6e-6f1737e7ee81",
+                "segmentId": "54",
+                "departureAirportCode": "CDG",
+                "departureDateTime": "2026-07-19T18:30:00",
+                "departureTerminal": "2D",
+                "arrivalAirportCode": "ALG",
+                "arrivalDateTime": "2026-07-19T19:45:00",
+                "arrivalTerminal": "4",
+                "duration": "2H15M",
+                "flightNumber": 1233,
+                "layoverTime": "",
+                "resBookDesigCode": "Y",
+                "numberInParty": 1,
+                "operatingAirline": "AH",
+                "marketingAirline": "AH",
+                "seatsAvailable": 5,
+                "fareBasis": "YFRT",
+                "equipmentType": "736",
+                "equipmentName": "BOEING 737-600",
+                "baggageAllowance": {
+                  "checkedInBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ],
+                  "cabinBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ]
+                },
+                "cabinClass": "ECONOMY",
+                "operatingAirlineName": "Air Algerie",
+                "marketingAirlineName": "Air Algerie",
+                "departureAirportDetails": {
+                  "IataCode": "CDG",
+                  "City": "Paris",
+                  "Country": "FR",
+                  "Name": "Paris Charles de Gaulle Apt"
+                },
+                "arrivalAirportDetails": {
+                  "IataCode": "ALG",
+                  "City": "Algiers",
+                  "Country": "DZ",
+                  "Name": "Houari Boumediene"
+                }
+              }
+            ],
+            "brandedFare": null
+          }
+        ],
+        "fare": {
+          "fareKey": "235a81d6-7422-49b8-9802-2657bf8dec91",
+          "currencyCode": "DZD",
+          "fareType": {
+            "fareCode": "PUBLISHED",
+            "farePreference": "",
+            "refundable": true,
+            "refundFees": 2420,
+            "modifiable": true,
+            "modifFees": 11000
+          },
+          "baseFare": 32160,
+          "totalTax": 26414,
+          "totalFare": 60474,
+          "platingAirlineCode": "AH",
+          "platingAirlineDetails": {
+            "Name": "Air Algerie",
+            "IataCode": "AH",
+            "Country": "",
+            "price": 60474
+          },
+          "fareBreakdown": [
+            {
+              "fareBreakdownKey": "79e63a0b-e5f0-413d-ad06-817a26ac8c6e",
+              "fareType": "STANDARD",
+              "passengerKeys": [
+                "1"
+              ],
+              "paxType": "ADT",
+              "paxRate": {
+                "currency": "DZD",
+                "baseFare": 34060,
+                "totalTax": 26414,
+                "totalFare": 60474
+              }
+            }
+          ],
+          "acdFee": 0
+        },
+        "brandedFare": null,
+        "isUpsellOffer": false,
+        "supplierId": 163
+      },
+      {
+        "offerId": "AMS-26089227-3",
+        "detail": {
+          "hasCodeshare": false,
+          "checkedBaggageIncluded": true,
+          "cabinBaggageIncluded": true,
+          "elapsedDurationTime": 275
+        },
+        "journey": [
+          {
+            "flight": {
+              "flightKey": "e9ea4343-d4a8-4b0c-8230-425976867680",
+              "flightInfo": {
+                "duration": "2H20M",
+                "departureDate": "2026-07-09T18:35:00",
+                "arrivalDate": "2026-07-09T21:55:00",
+                "departureTime": "18:35:00",
+                "arrivalTime": "21:55:00",
+                "durationTime": 140,
+                "dayOffset": 0
+              },
+              "segmentReference": {
+                "onPoint": "ALG",
+                "offPoint": "ORY"
+              },
+              "stopQuantity": 0
+            },
+            "flightSegments": [
+              {
+                "segmentKey": "6378682f-1e3d-40ee-87cb-ae1068626443",
+                "segmentId": "9",
+                "departureAirportCode": "ALG",
+                "departureDateTime": "2026-07-09T18:35:00",
+                "departureTerminal": "4",
+                "arrivalAirportCode": "ORY",
+                "arrivalDateTime": "2026-07-09T21:55:00",
+                "arrivalTerminal": "4",
+                "duration": "2H20M",
+                "flightNumber": 1008,
+                "layoverTime": "",
+                "resBookDesigCode": "M",
+                "numberInParty": 1,
+                "operatingAirline": "AH",
+                "marketingAirline": "AH",
+                "seatsAvailable": 5,
+                "fareBasis": "MDZFR0BG",
+                "equipmentType": "73H",
+                "equipmentName": "BOEING 737-800 (WINGLETS)",
+                "baggageAllowance": {
+                  "checkedInBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 0,
+                      "unit": "PIECE"
+                    }
+                  ],
+                  "cabinBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ]
+                },
+                "cabinClass": "ECONOMY",
+                "operatingAirlineName": "Air Algerie",
+                "marketingAirlineName": "Air Algerie",
+                "departureAirportDetails": {
+                  "IataCode": "ALG",
+                  "City": "Algiers",
+                  "Country": "DZ",
+                  "Name": "Houari Boumediene"
+                },
+                "arrivalAirportDetails": {
+                  "IataCode": "ORY",
+                  "City": "Paris",
+                  "Country": "FR",
+                  "Name": "Paris Orly Apt"
+                }
+              }
+            ],
+            "brandedFare": null
+          },
+          {
+            "flight": {
+              "flightKey": "73373924-a53b-4f8b-9d78-fd716da5a480",
+              "flightInfo": {
+                "duration": "2H15M",
+                "departureDate": "2026-07-19T20:25:00",
+                "arrivalDate": "2026-07-19T21:40:00",
+                "departureTime": "20:25:00",
+                "arrivalTime": "21:40:00",
+                "durationTime": 135,
+                "dayOffset": 0
+              },
+              "segmentReference": {
+                "onPoint": "CDG",
+                "offPoint": "ALG"
+              },
+              "stopQuantity": 0
+            },
+            "flightSegments": [
+              {
+                "segmentKey": "910930b5-2af3-4bcc-9ccd-7c1364b6c7c4",
+                "segmentId": "55",
+                "departureAirportCode": "CDG",
+                "departureDateTime": "2026-07-19T20:25:00",
+                "departureTerminal": "2D",
+                "arrivalAirportCode": "ALG",
+                "arrivalDateTime": "2026-07-19T21:40:00",
+                "arrivalTerminal": "4",
+                "duration": "2H15M",
+                "flightNumber": 1235,
+                "layoverTime": "",
+                "resBookDesigCode": "Y",
+                "numberInParty": 1,
+                "operatingAirline": "AH",
+                "marketingAirline": "AH",
+                "seatsAvailable": 5,
+                "fareBasis": "YFRT",
+                "equipmentType": "320",
+                "equipmentName": "AIRBUS A320",
+                "baggageAllowance": {
+                  "checkedInBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ],
+                  "cabinBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ]
+                },
+                "cabinClass": "ECONOMY",
+                "operatingAirlineName": "Air Algerie",
+                "marketingAirlineName": "Air Algerie",
+                "departureAirportDetails": {
+                  "IataCode": "CDG",
+                  "City": "Paris",
+                  "Country": "FR",
+                  "Name": "Paris Charles de Gaulle Apt"
+                },
+                "arrivalAirportDetails": {
+                  "IataCode": "ALG",
+                  "City": "Algiers",
+                  "Country": "DZ",
+                  "Name": "Houari Boumediene"
+                }
+              }
+            ],
+            "brandedFare": null
+          }
+        ],
+        "fare": {
+          "fareKey": "dbf4e593-ca8a-40a9-8dcb-21360acded9a",
+          "currencyCode": "DZD",
+          "fareType": {
+            "fareCode": "PUBLISHED",
+            "farePreference": "",
+            "refundable": true,
+            "refundFees": 2420,
+            "modifiable": true,
+            "modifFees": 11000
+          },
+          "baseFare": 32160,
+          "totalTax": 26414,
+          "totalFare": 60474,
+          "platingAirlineCode": "AH",
+          "platingAirlineDetails": {
+            "Name": "Air Algerie",
+            "IataCode": "AH",
+            "Country": "",
+            "price": 60474
+          },
+          "fareBreakdown": [
+            {
+              "fareBreakdownKey": "890a2dac-5918-4120-9a14-697c7b233a37",
+              "fareType": "STANDARD",
+              "passengerKeys": [
+                "1"
+              ],
+              "paxType": "ADT",
+              "paxRate": {
+                "currency": "DZD",
+                "baseFare": 34060,
+                "totalTax": 26414,
+                "totalFare": 60474
+              }
+            }
+          ],
+          "acdFee": 0
+        },
+        "brandedFare": null,
+        "isUpsellOffer": false,
+        "supplierId": 163
+      },
+      {
+        "offerId": "AMS-26089227-4",
+        "detail": {
+          "hasCodeshare": false,
+          "checkedBaggageIncluded": true,
+          "cabinBaggageIncluded": true,
+          "elapsedDurationTime": 285
+        },
+        "journey": [
+          {
+            "flight": {
+              "flightKey": "39c6a1aa-6328-4ebd-b6c3-4000a27fd175",
+              "flightInfo": {
+                "duration": "2H30M",
+                "departureDate": "2026-07-09T18:00:00",
+                "arrivalDate": "2026-07-09T21:30:00",
+                "departureTime": "18:00:00",
+                "arrivalTime": "21:30:00",
+                "durationTime": 150,
+                "dayOffset": 0
+              },
+              "segmentReference": {
+                "onPoint": "ALG",
+                "offPoint": "CDG"
+              },
+              "stopQuantity": 0
+            },
+            "flightSegments": [
+              {
+                "segmentKey": "f34d7a86-0a91-4166-b5ee-140a8dd71841",
+                "segmentId": "18",
+                "departureAirportCode": "ALG",
+                "departureDateTime": "2026-07-09T18:00:00",
+                "departureTerminal": "4",
+                "arrivalAirportCode": "CDG",
+                "arrivalDateTime": "2026-07-09T21:30:00",
+                "arrivalTerminal": "2D",
+                "duration": "2H30M",
+                "flightNumber": 1230,
+                "layoverTime": "",
+                "resBookDesigCode": "M",
+                "numberInParty": 1,
+                "operatingAirline": "AH",
+                "marketingAirline": "AH",
+                "seatsAvailable": 2,
+                "fareBasis": "MDZFR0BG",
+                "equipmentType": "73H",
+                "equipmentName": "BOEING 737-800 (WINGLETS)",
+                "baggageAllowance": {
+                  "checkedInBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 0,
+                      "unit": "PIECE"
+                    }
+                  ],
+                  "cabinBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ]
+                },
+                "cabinClass": "ECONOMY",
+                "operatingAirlineName": "Air Algerie",
+                "marketingAirlineName": "Air Algerie",
+                "departureAirportDetails": {
+                  "IataCode": "ALG",
+                  "City": "Algiers",
+                  "Country": "DZ",
+                  "Name": "Houari Boumediene"
+                },
+                "arrivalAirportDetails": {
+                  "IataCode": "CDG",
+                  "City": "Paris",
+                  "Country": "FR",
+                  "Name": "Paris Charles de Gaulle Apt"
+                }
+              }
+            ],
+            "brandedFare": null
+          },
+          {
+            "flight": {
+              "flightKey": "71d25027-cfbb-4f1b-8bab-1fe7269fbcd8",
+              "flightInfo": {
+                "duration": "2H15M",
+                "departureDate": "2026-07-19T12:15:00",
+                "arrivalDate": "2026-07-19T13:30:00",
+                "departureTime": "12:15:00",
+                "arrivalTime": "13:30:00",
+                "durationTime": 135,
+                "dayOffset": 0
+              },
+              "segmentReference": {
+                "onPoint": "CDG",
+                "offPoint": "ALG"
+              },
+              "stopQuantity": 0
+            },
+            "flightSegments": [
+              {
+                "segmentKey": "4d130411-9c17-4b44-9a04-a999daa30d37",
+                "segmentId": "52",
+                "departureAirportCode": "CDG",
+                "departureDateTime": "2026-07-19T12:15:00",
+                "departureTerminal": "2D",
+                "arrivalAirportCode": "ALG",
+                "arrivalDateTime": "2026-07-19T13:30:00",
+                "arrivalTerminal": "4",
+                "duration": "2H15M",
+                "flightNumber": 1003,
+                "layoverTime": "",
+                "resBookDesigCode": "Y",
+                "numberInParty": 1,
+                "operatingAirline": "AH",
+                "marketingAirline": "AH",
+                "seatsAvailable": 2,
+                "fareBasis": "YFRT",
+                "equipmentType": "332",
+                "equipmentName": "AIRBUS A330-200",
+                "baggageAllowance": {
+                  "checkedInBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ],
+                  "cabinBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ]
+                },
+                "cabinClass": "ECONOMY",
+                "operatingAirlineName": "Air Algerie",
+                "marketingAirlineName": "Air Algerie",
+                "departureAirportDetails": {
+                  "IataCode": "CDG",
+                  "City": "Paris",
+                  "Country": "FR",
+                  "Name": "Paris Charles de Gaulle Apt"
+                },
+                "arrivalAirportDetails": {
+                  "IataCode": "ALG",
+                  "City": "Algiers",
+                  "Country": "DZ",
+                  "Name": "Houari Boumediene"
+                }
+              }
+            ],
+            "brandedFare": null
+          }
+        ],
+        "fare": {
+          "fareKey": "dd6d181b-1d76-4c47-ba1f-c081aec81c17",
+          "currencyCode": "DZD",
+          "fareType": {
+            "fareCode": "PUBLISHED",
+            "farePreference": "",
+            "refundable": true,
+            "refundFees": 2420,
+            "modifiable": true,
+            "modifFees": 11000
+          },
+          "baseFare": 32160,
+          "totalTax": 26414,
+          "totalFare": 60474,
+          "platingAirlineCode": "AH",
+          "platingAirlineDetails": {
+            "Name": "Air Algerie",
+            "IataCode": "AH",
+            "Country": "",
+            "price": 60474
+          },
+          "fareBreakdown": [
+            {
+              "fareBreakdownKey": "3fd0c7ac-f428-4b37-898e-85d55dee1139",
+              "fareType": "STANDARD",
+              "passengerKeys": [
+                "1"
+              ],
+              "paxType": "ADT",
+              "paxRate": {
+                "currency": "DZD",
+                "baseFare": 34060,
+                "totalTax": 26414,
+                "totalFare": 60474
+              }
+            }
+          ],
+          "acdFee": 0
+        },
+        "brandedFare": null,
+        "isUpsellOffer": false,
+        "supplierId": 163
+      },
+      {
+        "offerId": "AMS-26089227-5",
+        "detail": {
+          "hasCodeshare": false,
+          "checkedBaggageIncluded": true,
+          "cabinBaggageIncluded": true,
+          "elapsedDurationTime": 285
+        },
+        "journey": [
+          {
+            "flight": {
+              "flightKey": "6931e7f7-0517-419f-ae91-be808530eabc",
+              "flightInfo": {
+                "duration": "2H30M",
+                "departureDate": "2026-07-09T18:00:00",
+                "arrivalDate": "2026-07-09T21:30:00",
+                "departureTime": "18:00:00",
+                "arrivalTime": "21:30:00",
+                "durationTime": 150,
+                "dayOffset": 0
+              },
+              "segmentReference": {
+                "onPoint": "ALG",
+                "offPoint": "CDG"
+              },
+              "stopQuantity": 0
+            },
+            "flightSegments": [
+              {
+                "segmentKey": "1fcd9240-fb25-48f0-9aa0-48398e5f6c51",
+                "segmentId": "18",
+                "departureAirportCode": "ALG",
+                "departureDateTime": "2026-07-09T18:00:00",
+                "departureTerminal": "4",
+                "arrivalAirportCode": "CDG",
+                "arrivalDateTime": "2026-07-09T21:30:00",
+                "arrivalTerminal": "2D",
+                "duration": "2H30M",
+                "flightNumber": 1230,
+                "layoverTime": "",
+                "resBookDesigCode": "M",
+                "numberInParty": 1,
+                "operatingAirline": "AH",
+                "marketingAirline": "AH",
+                "seatsAvailable": 2,
+                "fareBasis": "MDZFR0BG",
+                "equipmentType": "73H",
+                "equipmentName": "BOEING 737-800 (WINGLETS)",
+                "baggageAllowance": {
+                  "checkedInBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 0,
+                      "unit": "PIECE"
+                    }
+                  ],
+                  "cabinBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ]
+                },
+                "cabinClass": "ECONOMY",
+                "operatingAirlineName": "Air Algerie",
+                "marketingAirlineName": "Air Algerie",
+                "departureAirportDetails": {
+                  "IataCode": "ALG",
+                  "City": "Algiers",
+                  "Country": "DZ",
+                  "Name": "Houari Boumediene"
+                },
+                "arrivalAirportDetails": {
+                  "IataCode": "CDG",
+                  "City": "Paris",
+                  "Country": "FR",
+                  "Name": "Paris Charles de Gaulle Apt"
+                }
+              }
+            ],
+            "brandedFare": null
+          },
+          {
+            "flight": {
+              "flightKey": "98e9789e-541b-4cb2-8086-4e770cc68db0",
+              "flightInfo": {
+                "duration": "2H15M",
+                "departureDate": "2026-07-19T18:30:00",
+                "arrivalDate": "2026-07-19T19:45:00",
+                "departureTime": "18:30:00",
+                "arrivalTime": "19:45:00",
+                "durationTime": 135,
+                "dayOffset": 0
+              },
+              "segmentReference": {
+                "onPoint": "CDG",
+                "offPoint": "ALG"
+              },
+              "stopQuantity": 0
+            },
+            "flightSegments": [
+              {
+                "segmentKey": "abd105b5-93ef-417d-b336-378827a37f2a",
+                "segmentId": "54",
+                "departureAirportCode": "CDG",
+                "departureDateTime": "2026-07-19T18:30:00",
+                "departureTerminal": "2D",
+                "arrivalAirportCode": "ALG",
+                "arrivalDateTime": "2026-07-19T19:45:00",
+                "arrivalTerminal": "4",
+                "duration": "2H15M",
+                "flightNumber": 1233,
+                "layoverTime": "",
+                "resBookDesigCode": "Y",
+                "numberInParty": 1,
+                "operatingAirline": "AH",
+                "marketingAirline": "AH",
+                "seatsAvailable": 2,
+                "fareBasis": "YFRT",
+                "equipmentType": "736",
+                "equipmentName": "BOEING 737-600",
+                "baggageAllowance": {
+                  "checkedInBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ],
+                  "cabinBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ]
+                },
+                "cabinClass": "ECONOMY",
+                "operatingAirlineName": "Air Algerie",
+                "marketingAirlineName": "Air Algerie",
+                "departureAirportDetails": {
+                  "IataCode": "CDG",
+                  "City": "Paris",
+                  "Country": "FR",
+                  "Name": "Paris Charles de Gaulle Apt"
+                },
+                "arrivalAirportDetails": {
+                  "IataCode": "ALG",
+                  "City": "Algiers",
+                  "Country": "DZ",
+                  "Name": "Houari Boumediene"
+                }
+              }
+            ],
+            "brandedFare": null
+          }
+        ],
+        "fare": {
+          "fareKey": "96bfae33-6d88-431c-98ba-3d3c4a9306e7",
+          "currencyCode": "DZD",
+          "fareType": {
+            "fareCode": "PUBLISHED",
+            "farePreference": "",
+            "refundable": true,
+            "refundFees": 2420,
+            "modifiable": true,
+            "modifFees": 11000
+          },
+          "baseFare": 32160,
+          "totalTax": 26414,
+          "totalFare": 60474,
+          "platingAirlineCode": "AH",
+          "platingAirlineDetails": {
+            "Name": "Air Algerie",
+            "IataCode": "AH",
+            "Country": "",
+            "price": 60474
+          },
+          "fareBreakdown": [
+            {
+              "fareBreakdownKey": "9813f7b4-72c3-41e7-aaf5-06f07bc750ac",
+              "fareType": "STANDARD",
+              "passengerKeys": [
+                "1"
+              ],
+              "paxType": "ADT",
+              "paxRate": {
+                "currency": "DZD",
+                "baseFare": 34060,
+                "totalTax": 26414,
+                "totalFare": 60474
+              }
+            }
+          ],
+          "acdFee": 0
+        },
+        "brandedFare": null,
+        "isUpsellOffer": false,
+        "supplierId": 163
+      },
+      {
+        "offerId": "AMS-26089227-6",
+        "detail": {
+          "hasCodeshare": false,
+          "checkedBaggageIncluded": true,
+          "cabinBaggageIncluded": true,
+          "elapsedDurationTime": 285
+        },
+        "journey": [
+          {
+            "flight": {
+              "flightKey": "b3041cd4-d00a-421d-8eb7-2e895dfe7125",
+              "flightInfo": {
+                "duration": "2H30M",
+                "departureDate": "2026-07-09T18:00:00",
+                "arrivalDate": "2026-07-09T21:30:00",
+                "departureTime": "18:00:00",
+                "arrivalTime": "21:30:00",
+                "durationTime": 150,
+                "dayOffset": 0
+              },
+              "segmentReference": {
+                "onPoint": "ALG",
+                "offPoint": "CDG"
+              },
+              "stopQuantity": 0
+            },
+            "flightSegments": [
+              {
+                "segmentKey": "cf31495a-f643-4dc9-9419-010de4d9ff32",
+                "segmentId": "18",
+                "departureAirportCode": "ALG",
+                "departureDateTime": "2026-07-09T18:00:00",
+                "departureTerminal": "4",
+                "arrivalAirportCode": "CDG",
+                "arrivalDateTime": "2026-07-09T21:30:00",
+                "arrivalTerminal": "2D",
+                "duration": "2H30M",
+                "flightNumber": 1230,
+                "layoverTime": "",
+                "resBookDesigCode": "M",
+                "numberInParty": 1,
+                "operatingAirline": "AH",
+                "marketingAirline": "AH",
+                "seatsAvailable": 2,
+                "fareBasis": "MDZFR0BG",
+                "equipmentType": "73H",
+                "equipmentName": "BOEING 737-800 (WINGLETS)",
+                "baggageAllowance": {
+                  "checkedInBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 0,
+                      "unit": "PIECE"
+                    }
+                  ],
+                  "cabinBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ]
+                },
+                "cabinClass": "ECONOMY",
+                "operatingAirlineName": "Air Algerie",
+                "marketingAirlineName": "Air Algerie",
+                "departureAirportDetails": {
+                  "IataCode": "ALG",
+                  "City": "Algiers",
+                  "Country": "DZ",
+                  "Name": "Houari Boumediene"
+                },
+                "arrivalAirportDetails": {
+                  "IataCode": "CDG",
+                  "City": "Paris",
+                  "Country": "FR",
+                  "Name": "Paris Charles de Gaulle Apt"
+                }
+              }
+            ],
+            "brandedFare": null
+          },
+          {
+            "flight": {
+              "flightKey": "63161c96-951c-46e8-b499-c1aaa63742c5",
+              "flightInfo": {
+                "duration": "2H15M",
+                "departureDate": "2026-07-19T20:25:00",
+                "arrivalDate": "2026-07-19T21:40:00",
+                "departureTime": "20:25:00",
+                "arrivalTime": "21:40:00",
+                "durationTime": 135,
+                "dayOffset": 0
+              },
+              "segmentReference": {
+                "onPoint": "CDG",
+                "offPoint": "ALG"
+              },
+              "stopQuantity": 0
+            },
+            "flightSegments": [
+              {
+                "segmentKey": "f6737c2d-db40-4cb1-aeb8-f2781e2bc2c1",
+                "segmentId": "55",
+                "departureAirportCode": "CDG",
+                "departureDateTime": "2026-07-19T20:25:00",
+                "departureTerminal": "2D",
+                "arrivalAirportCode": "ALG",
+                "arrivalDateTime": "2026-07-19T21:40:00",
+                "arrivalTerminal": "4",
+                "duration": "2H15M",
+                "flightNumber": 1235,
+                "layoverTime": "",
+                "resBookDesigCode": "Y",
+                "numberInParty": 1,
+                "operatingAirline": "AH",
+                "marketingAirline": "AH",
+                "seatsAvailable": 2,
+                "fareBasis": "YFRT",
+                "equipmentType": "320",
+                "equipmentName": "AIRBUS A320",
+                "baggageAllowance": {
+                  "checkedInBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ],
+                  "cabinBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ]
+                },
+                "cabinClass": "ECONOMY",
+                "operatingAirlineName": "Air Algerie",
+                "marketingAirlineName": "Air Algerie",
+                "departureAirportDetails": {
+                  "IataCode": "CDG",
+                  "City": "Paris",
+                  "Country": "FR",
+                  "Name": "Paris Charles de Gaulle Apt"
+                },
+                "arrivalAirportDetails": {
+                  "IataCode": "ALG",
+                  "City": "Algiers",
+                  "Country": "DZ",
+                  "Name": "Houari Boumediene"
+                }
+              }
+            ],
+            "brandedFare": null
+          }
+        ],
+        "fare": {
+          "fareKey": "023d42a9-5840-40fb-af7c-fb39d71010c8",
+          "currencyCode": "DZD",
+          "fareType": {
+            "fareCode": "PUBLISHED",
+            "farePreference": "",
+            "refundable": true,
+            "refundFees": 2420,
+            "modifiable": true,
+            "modifFees": 11000
+          },
+          "baseFare": 32160,
+          "totalTax": 26414,
+          "totalFare": 60474,
+          "platingAirlineCode": "AH",
+          "platingAirlineDetails": {
+            "Name": "Air Algerie",
+            "IataCode": "AH",
+            "Country": "",
+            "price": 60474
+          },
+          "fareBreakdown": [
+            {
+              "fareBreakdownKey": "de5777e7-11a0-4b0a-abd6-b5a82f048726",
+              "fareType": "STANDARD",
+              "passengerKeys": [
+                "1"
+              ],
+              "paxType": "ADT",
+              "paxRate": {
+                "currency": "DZD",
+                "baseFare": 34060,
+                "totalTax": 26414,
+                "totalFare": 60474
+              }
+            }
+          ],
+          "acdFee": 0
+        },
+        "brandedFare": null,
+        "isUpsellOffer": false,
+        "supplierId": 163
+      },
+      {
+        "offerId": "AMS-26089227-7",
+        "detail": {
+          "hasCodeshare": false,
+          "checkedBaggageIncluded": true,
+          "cabinBaggageIncluded": true,
+          "elapsedDurationTime": 270
+        },
+        "journey": [
+          {
+            "flight": {
+              "flightKey": "bf2a8a22-883e-467e-b47c-a99716bf442e",
+              "flightInfo": {
+                "duration": "2H20M",
+                "departureDate": "2026-07-09T18:35:00",
+                "arrivalDate": "2026-07-09T21:55:00",
+                "departureTime": "18:35:00",
+                "arrivalTime": "21:55:00",
+                "durationTime": 140,
+                "dayOffset": 0
+              },
+              "segmentReference": {
+                "onPoint": "ALG",
+                "offPoint": "ORY"
+              },
+              "stopQuantity": 0
+            },
+            "flightSegments": [
+              {
+                "segmentKey": "5b64be92-56d9-4471-9532-bd9d470647fe",
+                "segmentId": "9",
+                "departureAirportCode": "ALG",
+                "departureDateTime": "2026-07-09T18:35:00",
+                "departureTerminal": "4",
+                "arrivalAirportCode": "ORY",
+                "arrivalDateTime": "2026-07-09T21:55:00",
+                "arrivalTerminal": "4",
+                "duration": "2H20M",
+                "flightNumber": 1008,
+                "layoverTime": "",
+                "resBookDesigCode": "M",
+                "numberInParty": 1,
+                "operatingAirline": "AH",
+                "marketingAirline": "AH",
+                "seatsAvailable": 1,
+                "fareBasis": "MDZFR0BG",
+                "equipmentType": "73H",
+                "equipmentName": "BOEING 737-800 (WINGLETS)",
+                "baggageAllowance": {
+                  "checkedInBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 0,
+                      "unit": "PIECE"
+                    }
+                  ],
+                  "cabinBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ]
+                },
+                "cabinClass": "ECONOMY",
+                "operatingAirlineName": "Air Algerie",
+                "marketingAirlineName": "Air Algerie",
+                "departureAirportDetails": {
+                  "IataCode": "ALG",
+                  "City": "Algiers",
+                  "Country": "DZ",
+                  "Name": "Houari Boumediene"
+                },
+                "arrivalAirportDetails": {
+                  "IataCode": "ORY",
+                  "City": "Paris",
+                  "Country": "FR",
+                  "Name": "Paris Orly Apt"
+                }
+              }
+            ],
+            "brandedFare": null
+          },
+          {
+            "flight": {
+              "flightKey": "29b27eca-aa74-4113-8af6-2d480fbba81f",
+              "flightInfo": {
+                "duration": "2H10M",
+                "departureDate": "2026-07-19T20:10:00",
+                "arrivalDate": "2026-07-19T21:20:00",
+                "departureTime": "20:10:00",
+                "arrivalTime": "21:20:00",
+                "durationTime": 130,
+                "dayOffset": 0
+              },
+              "segmentReference": {
+                "onPoint": "ORY",
+                "offPoint": "ALG"
+              },
+              "stopQuantity": 0
+            },
+            "flightSegments": [
+              {
+                "segmentKey": "d4e08e94-bb95-428a-afac-84ab6d600469",
+                "segmentId": "48",
+                "departureAirportCode": "ORY",
+                "departureDateTime": "2026-07-19T20:10:00",
+                "departureTerminal": "4",
+                "arrivalAirportCode": "ALG",
+                "arrivalDateTime": "2026-07-19T21:20:00",
+                "arrivalTerminal": "4",
+                "duration": "2H10M",
+                "flightNumber": 1007,
+                "layoverTime": "",
+                "resBookDesigCode": "S",
+                "numberInParty": 1,
+                "operatingAirline": "AH",
+                "marketingAirline": "AH",
+                "seatsAvailable": 1,
+                "fareBasis": "SFRT",
+                "equipmentType": "332",
+                "equipmentName": "AIRBUS A330-200",
+                "baggageAllowance": {
+                  "checkedInBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ],
+                  "cabinBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ]
+                },
+                "cabinClass": "ECONOMY",
+                "operatingAirlineName": "Air Algerie",
+                "marketingAirlineName": "Air Algerie",
+                "departureAirportDetails": {
+                  "IataCode": "ORY",
+                  "City": "Paris",
+                  "Country": "FR",
+                  "Name": "Paris Orly Apt"
+                },
+                "arrivalAirportDetails": {
+                  "IataCode": "ALG",
+                  "City": "Algiers",
+                  "Country": "DZ",
+                  "Name": "Houari Boumediene"
+                }
+              }
+            ],
+            "brandedFare": null
+          }
+        ],
+        "fare": {
+          "fareKey": "106670c8-ac97-4538-af39-bd1070b5e1aa",
+          "currencyCode": "DZD",
+          "fareType": {
+            "fareCode": "PUBLISHED",
+            "farePreference": "",
+            "refundable": true,
+            "refundFees": 2420,
+            "modifiable": true,
+            "modifFees": 11000
+          },
+          "baseFare": 38710,
+          "totalTax": 25939,
+          "totalFare": 66549,
+          "platingAirlineCode": "AH",
+          "platingAirlineDetails": {
+            "Name": "Air Algerie",
+            "IataCode": "AH",
+            "Country": "",
+            "price": 60474
+          },
+          "fareBreakdown": [
+            {
+              "fareBreakdownKey": "60944003-8f83-4616-8f33-88daa591eb31",
+              "fareType": "STANDARD",
+              "passengerKeys": [
+                "1"
+              ],
+              "paxType": "ADT",
+              "paxRate": {
+                "currency": "DZD",
+                "baseFare": 40610,
+                "totalTax": 25939,
+                "totalFare": 66549
+              }
+            }
+          ],
+          "acdFee": 0
+        },
+        "brandedFare": null,
+        "isUpsellOffer": false,
+        "supplierId": 163
+      },
+      {
+        "offerId": "AMS-26089227-8",
+        "detail": {
+          "hasCodeshare": false,
+          "checkedBaggageIncluded": true,
+          "cabinBaggageIncluded": true,
+          "elapsedDurationTime": 280
+        },
+        "journey": [
+          {
+            "flight": {
+              "flightKey": "bf83df85-54ae-4610-8eab-a4fceb28f2b8",
+              "flightInfo": {
+                "duration": "2H30M",
+                "departureDate": "2026-07-09T18:00:00",
+                "arrivalDate": "2026-07-09T21:30:00",
+                "departureTime": "18:00:00",
+                "arrivalTime": "21:30:00",
+                "durationTime": 150,
+                "dayOffset": 0
+              },
+              "segmentReference": {
+                "onPoint": "ALG",
+                "offPoint": "CDG"
+              },
+              "stopQuantity": 0
+            },
+            "flightSegments": [
+              {
+                "segmentKey": "6fa637f5-b5c1-46c8-a676-c3c462d4281c",
+                "segmentId": "18",
+                "departureAirportCode": "ALG",
+                "departureDateTime": "2026-07-09T18:00:00",
+                "departureTerminal": "4",
+                "arrivalAirportCode": "CDG",
+                "arrivalDateTime": "2026-07-09T21:30:00",
+                "arrivalTerminal": "2D",
+                "duration": "2H30M",
+                "flightNumber": 1230,
+                "layoverTime": "",
+                "resBookDesigCode": "M",
+                "numberInParty": 1,
+                "operatingAirline": "AH",
+                "marketingAirline": "AH",
+                "seatsAvailable": 1,
+                "fareBasis": "MDZFR0BG",
+                "equipmentType": "73H",
+                "equipmentName": "BOEING 737-800 (WINGLETS)",
+                "baggageAllowance": {
+                  "checkedInBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 0,
+                      "unit": "PIECE"
+                    }
+                  ],
+                  "cabinBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ]
+                },
+                "cabinClass": "ECONOMY",
+                "operatingAirlineName": "Air Algerie",
+                "marketingAirlineName": "Air Algerie",
+                "departureAirportDetails": {
+                  "IataCode": "ALG",
+                  "City": "Algiers",
+                  "Country": "DZ",
+                  "Name": "Houari Boumediene"
+                },
+                "arrivalAirportDetails": {
+                  "IataCode": "CDG",
+                  "City": "Paris",
+                  "Country": "FR",
+                  "Name": "Paris Charles de Gaulle Apt"
+                }
+              }
+            ],
+            "brandedFare": null
+          },
+          {
+            "flight": {
+              "flightKey": "c91fe8c7-8c88-4ce2-8148-497d5ca41aa5",
+              "flightInfo": {
+                "duration": "2H10M",
+                "departureDate": "2026-07-19T20:10:00",
+                "arrivalDate": "2026-07-19T21:20:00",
+                "departureTime": "20:10:00",
+                "arrivalTime": "21:20:00",
+                "durationTime": 130,
+                "dayOffset": 0
+              },
+              "segmentReference": {
+                "onPoint": "ORY",
+                "offPoint": "ALG"
+              },
+              "stopQuantity": 0
+            },
+            "flightSegments": [
+              {
+                "segmentKey": "feed0c09-cd12-490c-b6b0-77ba5719798e",
+                "segmentId": "48",
+                "departureAirportCode": "ORY",
+                "departureDateTime": "2026-07-19T20:10:00",
+                "departureTerminal": "4",
+                "arrivalAirportCode": "ALG",
+                "arrivalDateTime": "2026-07-19T21:20:00",
+                "arrivalTerminal": "4",
+                "duration": "2H10M",
+                "flightNumber": 1007,
+                "layoverTime": "",
+                "resBookDesigCode": "S",
+                "numberInParty": 1,
+                "operatingAirline": "AH",
+                "marketingAirline": "AH",
+                "seatsAvailable": 1,
+                "fareBasis": "SFRT",
+                "equipmentType": "332",
+                "equipmentName": "AIRBUS A330-200",
+                "baggageAllowance": {
+                  "checkedInBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ],
+                  "cabinBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ]
+                },
+                "cabinClass": "ECONOMY",
+                "operatingAirlineName": "Air Algerie",
+                "marketingAirlineName": "Air Algerie",
+                "departureAirportDetails": {
+                  "IataCode": "ORY",
+                  "City": "Paris",
+                  "Country": "FR",
+                  "Name": "Paris Orly Apt"
+                },
+                "arrivalAirportDetails": {
+                  "IataCode": "ALG",
+                  "City": "Algiers",
+                  "Country": "DZ",
+                  "Name": "Houari Boumediene"
+                }
+              }
+            ],
+            "brandedFare": null
+          }
+        ],
+        "fare": {
+          "fareKey": "9415f61b-4972-4217-9b1b-8b4561b7e15e",
+          "currencyCode": "DZD",
+          "fareType": {
+            "fareCode": "PUBLISHED",
+            "farePreference": "",
+            "refundable": true,
+            "refundFees": 2420,
+            "modifiable": true,
+            "modifFees": 11000
+          },
+          "baseFare": 38710,
+          "totalTax": 25939,
+          "totalFare": 66549,
+          "platingAirlineCode": "AH",
+          "platingAirlineDetails": {
+            "Name": "Air Algerie",
+            "IataCode": "AH",
+            "Country": "",
+            "price": 60474
+          },
+          "fareBreakdown": [
+            {
+              "fareBreakdownKey": "3e8bb9db-83f6-4901-a365-d8b4d19e3682",
+              "fareType": "STANDARD",
+              "passengerKeys": [
+                "1"
+              ],
+              "paxType": "ADT",
+              "paxRate": {
+                "currency": "DZD",
+                "baseFare": 40610,
+                "totalTax": 25939,
+                "totalFare": 66549
+              }
+            }
+          ],
+          "acdFee": 0
+        },
+        "brandedFare": null,
+        "isUpsellOffer": false,
+        "supplierId": 163
+      },
+      {
+        "offerId": "AMS-26089227-9",
+        "detail": {
+          "hasCodeshare": false,
+          "checkedBaggageIncluded": true,
+          "cabinBaggageIncluded": true,
+          "elapsedDurationTime": 275
+        },
+        "journey": [
+          {
+            "flight": {
+              "flightKey": "3366fd6f-fa92-46b0-84d4-f7c1c9f8cb02",
+              "flightInfo": {
+                "duration": "2H20M",
+                "departureDate": "2026-07-09T18:35:00",
+                "arrivalDate": "2026-07-09T21:55:00",
+                "departureTime": "18:35:00",
+                "arrivalTime": "21:55:00",
+                "durationTime": 140,
+                "dayOffset": 0
+              },
+              "segmentReference": {
+                "onPoint": "ALG",
+                "offPoint": "ORY"
+              },
+              "stopQuantity": 0
+            },
+            "flightSegments": [
+              {
+                "segmentKey": "ea2d259c-5cf8-49f8-83a4-16d42f4a4034",
+                "segmentId": "9",
+                "departureAirportCode": "ALG",
+                "departureDateTime": "2026-07-09T18:35:00",
+                "departureTerminal": "4",
+                "arrivalAirportCode": "ORY",
+                "arrivalDateTime": "2026-07-09T21:55:00",
+                "arrivalTerminal": "4",
+                "duration": "2H20M",
+                "flightNumber": 1008,
+                "layoverTime": "",
+                "resBookDesigCode": "M",
+                "numberInParty": 1,
+                "operatingAirline": "AH",
+                "marketingAirline": "AH",
+                "seatsAvailable": 5,
+                "fareBasis": "MDZFR0BG",
+                "equipmentType": "73H",
+                "equipmentName": "BOEING 737-800 (WINGLETS)",
+                "baggageAllowance": {
+                  "checkedInBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 0,
+                      "unit": "PIECE"
+                    }
+                  ],
+                  "cabinBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ]
+                },
+                "cabinClass": "ECONOMY",
+                "operatingAirlineName": "Air Algerie",
+                "marketingAirlineName": "Air Algerie",
+                "departureAirportDetails": {
+                  "IataCode": "ALG",
+                  "City": "Algiers",
+                  "Country": "DZ",
+                  "Name": "Houari Boumediene"
+                },
+                "arrivalAirportDetails": {
+                  "IataCode": "ORY",
+                  "City": "Paris",
+                  "Country": "FR",
+                  "Name": "Paris Orly Apt"
+                }
+              }
+            ],
+            "brandedFare": null
+          },
+          {
+            "flight": {
+              "flightKey": "718b16a1-a20e-489c-997b-fbb87b438f8c",
+              "flightInfo": {
+                "duration": "2H15M",
+                "departureDate": "2026-07-19T09:00:00",
+                "arrivalDate": "2026-07-19T10:15:00",
+                "departureTime": "09:00:00",
+                "arrivalTime": "10:15:00",
+                "durationTime": 135,
+                "dayOffset": 0
+              },
+              "segmentReference": {
+                "onPoint": "CDG",
+                "offPoint": "ALG"
+              },
+              "stopQuantity": 0
+            },
+            "flightSegments": [
+              {
+                "segmentKey": "6e80c2df-b298-4ed1-9715-ddf42c1ae965",
+                "segmentId": "51",
+                "departureAirportCode": "CDG",
+                "departureDateTime": "2026-07-19T09:00:00",
+                "departureTerminal": "2D",
+                "arrivalAirportCode": "ALG",
+                "arrivalDateTime": "2026-07-19T10:15:00",
+                "arrivalTerminal": "4",
+                "duration": "2H15M",
+                "flightNumber": 1231,
+                "layoverTime": "",
+                "resBookDesigCode": "S",
+                "numberInParty": 1,
+                "operatingAirline": "AH",
+                "marketingAirline": "AH",
+                "seatsAvailable": 5,
+                "fareBasis": "SFRT",
+                "equipmentType": "73H",
+                "equipmentName": "BOEING 737-800 (WINGLETS)",
+                "baggageAllowance": {
+                  "checkedInBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ],
+                  "cabinBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ]
+                },
+                "cabinClass": "ECONOMY",
+                "operatingAirlineName": "Air Algerie",
+                "marketingAirlineName": "Air Algerie",
+                "departureAirportDetails": {
+                  "IataCode": "CDG",
+                  "City": "Paris",
+                  "Country": "FR",
+                  "Name": "Paris Charles de Gaulle Apt"
+                },
+                "arrivalAirportDetails": {
+                  "IataCode": "ALG",
+                  "City": "Algiers",
+                  "Country": "DZ",
+                  "Name": "Houari Boumediene"
+                }
+              }
+            ],
+            "brandedFare": null
+          }
+        ],
+        "fare": {
+          "fareKey": "b2d79af1-49df-44ae-845f-ef6c25474e9a",
+          "currencyCode": "DZD",
+          "fareType": {
+            "fareCode": "PUBLISHED",
+            "farePreference": "",
+            "refundable": true,
+            "refundFees": 2420,
+            "modifiable": true,
+            "modifFees": 11000
+          },
+          "baseFare": 38710,
+          "totalTax": 26414,
+          "totalFare": 67024,
+          "platingAirlineCode": "AH",
+          "platingAirlineDetails": {
+            "Name": "Air Algerie",
+            "IataCode": "AH",
+            "Country": "",
+            "price": 60474
+          },
+          "fareBreakdown": [
+            {
+              "fareBreakdownKey": "af22a765-c777-4d5f-903d-1cc70c758cb0",
+              "fareType": "STANDARD",
+              "passengerKeys": [
+                "1"
+              ],
+              "paxType": "ADT",
+              "paxRate": {
+                "currency": "DZD",
+                "baseFare": 40610,
+                "totalTax": 26414,
+                "totalFare": 67024
+              }
+            }
+          ],
+          "acdFee": 0
+        },
+        "brandedFare": null,
+        "isUpsellOffer": false,
+        "supplierId": 163
+      },
+      {
+        "offerId": "AMS-26089227-10",
+        "detail": {
+          "hasCodeshare": false,
+          "checkedBaggageIncluded": true,
+          "cabinBaggageIncluded": true,
+          "elapsedDurationTime": 275
+        },
+        "journey": [
+          {
+            "flight": {
+              "flightKey": "36f3ff7b-98ae-4707-bd44-e48061e07dbc",
+              "flightInfo": {
+                "duration": "2H20M",
+                "departureDate": "2026-07-09T18:35:00",
+                "arrivalDate": "2026-07-09T21:55:00",
+                "departureTime": "18:35:00",
+                "arrivalTime": "21:55:00",
+                "durationTime": 140,
+                "dayOffset": 0
+              },
+              "segmentReference": {
+                "onPoint": "ALG",
+                "offPoint": "ORY"
+              },
+              "stopQuantity": 0
+            },
+            "flightSegments": [
+              {
+                "segmentKey": "4b835de7-34ed-4427-8a9f-c3d1bc218325",
+                "segmentId": "9",
+                "departureAirportCode": "ALG",
+                "departureDateTime": "2026-07-09T18:35:00",
+                "departureTerminal": "4",
+                "arrivalAirportCode": "ORY",
+                "arrivalDateTime": "2026-07-09T21:55:00",
+                "arrivalTerminal": "4",
+                "duration": "2H20M",
+                "flightNumber": 1008,
+                "layoverTime": "",
+                "resBookDesigCode": "M",
+                "numberInParty": 1,
+                "operatingAirline": "AH",
+                "marketingAirline": "AH",
+                "seatsAvailable": 1,
+                "fareBasis": "MDZFR0BG",
+                "equipmentType": "73H",
+                "equipmentName": "BOEING 737-800 (WINGLETS)",
+                "baggageAllowance": {
+                  "checkedInBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 0,
+                      "unit": "PIECE"
+                    }
+                  ],
+                  "cabinBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ]
+                },
+                "cabinClass": "ECONOMY",
+                "operatingAirlineName": "Air Algerie",
+                "marketingAirlineName": "Air Algerie",
+                "departureAirportDetails": {
+                  "IataCode": "ALG",
+                  "City": "Algiers",
+                  "Country": "DZ",
+                  "Name": "Houari Boumediene"
+                },
+                "arrivalAirportDetails": {
+                  "IataCode": "ORY",
+                  "City": "Paris",
+                  "Country": "FR",
+                  "Name": "Paris Orly Apt"
+                }
+              }
+            ],
+            "brandedFare": null
+          },
+          {
+            "flight": {
+              "flightKey": "3e26d7b9-4da7-4dbc-97a2-676b7773438a",
+              "flightInfo": {
+                "duration": "2H15M",
+                "departureDate": "2026-07-19T18:00:00",
+                "arrivalDate": "2026-07-19T19:15:00",
+                "departureTime": "18:00:00",
+                "arrivalTime": "19:15:00",
+                "durationTime": 135,
+                "dayOffset": 0
+              },
+              "segmentReference": {
+                "onPoint": "CDG",
+                "offPoint": "ALG"
+              },
+              "stopQuantity": 0
+            },
+            "flightSegments": [
+              {
+                "segmentKey": "3a46e2f8-d53d-4860-80a3-055bb8ae4229",
+                "segmentId": "53",
+                "departureAirportCode": "CDG",
+                "departureDateTime": "2026-07-19T18:00:00",
+                "departureTerminal": "2D",
+                "arrivalAirportCode": "ALG",
+                "arrivalDateTime": "2026-07-19T19:15:00",
+                "arrivalTerminal": "4",
+                "duration": "2H15M",
+                "flightNumber": 1215,
+                "layoverTime": "",
+                "resBookDesigCode": "S",
+                "numberInParty": 1,
+                "operatingAirline": "AH",
+                "marketingAirline": "AH",
+                "seatsAvailable": 1,
+                "fareBasis": "SFRT",
+                "equipmentType": "73H",
+                "equipmentName": "BOEING 737-800 (WINGLETS)",
+                "baggageAllowance": {
+                  "checkedInBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ],
+                  "cabinBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ]
+                },
+                "cabinClass": "ECONOMY",
+                "operatingAirlineName": "Air Algerie",
+                "marketingAirlineName": "Air Algerie",
+                "departureAirportDetails": {
+                  "IataCode": "CDG",
+                  "City": "Paris",
+                  "Country": "FR",
+                  "Name": "Paris Charles de Gaulle Apt"
+                },
+                "arrivalAirportDetails": {
+                  "IataCode": "ALG",
+                  "City": "Algiers",
+                  "Country": "DZ",
+                  "Name": "Houari Boumediene"
+                }
+              }
+            ],
+            "brandedFare": null
+          }
+        ],
+        "fare": {
+          "fareKey": "88c96c1b-cbfa-4c87-8bc2-9b185ea24e7e",
+          "currencyCode": "DZD",
+          "fareType": {
+            "fareCode": "PUBLISHED",
+            "farePreference": "",
+            "refundable": true,
+            "refundFees": 2420,
+            "modifiable": true,
+            "modifFees": 11000
+          },
+          "baseFare": 38710,
+          "totalTax": 26414,
+          "totalFare": 67024,
+          "platingAirlineCode": "AH",
+          "platingAirlineDetails": {
+            "Name": "Air Algerie",
+            "IataCode": "AH",
+            "Country": "",
+            "price": 60474
+          },
+          "fareBreakdown": [
+            {
+              "fareBreakdownKey": "ae5de025-ed6a-4b16-89d0-01cfe35e640b",
+              "fareType": "STANDARD",
+              "passengerKeys": [
+                "1"
+              ],
+              "paxType": "ADT",
+              "paxRate": {
+                "currency": "DZD",
+                "baseFare": 40610,
+                "totalTax": 26414,
+                "totalFare": 67024
+              }
+            }
+          ],
+          "acdFee": 0
+        },
+        "brandedFare": null,
+        "isUpsellOffer": false,
+        "supplierId": 163
+      },
+      {
+        "offerId": "AMS-26089227-11",
+        "detail": {
+          "hasCodeshare": false,
+          "checkedBaggageIncluded": true,
+          "cabinBaggageIncluded": true,
+          "elapsedDurationTime": 275
+        },
+        "journey": [
+          {
+            "flight": {
+              "flightKey": "0751a73d-1c4d-4cda-afdb-a20034e588b0",
+              "flightInfo": {
+                "duration": "2H20M",
+                "departureDate": "2026-07-09T18:35:00",
+                "arrivalDate": "2026-07-09T21:55:00",
+                "departureTime": "18:35:00",
+                "arrivalTime": "21:55:00",
+                "durationTime": 140,
+                "dayOffset": 0
+              },
+              "segmentReference": {
+                "onPoint": "ALG",
+                "offPoint": "ORY"
+              },
+              "stopQuantity": 0
+            },
+            "flightSegments": [
+              {
+                "segmentKey": "3da11a19-d3ba-4690-8779-9905a26c9f2e",
+                "segmentId": "9",
+                "departureAirportCode": "ALG",
+                "departureDateTime": "2026-07-09T18:35:00",
+                "departureTerminal": "4",
+                "arrivalAirportCode": "ORY",
+                "arrivalDateTime": "2026-07-09T21:55:00",
+                "arrivalTerminal": "4",
+                "duration": "2H20M",
+                "flightNumber": 1008,
+                "layoverTime": "",
+                "resBookDesigCode": "M",
+                "numberInParty": 1,
+                "operatingAirline": "AH",
+                "marketingAirline": "AH",
+                "seatsAvailable": 9,
+                "fareBasis": "MDZFR0BG",
+                "equipmentType": "73H",
+                "equipmentName": "BOEING 737-800 (WINGLETS)",
+                "baggageAllowance": {
+                  "checkedInBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 0,
+                      "unit": "PIECE"
+                    }
+                  ],
+                  "cabinBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ]
+                },
+                "cabinClass": "ECONOMY",
+                "operatingAirlineName": "Air Algerie",
+                "marketingAirlineName": "Air Algerie",
+                "departureAirportDetails": {
+                  "IataCode": "ALG",
+                  "City": "Algiers",
+                  "Country": "DZ",
+                  "Name": "Houari Boumediene"
+                },
+                "arrivalAirportDetails": {
+                  "IataCode": "ORY",
+                  "City": "Paris",
+                  "Country": "FR",
+                  "Name": "Paris Orly Apt"
+                }
+              }
+            ],
+            "brandedFare": null
+          },
+          {
+            "flight": {
+              "flightKey": "df2d5c8c-a4c9-4966-8674-e0fa85757032",
+              "flightInfo": {
+                "duration": "2H15M",
+                "departureDate": "2026-07-19T20:35:00",
+                "arrivalDate": "2026-07-19T21:50:00",
+                "departureTime": "20:35:00",
+                "arrivalTime": "21:50:00",
+                "durationTime": 135,
+                "dayOffset": 0
+              },
+              "segmentReference": {
+                "onPoint": "CDG",
+                "offPoint": "ALG"
+              },
+              "stopQuantity": 0
+            },
+            "flightSegments": [
+              {
+                "segmentKey": "272fba8c-3898-476a-92f4-6cc076e3ae44",
+                "segmentId": "56",
+                "departureAirportCode": "CDG",
+                "departureDateTime": "2026-07-19T20:35:00",
+                "departureTerminal": "2D",
+                "arrivalAirportCode": "ALG",
+                "arrivalDateTime": "2026-07-19T21:50:00",
+                "arrivalTerminal": "4",
+                "duration": "2H15M",
+                "flightNumber": 1543,
+                "layoverTime": "",
+                "resBookDesigCode": "S",
+                "numberInParty": 1,
+                "operatingAirline": "AH",
+                "marketingAirline": "AH",
+                "seatsAvailable": 9,
+                "fareBasis": "SFRT",
+                "equipmentType": "320",
+                "equipmentName": "AIRBUS A320",
+                "baggageAllowance": {
+                  "checkedInBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ],
+                  "cabinBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ]
+                },
+                "cabinClass": "ECONOMY",
+                "operatingAirlineName": "Air Algerie",
+                "marketingAirlineName": "Air Algerie",
+                "departureAirportDetails": {
+                  "IataCode": "CDG",
+                  "City": "Paris",
+                  "Country": "FR",
+                  "Name": "Paris Charles de Gaulle Apt"
+                },
+                "arrivalAirportDetails": {
+                  "IataCode": "ALG",
+                  "City": "Algiers",
+                  "Country": "DZ",
+                  "Name": "Houari Boumediene"
+                }
+              }
+            ],
+            "brandedFare": null
+          }
+        ],
+        "fare": {
+          "fareKey": "53547717-03bf-4991-8092-ece18cb6ad90",
+          "currencyCode": "DZD",
+          "fareType": {
+            "fareCode": "PUBLISHED",
+            "farePreference": "",
+            "refundable": true,
+            "refundFees": 2420,
+            "modifiable": true,
+            "modifFees": 11000
+          },
+          "baseFare": 38710,
+          "totalTax": 26414,
+          "totalFare": 67024,
+          "platingAirlineCode": "AH",
+          "platingAirlineDetails": {
+            "Name": "Air Algerie",
+            "IataCode": "AH",
+            "Country": "",
+            "price": 60474
+          },
+          "fareBreakdown": [
+            {
+              "fareBreakdownKey": "3719d991-cc5f-45bc-92da-9c9507c056c0",
+              "fareType": "STANDARD",
+              "passengerKeys": [
+                "1"
+              ],
+              "paxType": "ADT",
+              "paxRate": {
+                "currency": "DZD",
+                "baseFare": 40610,
+                "totalTax": 26414,
+                "totalFare": 67024
+              }
+            }
+          ],
+          "acdFee": 0
+        },
+        "brandedFare": null,
+        "isUpsellOffer": false,
+        "supplierId": 163
+      },
+      {
+        "offerId": "AMS-26089227-12",
+        "detail": {
+          "hasCodeshare": false,
+          "checkedBaggageIncluded": true,
+          "cabinBaggageIncluded": true,
+          "elapsedDurationTime": 275
+        },
+        "journey": [
+          {
+            "flight": {
+              "flightKey": "59661cc4-365f-4116-9134-5820b4e18f20",
+              "flightInfo": {
+                "duration": "2H20M",
+                "departureDate": "2026-07-09T18:35:00",
+                "arrivalDate": "2026-07-09T21:55:00",
+                "departureTime": "18:35:00",
+                "arrivalTime": "21:55:00",
+                "durationTime": 140,
+                "dayOffset": 0
+              },
+              "segmentReference": {
+                "onPoint": "ALG",
+                "offPoint": "ORY"
+              },
+              "stopQuantity": 0
+            },
+            "flightSegments": [
+              {
+                "segmentKey": "f009c0f0-9e7b-4ac6-a5f5-4f3d2b46918c",
+                "segmentId": "9",
+                "departureAirportCode": "ALG",
+                "departureDateTime": "2026-07-09T18:35:00",
+                "departureTerminal": "4",
+                "arrivalAirportCode": "ORY",
+                "arrivalDateTime": "2026-07-09T21:55:00",
+                "arrivalTerminal": "4",
+                "duration": "2H20M",
+                "flightNumber": 1008,
+                "layoverTime": "",
+                "resBookDesigCode": "M",
+                "numberInParty": 1,
+                "operatingAirline": "AH",
+                "marketingAirline": "AH",
+                "seatsAvailable": 4,
+                "fareBasis": "MDZFR0BG",
+                "equipmentType": "73H",
+                "equipmentName": "BOEING 737-800 (WINGLETS)",
+                "baggageAllowance": {
+                  "checkedInBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 0,
+                      "unit": "PIECE"
+                    }
+                  ],
+                  "cabinBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ]
+                },
+                "cabinClass": "ECONOMY",
+                "operatingAirlineName": "Air Algerie",
+                "marketingAirlineName": "Air Algerie",
+                "departureAirportDetails": {
+                  "IataCode": "ALG",
+                  "City": "Algiers",
+                  "Country": "DZ",
+                  "Name": "Houari Boumediene"
+                },
+                "arrivalAirportDetails": {
+                  "IataCode": "ORY",
+                  "City": "Paris",
+                  "Country": "FR",
+                  "Name": "Paris Orly Apt"
+                }
+              }
+            ],
+            "brandedFare": null
+          },
+          {
+            "flight": {
+              "flightKey": "d452b1c6-9933-4b2f-a799-ac789d412b69",
+              "flightInfo": {
+                "duration": "2H15M",
+                "departureDate": "2026-07-19T21:40:00",
+                "arrivalDate": "2026-07-19T22:55:00",
+                "departureTime": "21:40:00",
+                "arrivalTime": "22:55:00",
+                "durationTime": 135,
+                "dayOffset": 0
+              },
+              "segmentReference": {
+                "onPoint": "CDG",
+                "offPoint": "ALG"
+              },
+              "stopQuantity": 0
+            },
+            "flightSegments": [
+              {
+                "segmentKey": "f988692e-42cb-4ac2-9756-ed7330e4404d",
+                "segmentId": "57",
+                "departureAirportCode": "CDG",
+                "departureDateTime": "2026-07-19T21:40:00",
+                "departureTerminal": "2D",
+                "arrivalAirportCode": "ALG",
+                "arrivalDateTime": "2026-07-19T22:55:00",
+                "arrivalTerminal": "4",
+                "duration": "2H15M",
+                "flightNumber": 1013,
+                "layoverTime": "",
+                "resBookDesigCode": "S",
+                "numberInParty": 1,
+                "operatingAirline": "AH",
+                "marketingAirline": "AH",
+                "seatsAvailable": 4,
+                "fareBasis": "SFRT",
+                "equipmentType": "320",
+                "equipmentName": "AIRBUS A320",
+                "baggageAllowance": {
+                  "checkedInBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ],
+                  "cabinBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ]
+                },
+                "cabinClass": "ECONOMY",
+                "operatingAirlineName": "Air Algerie",
+                "marketingAirlineName": "Air Algerie",
+                "departureAirportDetails": {
+                  "IataCode": "CDG",
+                  "City": "Paris",
+                  "Country": "FR",
+                  "Name": "Paris Charles de Gaulle Apt"
+                },
+                "arrivalAirportDetails": {
+                  "IataCode": "ALG",
+                  "City": "Algiers",
+                  "Country": "DZ",
+                  "Name": "Houari Boumediene"
+                }
+              }
+            ],
+            "brandedFare": null
+          }
+        ],
+        "fare": {
+          "fareKey": "8a01c66f-89dd-4deb-9103-3a482c139374",
+          "currencyCode": "DZD",
+          "fareType": {
+            "fareCode": "PUBLISHED",
+            "farePreference": "",
+            "refundable": true,
+            "refundFees": 2420,
+            "modifiable": true,
+            "modifFees": 11000
+          },
+          "baseFare": 38710,
+          "totalTax": 26414,
+          "totalFare": 67024,
+          "platingAirlineCode": "AH",
+          "platingAirlineDetails": {
+            "Name": "Air Algerie",
+            "IataCode": "AH",
+            "Country": "",
+            "price": 60474
+          },
+          "fareBreakdown": [
+            {
+              "fareBreakdownKey": "9ca69399-7be0-43ba-b184-3fd409352a4f",
+              "fareType": "STANDARD",
+              "passengerKeys": [
+                "1"
+              ],
+              "paxType": "ADT",
+              "paxRate": {
+                "currency": "DZD",
+                "baseFare": 40610,
+                "totalTax": 26414,
+                "totalFare": 67024
+              }
+            }
+          ],
+          "acdFee": 0
+        },
+        "brandedFare": null,
+        "isUpsellOffer": false,
+        "supplierId": 163
+      },
+      {
+        "offerId": "AMS-26089227-13",
+        "detail": {
+          "hasCodeshare": false,
+          "checkedBaggageIncluded": true,
+          "cabinBaggageIncluded": true,
+          "elapsedDurationTime": 285
+        },
+        "journey": [
+          {
+            "flight": {
+              "flightKey": "19b1c424-f6db-4d99-98af-e7a0e72ed31b",
+              "flightInfo": {
+                "duration": "2H30M",
+                "departureDate": "2026-07-09T18:00:00",
+                "arrivalDate": "2026-07-09T21:30:00",
+                "departureTime": "18:00:00",
+                "arrivalTime": "21:30:00",
+                "durationTime": 150,
+                "dayOffset": 0
+              },
+              "segmentReference": {
+                "onPoint": "ALG",
+                "offPoint": "CDG"
+              },
+              "stopQuantity": 0
+            },
+            "flightSegments": [
+              {
+                "segmentKey": "80980fbe-5a07-44ea-85d4-ae329cd7f2fe",
+                "segmentId": "18",
+                "departureAirportCode": "ALG",
+                "departureDateTime": "2026-07-09T18:00:00",
+                "departureTerminal": "4",
+                "arrivalAirportCode": "CDG",
+                "arrivalDateTime": "2026-07-09T21:30:00",
+                "arrivalTerminal": "2D",
+                "duration": "2H30M",
+                "flightNumber": 1230,
+                "layoverTime": "",
+                "resBookDesigCode": "M",
+                "numberInParty": 1,
+                "operatingAirline": "AH",
+                "marketingAirline": "AH",
+                "seatsAvailable": 2,
+                "fareBasis": "MDZFR0BG",
+                "equipmentType": "73H",
+                "equipmentName": "BOEING 737-800 (WINGLETS)",
+                "baggageAllowance": {
+                  "checkedInBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 0,
+                      "unit": "PIECE"
+                    }
+                  ],
+                  "cabinBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ]
+                },
+                "cabinClass": "ECONOMY",
+                "operatingAirlineName": "Air Algerie",
+                "marketingAirlineName": "Air Algerie",
+                "departureAirportDetails": {
+                  "IataCode": "ALG",
+                  "City": "Algiers",
+                  "Country": "DZ",
+                  "Name": "Houari Boumediene"
+                },
+                "arrivalAirportDetails": {
+                  "IataCode": "CDG",
+                  "City": "Paris",
+                  "Country": "FR",
+                  "Name": "Paris Charles de Gaulle Apt"
+                }
+              }
+            ],
+            "brandedFare": null
+          },
+          {
+            "flight": {
+              "flightKey": "c3a1c52f-6d44-4903-a269-8d56953bc1ec",
+              "flightInfo": {
+                "duration": "2H15M",
+                "departureDate": "2026-07-19T09:00:00",
+                "arrivalDate": "2026-07-19T10:15:00",
+                "departureTime": "09:00:00",
+                "arrivalTime": "10:15:00",
+                "durationTime": 135,
+                "dayOffset": 0
+              },
+              "segmentReference": {
+                "onPoint": "CDG",
+                "offPoint": "ALG"
+              },
+              "stopQuantity": 0
+            },
+            "flightSegments": [
+              {
+                "segmentKey": "0ba7d4e0-5b21-4f64-8fdf-4b548ae4dc0c",
+                "segmentId": "51",
+                "departureAirportCode": "CDG",
+                "departureDateTime": "2026-07-19T09:00:00",
+                "departureTerminal": "2D",
+                "arrivalAirportCode": "ALG",
+                "arrivalDateTime": "2026-07-19T10:15:00",
+                "arrivalTerminal": "4",
+                "duration": "2H15M",
+                "flightNumber": 1231,
+                "layoverTime": "",
+                "resBookDesigCode": "S",
+                "numberInParty": 1,
+                "operatingAirline": "AH",
+                "marketingAirline": "AH",
+                "seatsAvailable": 2,
+                "fareBasis": "SFRT",
+                "equipmentType": "73H",
+                "equipmentName": "BOEING 737-800 (WINGLETS)",
+                "baggageAllowance": {
+                  "checkedInBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ],
+                  "cabinBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ]
+                },
+                "cabinClass": "ECONOMY",
+                "operatingAirlineName": "Air Algerie",
+                "marketingAirlineName": "Air Algerie",
+                "departureAirportDetails": {
+                  "IataCode": "CDG",
+                  "City": "Paris",
+                  "Country": "FR",
+                  "Name": "Paris Charles de Gaulle Apt"
+                },
+                "arrivalAirportDetails": {
+                  "IataCode": "ALG",
+                  "City": "Algiers",
+                  "Country": "DZ",
+                  "Name": "Houari Boumediene"
+                }
+              }
+            ],
+            "brandedFare": null
+          }
+        ],
+        "fare": {
+          "fareKey": "b37a1e5d-0982-4eaf-aa8a-4f16017969a0",
+          "currencyCode": "DZD",
+          "fareType": {
+            "fareCode": "PUBLISHED",
+            "farePreference": "",
+            "refundable": true,
+            "refundFees": 2420,
+            "modifiable": true,
+            "modifFees": 11000
+          },
+          "baseFare": 38710,
+          "totalTax": 26414,
+          "totalFare": 67024,
+          "platingAirlineCode": "AH",
+          "platingAirlineDetails": {
+            "Name": "Air Algerie",
+            "IataCode": "AH",
+            "Country": "",
+            "price": 60474
+          },
+          "fareBreakdown": [
+            {
+              "fareBreakdownKey": "ae14012e-139e-471d-98c4-469b56e16fee",
+              "fareType": "STANDARD",
+              "passengerKeys": [
+                "1"
+              ],
+              "paxType": "ADT",
+              "paxRate": {
+                "currency": "DZD",
+                "baseFare": 40610,
+                "totalTax": 26414,
+                "totalFare": 67024
+              }
+            }
+          ],
+          "acdFee": 0
+        },
+        "brandedFare": null,
+        "isUpsellOffer": false,
+        "supplierId": 163
+      },
+      {
+        "offerId": "AMS-26089227-14",
+        "detail": {
+          "hasCodeshare": false,
+          "checkedBaggageIncluded": true,
+          "cabinBaggageIncluded": true,
+          "elapsedDurationTime": 285
+        },
+        "journey": [
+          {
+            "flight": {
+              "flightKey": "225f61c7-593a-4a67-9c13-96ee75de15cb",
+              "flightInfo": {
+                "duration": "2H30M",
+                "departureDate": "2026-07-09T18:00:00",
+                "arrivalDate": "2026-07-09T21:30:00",
+                "departureTime": "18:00:00",
+                "arrivalTime": "21:30:00",
+                "durationTime": 150,
+                "dayOffset": 0
+              },
+              "segmentReference": {
+                "onPoint": "ALG",
+                "offPoint": "CDG"
+              },
+              "stopQuantity": 0
+            },
+            "flightSegments": [
+              {
+                "segmentKey": "1b5f2f61-1a71-40d0-8103-32f928869913",
+                "segmentId": "18",
+                "departureAirportCode": "ALG",
+                "departureDateTime": "2026-07-09T18:00:00",
+                "departureTerminal": "4",
+                "arrivalAirportCode": "CDG",
+                "arrivalDateTime": "2026-07-09T21:30:00",
+                "arrivalTerminal": "2D",
+                "duration": "2H30M",
+                "flightNumber": 1230,
+                "layoverTime": "",
+                "resBookDesigCode": "M",
+                "numberInParty": 1,
+                "operatingAirline": "AH",
+                "marketingAirline": "AH",
+                "seatsAvailable": 1,
+                "fareBasis": "MDZFR0BG",
+                "equipmentType": "73H",
+                "equipmentName": "BOEING 737-800 (WINGLETS)",
+                "baggageAllowance": {
+                  "checkedInBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 0,
+                      "unit": "PIECE"
+                    }
+                  ],
+                  "cabinBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ]
+                },
+                "cabinClass": "ECONOMY",
+                "operatingAirlineName": "Air Algerie",
+                "marketingAirlineName": "Air Algerie",
+                "departureAirportDetails": {
+                  "IataCode": "ALG",
+                  "City": "Algiers",
+                  "Country": "DZ",
+                  "Name": "Houari Boumediene"
+                },
+                "arrivalAirportDetails": {
+                  "IataCode": "CDG",
+                  "City": "Paris",
+                  "Country": "FR",
+                  "Name": "Paris Charles de Gaulle Apt"
+                }
+              }
+            ],
+            "brandedFare": null
+          },
+          {
+            "flight": {
+              "flightKey": "b5b3da19-c54b-48fa-b37c-61bd7cfe92cc",
+              "flightInfo": {
+                "duration": "2H15M",
+                "departureDate": "2026-07-19T18:00:00",
+                "arrivalDate": "2026-07-19T19:15:00",
+                "departureTime": "18:00:00",
+                "arrivalTime": "19:15:00",
+                "durationTime": 135,
+                "dayOffset": 0
+              },
+              "segmentReference": {
+                "onPoint": "CDG",
+                "offPoint": "ALG"
+              },
+              "stopQuantity": 0
+            },
+            "flightSegments": [
+              {
+                "segmentKey": "ace36bc1-4a1f-4449-aad5-b41ba288fd3f",
+                "segmentId": "53",
+                "departureAirportCode": "CDG",
+                "departureDateTime": "2026-07-19T18:00:00",
+                "departureTerminal": "2D",
+                "arrivalAirportCode": "ALG",
+                "arrivalDateTime": "2026-07-19T19:15:00",
+                "arrivalTerminal": "4",
+                "duration": "2H15M",
+                "flightNumber": 1215,
+                "layoverTime": "",
+                "resBookDesigCode": "S",
+                "numberInParty": 1,
+                "operatingAirline": "AH",
+                "marketingAirline": "AH",
+                "seatsAvailable": 1,
+                "fareBasis": "SFRT",
+                "equipmentType": "73H",
+                "equipmentName": "BOEING 737-800 (WINGLETS)",
+                "baggageAllowance": {
+                  "checkedInBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ],
+                  "cabinBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ]
+                },
+                "cabinClass": "ECONOMY",
+                "operatingAirlineName": "Air Algerie",
+                "marketingAirlineName": "Air Algerie",
+                "departureAirportDetails": {
+                  "IataCode": "CDG",
+                  "City": "Paris",
+                  "Country": "FR",
+                  "Name": "Paris Charles de Gaulle Apt"
+                },
+                "arrivalAirportDetails": {
+                  "IataCode": "ALG",
+                  "City": "Algiers",
+                  "Country": "DZ",
+                  "Name": "Houari Boumediene"
+                }
+              }
+            ],
+            "brandedFare": null
+          }
+        ],
+        "fare": {
+          "fareKey": "c7d106c4-9cdb-439a-b383-7828ed385ccd",
+          "currencyCode": "DZD",
+          "fareType": {
+            "fareCode": "PUBLISHED",
+            "farePreference": "",
+            "refundable": true,
+            "refundFees": 2420,
+            "modifiable": true,
+            "modifFees": 11000
+          },
+          "baseFare": 38710,
+          "totalTax": 26414,
+          "totalFare": 67024,
+          "platingAirlineCode": "AH",
+          "platingAirlineDetails": {
+            "Name": "Air Algerie",
+            "IataCode": "AH",
+            "Country": "",
+            "price": 60474
+          },
+          "fareBreakdown": [
+            {
+              "fareBreakdownKey": "cf3e90c7-66f1-4fb9-aaef-0ff7eb68c439",
+              "fareType": "STANDARD",
+              "passengerKeys": [
+                "1"
+              ],
+              "paxType": "ADT",
+              "paxRate": {
+                "currency": "DZD",
+                "baseFare": 40610,
+                "totalTax": 26414,
+                "totalFare": 67024
+              }
+            }
+          ],
+          "acdFee": 0
+        },
+        "brandedFare": null,
+        "isUpsellOffer": false,
+        "supplierId": 163
+      },
+      {
+        "offerId": "AMS-26089227-15",
+        "detail": {
+          "hasCodeshare": false,
+          "checkedBaggageIncluded": true,
+          "cabinBaggageIncluded": true,
+          "elapsedDurationTime": 285
+        },
+        "journey": [
+          {
+            "flight": {
+              "flightKey": "3875fb4b-5a79-42b4-910b-bf15cac468c2",
+              "flightInfo": {
+                "duration": "2H30M",
+                "departureDate": "2026-07-09T18:00:00",
+                "arrivalDate": "2026-07-09T21:30:00",
+                "departureTime": "18:00:00",
+                "arrivalTime": "21:30:00",
+                "durationTime": 150,
+                "dayOffset": 0
+              },
+              "segmentReference": {
+                "onPoint": "ALG",
+                "offPoint": "CDG"
+              },
+              "stopQuantity": 0
+            },
+            "flightSegments": [
+              {
+                "segmentKey": "c61249b7-2f5c-4878-8dc5-e628a72f7302",
+                "segmentId": "18",
+                "departureAirportCode": "ALG",
+                "departureDateTime": "2026-07-09T18:00:00",
+                "departureTerminal": "4",
+                "arrivalAirportCode": "CDG",
+                "arrivalDateTime": "2026-07-09T21:30:00",
+                "arrivalTerminal": "2D",
+                "duration": "2H30M",
+                "flightNumber": 1230,
+                "layoverTime": "",
+                "resBookDesigCode": "M",
+                "numberInParty": 1,
+                "operatingAirline": "AH",
+                "marketingAirline": "AH",
+                "seatsAvailable": 2,
+                "fareBasis": "MDZFR0BG",
+                "equipmentType": "73H",
+                "equipmentName": "BOEING 737-800 (WINGLETS)",
+                "baggageAllowance": {
+                  "checkedInBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 0,
+                      "unit": "PIECE"
+                    }
+                  ],
+                  "cabinBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ]
+                },
+                "cabinClass": "ECONOMY",
+                "operatingAirlineName": "Air Algerie",
+                "marketingAirlineName": "Air Algerie",
+                "departureAirportDetails": {
+                  "IataCode": "ALG",
+                  "City": "Algiers",
+                  "Country": "DZ",
+                  "Name": "Houari Boumediene"
+                },
+                "arrivalAirportDetails": {
+                  "IataCode": "CDG",
+                  "City": "Paris",
+                  "Country": "FR",
+                  "Name": "Paris Charles de Gaulle Apt"
+                }
+              }
+            ],
+            "brandedFare": null
+          },
+          {
+            "flight": {
+              "flightKey": "22e4a5c9-7e98-4a25-9507-b5ea3667d689",
+              "flightInfo": {
+                "duration": "2H15M",
+                "departureDate": "2026-07-19T20:35:00",
+                "arrivalDate": "2026-07-19T21:50:00",
+                "departureTime": "20:35:00",
+                "arrivalTime": "21:50:00",
+                "durationTime": 135,
+                "dayOffset": 0
+              },
+              "segmentReference": {
+                "onPoint": "CDG",
+                "offPoint": "ALG"
+              },
+              "stopQuantity": 0
+            },
+            "flightSegments": [
+              {
+                "segmentKey": "659e5adf-ca28-4284-82df-14abe1a66ea0",
+                "segmentId": "56",
+                "departureAirportCode": "CDG",
+                "departureDateTime": "2026-07-19T20:35:00",
+                "departureTerminal": "2D",
+                "arrivalAirportCode": "ALG",
+                "arrivalDateTime": "2026-07-19T21:50:00",
+                "arrivalTerminal": "4",
+                "duration": "2H15M",
+                "flightNumber": 1543,
+                "layoverTime": "",
+                "resBookDesigCode": "S",
+                "numberInParty": 1,
+                "operatingAirline": "AH",
+                "marketingAirline": "AH",
+                "seatsAvailable": 2,
+                "fareBasis": "SFRT",
+                "equipmentType": "320",
+                "equipmentName": "AIRBUS A320",
+                "baggageAllowance": {
+                  "checkedInBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ],
+                  "cabinBaggage": [
+                    {
+                      "paxType": "ADT",
+                      "value": 1,
+                      "unit": "PIECE"
+                    }
+                  ]
+                },
+                "cabinClass": "ECONOMY",
+                "operatingAirlineName": "Air Algerie",
+                "marketingAirlineName": "Air Algerie",
+                "departureAirportDetails": {
+                  "IataCode": "CDG",
+                  "City": "Paris",
+                  "Country": "FR",
+                  "Name": "Paris Charles de Gaulle Apt"
+                },
+                "arrivalAirportDetails": {
+                  "IataCode": "ALG",
+                  "City": "Algiers",
+                  "Country": "DZ",
+                  "Name": "Houari Boumediene"
+                }
+              }
+            ],
+            "brandedFare": null
+          }
+        ],
+        "fare": {
+          "fareKey": "f554d618-0f45-47ce-a0d2-0ba5ee30a551",
+          "currencyCode": "DZD",
+          "fareType": {
+            "fareCode": "PUBLISHED",
+            "farePreference": "",
+            "refundable": true,
+            "refundFees": 2420,
+            "modifiable": true,
+            "modifFees": 11000
+          },
+          "baseFare": 38710,
+          "totalTax": 26414,
+          "totalFare": 67024,
+          "platingAirlineCode": "AH",
+          "platingAirlineDetails": {
+            "Name": "Air Algerie",
+            "IataCode": "AH",
+            "Country": "",
+            "price": 60474
+          },
+          "fareBreakdown": [
+            {
+              "fareBreakdownKey": "d5b2905d-8cd3-4e3b-89cf-3984dc89d891",
+              "fareType": "STANDARD",
+              "passengerKeys": [
+                "1"
+              ],
+              "paxType": "ADT",
+              "paxRate": {
+                "currency": "DZD",
+                "baseFare": 40610,
+                "totalTax": 26414,
+                "totalFare": 67024
+              }
+            }
+          ],
+          "acdFee": 0
+        },
+        "brandedFare": null,
+        "isUpsellOffer": false,
+        "supplierId": 163
+      }
+    ],
+    "isDomestic": false,
+    "currency": "DZD",
+    "filterDependencies": {
+      "stops": [
+        [
+          {
+            "stops": 0,
+            "count": 40,
+            "code": "B1:S0"
+          },
+          {
+            "stops": 1,
+            "count": 120,
+            "code": "B1:S1"
+          },
+          {
+            "stops": 2,
+            "count": 0,
+            "code": "B1:S2"
+          },
+          {
+            "stops": 3,
+            "count": 0,
+            "code": "B1:S3"
+          }
+        ],
+        [
+          {
+            "stops": 0,
+            "count": 45,
+            "code": "B2:S0"
+          },
+          {
+            "stops": 1,
+            "count": 115,
+            "code": "B2:S1"
+          },
+          {
+            "stops": 2,
+            "count": 0,
+            "code": "B2:S2"
+          },
+          {
+            "stops": 3,
+            "count": 0,
+            "code": "B2:S3"
+          }
+        ]
+      ],
+      "isRefundable": 152,
+      "times": [
+        [
+          {
+            "from": "00:00",
+            "to": "07:59",
+            "code": "B1:S1"
+          },
+          {
+            "from": "08:00",
+            "to": "15:59",
+            "code": "B1:S2"
+          },
+          {
+            "from": "16:00",
+            "to": "23:59",
+            "code": "B1:S3"
+          }
+        ],
+        [
+          {
+            "from": "00:00",
+            "to": "07:59",
+            "code": "B2:S1"
+          },
+          {
+            "from": "08:00",
+            "to": "15:59",
+            "code": "B2:S2"
+          },
+          {
+            "from": "16:00",
+            "to": "23:59",
+            "code": "B2:S3"
+          }
+        ]
+      ],
+      "minRate": 60474,
+      "maxRate": 240932,
+      "airportsFilter": [
+        {
+          "departureAirports": [
+            "ALG"
+          ],
+          "arrivalAirports": [
+            "ORY",
+            "CDG"
+          ]
+        },
+        {
+          "departureAirports": [
+            "CDG",
+            "ORY"
+          ],
+          "arrivalAirports": [
+            "ALG"
+          ]
+        }
+      ],
+      "airports": [
+        {
+          "IataCode": "ALG",
+          "City": "Algiers",
+          "Country": "DZ",
+          "Name": "Houari Boumediene"
+        },
+        {
+          "IataCode": "CDG",
+          "City": "Paris",
+          "Country": "FR",
+          "Name": "Paris Charles de Gaulle Apt"
+        },
+        {
+          "IataCode": "IST",
+          "City": "Istanbul",
+          "Country": "TR",
+          "Name": "Istanbul Airport"
+        },
+        {
+          "IataCode": "ORN",
+          "City": "Oran",
+          "Country": "DZ",
+          "Name": "Oran Es Senia Apt"
+        },
+        {
+          "IataCode": "ORY",
+          "City": "Paris",
+          "Country": "FR",
+          "Name": "Paris Orly Apt"
+        },
+        {
+          "IataCode": "TUN",
+          "City": "Tunis",
+          "Country": "TN",
+          "Name": "Tunis"
+        }
+      ],
+      "airlines": [
+        {
+          "Name": "Air Algerie",
+          "IataCode": "AH",
+          "Country": "",
+          "price": 60474
+        },
+        {
+          "Name": "Tunisair",
+          "IataCode": "TU",
+          "Country": "",
+          "price": 113016
+        },
+        {
+          "Name": "Turkish Airlines",
+          "IataCode": "TK",
+          "Country": "",
+          "price": 160242
+        }
+      ]
+    },
+    "total": 160
+  }
+}

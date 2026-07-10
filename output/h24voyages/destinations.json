@@ -1,0 +1,103 @@
+[
+  {
+    "iata_code": "ALG",
+    "airport_name": "Houari Boumediene",
+    "city_name": "Algiers",
+    "country": "Algeria",
+    "country_code": "DZ"
+  },
+  {
+    "airport_name": "Aéroport international de Mohamed Boudiaf Constantine",
+    "country": "Algérie",
+    "city_name": "Constantine",
+    "iata_code": "CZL",
+    "country_code": "Algérie"
+  },
+  {
+    "iata_code": "ORN",
+    "airport_name": "Oran Es Senia Apt",
+    "city_name": "Oran",
+    "country": "Algeria",
+    "country_code": "DZ"
+  },
+  {
+    "airport_name": "Aéroport Rabah Bitat Airport Annaba",
+    "country": "Algérie",
+    "city_name": "Annaba",
+    "iata_code": "AAE",
+    "country_code": "Algérie"
+  },
+  {
+    "iata_code": "CDG",
+    "airport_name": "Charles de Gaulle",
+    "city_name": "Paris",
+    "country": "France",
+    "country_code": "FR",
+    "_id": "66a381ce14d0c6e817cbaab2"
+  },
+  {
+    "iata_code": "ORY",
+    "airport_name": "Orly",
+    "city_name": "Paris",
+    "country": "France",
+    "country_code": "FR"
+  },
+  {
+    "iata_code": "IST",
+    "airport_name": "Istanbul Airport",
+    "city_name": "Istanbul",
+    "country": "Turkey",
+    "country_code": "TR",
+    "_id": "66a37d7631f1f0585cc31272"
+  },
+  {
+    "airport_name": "Antalya - Tous les aéroports",
+    "country": "Turquie",
+    "city_name": "Antalya",
+    "iata_code": "AYT",
+    "country_code": "Turquie"
+  },
+  {
+    "airport_name": "Aéroport international du Caire",
+    "country": "Égypte",
+    "city_name": "Le Caire",
+    "iata_code": "CAI",
+    "country_code": "Égypte"
+  },
+  {
+    "airport_name": "Aéroport international de Sharm El-Sheikh",
+    "country": "Égypte",
+    "city_name": "Sharm El Sheikh",
+    "iata_code": "SSH",
+    "country_code": "Égypte"
+  },
+  {
+    "iata_code": "DXB",
+    "airport_name": "Dubai International",
+    "city_name": "Dubai",
+    "country": "United Arab Emirates",
+    "country_code": "AE"
+  },
+  {
+    "iata_code": "BCN",
+    "airport_name": "Transoceanico de Barcelona",
+    "city_name": "Barcelona",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "airport_name": "Madrid - Tous les aéroports",
+    "country": "Espagne",
+    "city_name": "Madrid",
+    "iata_code": "MAD",
+    "country_code": "Espagne"
+  },
+  {
+    "iata_code": "TUN",
+    "airport_name": "Tunis-Carthage Airport",
+    "city_name": "Tunis",
+    "country": "Tunisia",
+    "country_code": "TN",
+    "_id": "66a26f809ffd5fec67c4386b"
+  }
+]

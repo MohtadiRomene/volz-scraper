@@ -1,0 +1,1 @@
+{"tripType":"roundtrip","bounds":[{"origin":"ALG","destination":"PAR","departureDate":"2026-07-09"},{"origin":"PAR","destination":"ALG","departureDate":"2026-07-19"}],"passengers":[{"id":"1","ptc":"ADT","age":30}],"cabinClass":"E","stops":2,"baggage":false,"refundable":false}

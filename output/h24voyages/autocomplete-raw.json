@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "headers": {
+    "cf-cache-status": "DYNAMIC",
+    "cf-ray": "a188ab144a38e280-MRS",
+    "content-language": "fr",
+    "cross-origin-opener-policy": "same-origin",
+    "cross-origin-resource-policy": "same-origin",
+    "date": "Thu, 09 Jul 2026 16:22:34 GMT",
+    "expect-ct": "max-age=0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "origin-agent-cluster": "?1",
+    "referrer-policy": "no-referrer",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=jr1kD7%2Fo6dml5p6Rl3w84htv6xi0yjPvF8oOnpc4X7VqsakjbSWc2M68ZCKaQsMzFnynGZNjkRQNXfLxZzGvjIodQai%2BM%2FUysq%2BaI1X7%2F85N2bAwClLDFbcuZRKV8EvxLFr39g%3D%3D\"}]}",
+    "server": "cloudflare",
+    "strict-transport-security": "max-age=15552000; includeSubDomains",
+    "x-content-type-options": "nosniff",
+    "x-dns-prefetch-control": "off",
+    "x-download-options": "noopen",
+    "x-frame-options": "DENY",
+    "x-permitted-cross-domain-policies": "none",
+    "x-xss-protection": "0"
+  },
+  "body": ""
+}

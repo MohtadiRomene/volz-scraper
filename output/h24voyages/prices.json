@@ -1,0 +1,92 @@
+[
+  {
+    "site": "h24voyages",
+    "destination": "Paris - Tous les aéroports",
+    "iata": "CDG",
+    "departDate": "2026-07-10",
+    "returnDate": "2026-07-20",
+    "price": 65112,
+    "currency": "DZD",
+    "airline": "Air Algerie"
+  },
+  {
+    "site": "h24voyages",
+    "destination": "Istanbul - Tous les aéroports",
+    "iata": "IST",
+    "departDate": "2026-07-10",
+    "returnDate": "2026-07-20",
+    "price": 51493,
+    "currency": "DZD",
+    "airline": "Pegasus"
+  },
+  {
+    "site": "h24voyages",
+    "destination": "Antalya - Tous les aéroports",
+    "iata": "AYT",
+    "departDate": "2026-07-10",
+    "returnDate": "2026-07-20",
+    "price": 65394,
+    "currency": "DZD",
+    "airline": "Air Algerie"
+  },
+  {
+    "site": "h24voyages",
+    "destination": "Le Caire",
+    "iata": "CAI",
+    "departDate": "2026-07-10",
+    "returnDate": "2026-07-20",
+    "price": 125947,
+    "currency": "DZD",
+    "airline": "Turkish Airlines"
+  },
+  {
+    "site": "h24voyages",
+    "destination": "Sharm El Sheikh",
+    "iata": "SSH",
+    "departDate": "2026-07-10",
+    "returnDate": "2026-07-20",
+    "price": 104007,
+    "currency": "DZD",
+    "airline": "Turkish Airlines"
+  },
+  {
+    "site": "h24voyages",
+    "destination": "Dubai",
+    "iata": "DXB",
+    "departDate": "2026-07-10",
+    "returnDate": "2026-07-20",
+    "price": 108811,
+    "currency": "DZD",
+    "airline": "Pegasus"
+  },
+  {
+    "site": "h24voyages",
+    "destination": "Barcelone",
+    "iata": "BCN",
+    "departDate": "2026-07-10",
+    "returnDate": "2026-07-20",
+    "price": 59867,
+    "currency": "DZD",
+    "airline": "Vueling Airlines"
+  },
+  {
+    "site": "h24voyages",
+    "destination": "Madrid - Tous les aéroports",
+    "iata": "MAD",
+    "departDate": "2026-07-10",
+    "returnDate": "2026-07-20",
+    "price": 105514,
+    "currency": "DZD",
+    "airline": "Air France"
+  },
+  {
+    "site": "h24voyages",
+    "destination": "Tunis",
+    "iata": "TUN",
+    "departDate": "2026-07-10",
+    "returnDate": "2026-07-20",
+    "price": 40650,
+    "currency": "DZD",
+    "airline": "Tunisair"
+  }
+]
