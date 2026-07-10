@@ -9,10 +9,10 @@
     "adults": 1,
     "departDate": "2026-07-10",
     "returnDate": "2026-07-20",
-    "price": 65112,
+    "price": 136191,
     "currency": "DZD",
-    "airline": "Air Algerie",
-    "scraped_at": "2026-07-10T16:02:08.407Z"
+    "airline": "Saudi Arabian",
+    "scraped_at": "2026-07-10T21:54:53.300Z"
   },
   {
     "site": "h24voyages",
@@ -24,10 +24,10 @@
     "adults": 1,
     "departDate": "2026-07-10",
     "returnDate": "2026-07-20",
-    "price": 62868,
+    "price": 176597,
     "currency": "DZD",
-    "airline": "Air Algerie",
-    "scraped_at": "2026-07-10T16:02:20.743Z"
+    "airline": "Saudi Arabian",
+    "scraped_at": "2026-07-10T21:55:00.022Z"
   },
   {
     "site": "h24voyages",
@@ -39,10 +39,10 @@
     "adults": 1,
     "departDate": "2026-07-10",
     "returnDate": "2026-07-20",
-    "price": 65394,
+    "price": 119824,
     "currency": "DZD",
-    "airline": "Air Algerie",
-    "scraped_at": "2026-07-10T16:02:30.534Z"
+    "airline": "Turkish Airlines",
+    "scraped_at": "2026-07-10T21:55:07.820Z"
   },
   {
     "site": "h24voyages",
@@ -57,22 +57,7 @@
     "price": 125947,
     "currency": "DZD",
     "airline": "Turkish Airlines",
-    "scraped_at": "2026-07-10T16:02:40.357Z"
-  },
-  {
-    "site": "h24voyages",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "SSH",
-    "destinationName": "Sharm El Sheikh",
-    "tripType": "RT",
-    "adults": 1,
-    "departDate": "2026-07-10",
-    "returnDate": "2026-07-20",
-    "price": 104007,
-    "currency": "DZD",
-    "airline": "Turkish Airlines",
-    "scraped_at": "2026-07-10T16:02:48.435Z"
+    "scraped_at": "2026-07-10T21:55:15.912Z"
   },
   {
     "site": "h24voyages",
@@ -84,10 +69,10 @@
     "adults": 1,
     "departDate": "2026-07-10",
     "returnDate": "2026-07-20",
-    "price": 153158,
+    "price": 193857,
     "currency": "DZD",
-    "airline": "Turkish Airlines",
-    "scraped_at": "2026-07-10T16:02:57.665Z"
+    "airline": "Qatar Airways",
+    "scraped_at": "2026-07-10T21:55:30.554Z"
   },
   {
     "site": "h24voyages",
@@ -99,10 +84,10 @@
     "adults": 1,
     "departDate": "2026-07-10",
     "returnDate": "2026-07-20",
-    "price": 59867,
+    "price": 64142,
     "currency": "DZD",
     "airline": "Vueling Airlines",
-    "scraped_at": "2026-07-10T16:03:04.624Z"
+    "scraped_at": "2026-07-10T21:55:36.857Z"
   },
   {
     "site": "h24voyages",
@@ -114,24 +99,9 @@
     "adults": 1,
     "departDate": "2026-07-10",
     "returnDate": "2026-07-20",
-    "price": 120541,
+    "price": 136081,
     "currency": "DZD",
     "airline": "Turkish Airlines",
-    "scraped_at": "2026-07-10T16:03:11.593Z"
-  },
-  {
-    "site": "h24voyages",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "TUN",
-    "destinationName": "Tunis",
-    "tripType": "RT",
-    "adults": 1,
-    "departDate": "2026-07-10",
-    "returnDate": "2026-07-20",
-    "price": 53028,
-    "currency": "DZD",
-    "airline": "Air Algerie",
-    "scraped_at": "2026-07-10T16:03:18.304Z"
+    "scraped_at": "2026-07-10T21:55:43.341Z"
   }
 ]
