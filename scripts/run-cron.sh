@@ -2,23 +2,35 @@
 cd ~/BosterBC/VOLZ/volz-scraper
 set -e
 
-echo "🚀 [$(date)] Démarrage du cron scraping"
+LOG_PREFIX="[$(date '+%Y-%m-%d %H:%M:%S')]"
+echo "$LOG_PREFIX 🚀 Démarrage du cron scraping"
 
-echo "📍 Scraping volz.app..."
+echo "$LOG_PREFIX 📍 Scraping volz.app..."
 node scripts/scrape-all.js
 
-echo "📍 Scraping h24voyages.com..."
+echo "$LOG_PREFIX 📍 Scraping h24voyages.com..."
 node scripts/h24voyages/run-all.js
 
-echo "🔄 Transformation des données volz..."
+echo "$LOG_PREFIX 🔄 Transformation des données volz..."
 node scripts/transform-volz.js
 
-echo "⚖️  Comparaison des prix..."
+echo "$LOG_PREFIX ⚖️  Comparaison des prix..."
 node scripts/compare.js
 
-echo "📤 Push vers GitHub..."
+echo "$LOG_PREFIX 📤 Push vers GitHub..."
 git add output/
-git commit -m "scraping $(date +%Y-%m-%d_%H:%M) - auto update" || echo "Rien à commit"
-git push
+if git diff --cached --quiet; then
+  echo "$LOG_PREFIX ℹ️  Rien à commit"
+else
+  git commit -m "scraping auto $(date '+%Y-%m-%d %H:%M')"
+  git push
+  echo "$LOG_PREFIX ✅ Push réussi"
 
-echo "✅ [$(date)] Terminé"
+  echo "$LOG_PREFIX 🔄 Purge du cache jsDelivr..."
+  for f in comparison.json rapport.json historique.json tous-les-vols.json volz/flights.json h24voyages/flights.json; do
+    curl -s -o /dev/null "https://purge.jsdelivr.net/gh/MohtadiRomene/volz-scraper@main/output/$f"
+  done
+  echo "$LOG_PREFIX ✅ Cache purgé"
+fi
+
+echo "$LOG_PREFIX 🏁 Terminé"
