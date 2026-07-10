@@ -9,16 +9,16 @@
     "adults": 1,
     "departDate": "2026-07-10",
     "prix": {
-      "volz": 112126,
-      "h24voyages": 145824
+      "volz": 159833,
+      "h24voyages": 153158
     },
     "moinsCher": {
-      "site": "volz",
-      "prix": 112126,
-      "airline": null,
+      "site": "h24voyages",
+      "prix": 153158,
+      "airline": "Turkish Airlines",
       "departDate": "2026-07-10"
     },
-    "economie": 33698,
+    "economie": 6675,
     "nbSitesDisponibles": 2
   },
   {
@@ -48,7 +48,7 @@
     "origin": "ALG",
     "originName": "Alger",
     "destination": "CAI",
-    "destinationName": "CAI",
+    "destinationName": "Le Caire",
     "tripType": "RT",
     "adults": 1,
     "departDate": "2026-07-10",
@@ -70,7 +70,7 @@
     "origin": "ALG",
     "originName": "Alger",
     "destination": "SSH",
-    "destinationName": "SSH",
+    "destinationName": "Sharm El Sheikh",
     "tripType": "RT",
     "adults": 1,
     "departDate": "2026-07-10",
@@ -88,69 +88,25 @@
     "nbSitesDisponibles": 2
   },
   {
-    "route": "ALG → TUN",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "TUN",
-    "destinationName": "Tunis",
-    "tripType": "RT",
-    "adults": 1,
-    "departDate": "2026-07-10",
-    "prix": {
-      "volz": 45174,
-      "h24voyages": 40650
-    },
-    "moinsCher": {
-      "site": "h24voyages",
-      "prix": 40650,
-      "airline": "Tunisair",
-      "departDate": "2026-07-10"
-    },
-    "economie": 4524,
-    "nbSitesDisponibles": 2
-  },
-  {
     "route": "ALG → MAD",
     "origin": "ALG",
     "originName": "Alger",
     "destination": "MAD",
-    "destinationName": "MAD",
+    "destinationName": "Madrid",
     "tripType": "RT",
     "adults": 1,
     "departDate": "2026-07-10",
     "prix": {
-      "volz": 109064,
-      "h24voyages": 105514
+      "volz": 125581,
+      "h24voyages": 120541
     },
     "moinsCher": {
       "site": "h24voyages",
-      "prix": 105514,
-      "airline": "Air France",
+      "prix": 120541,
+      "airline": "Turkish Airlines",
       "departDate": "2026-07-10"
     },
-    "economie": 3550,
-    "nbSitesDisponibles": 2
-  },
-  {
-    "route": "ALG → IST",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "IST",
-    "destinationName": "Istanbul",
-    "tripType": "RT",
-    "adults": 1,
-    "departDate": "2026-07-10",
-    "prix": {
-      "volz": 53173,
-      "h24voyages": 51493
-    },
-    "moinsCher": {
-      "site": "h24voyages",
-      "prix": 51493,
-      "airline": "Pegasus",
-      "departDate": "2026-07-10"
-    },
-    "economie": 1680,
+    "economie": 5040,
     "nbSitesDisponibles": 2
   },
   {
@@ -164,15 +120,37 @@
     "departDate": "2026-07-10",
     "prix": {
       "volz": 65765,
-      "h24voyages": 66311
+      "h24voyages": 65112
     },
     "moinsCher": {
-      "site": "volz",
-      "prix": 65765,
-      "airline": null,
+      "site": "h24voyages",
+      "prix": 65112,
+      "airline": "Air Algerie",
       "departDate": "2026-07-10"
     },
-    "economie": 546,
+    "economie": 653,
+    "nbSitesDisponibles": 2
+  },
+  {
+    "route": "ALG → IST",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "IST",
+    "destinationName": "Istanbul",
+    "tripType": "RT",
+    "adults": 1,
+    "departDate": "2026-07-10",
+    "prix": {
+      "volz": 63521,
+      "h24voyages": 62868
+    },
+    "moinsCher": {
+      "site": "h24voyages",
+      "prix": 62868,
+      "airline": "Air Algerie",
+      "departDate": "2026-07-10"
+    },
+    "economie": 653,
     "nbSitesDisponibles": 2
   },
   {
@@ -180,21 +158,43 @@
     "origin": "ALG",
     "originName": "Alger",
     "destination": "AYT",
-    "destinationName": "AYT",
+    "destinationName": "Antalya",
     "tripType": "RT",
     "adults": 1,
     "departDate": "2026-07-10",
     "prix": {
       "volz": 66047,
-      "h24voyages": 66593
+      "h24voyages": 65394
     },
     "moinsCher": {
-      "site": "volz",
-      "prix": 66047,
-      "airline": null,
+      "site": "h24voyages",
+      "prix": 65394,
+      "airline": "Air Algerie",
       "departDate": "2026-07-10"
     },
-    "economie": 546,
+    "economie": 653,
+    "nbSitesDisponibles": 2
+  },
+  {
+    "route": "ALG → TUN",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "TUN",
+    "destinationName": "Tunis",
+    "tripType": "RT",
+    "adults": 1,
+    "departDate": "2026-07-10",
+    "prix": {
+      "volz": 53681,
+      "h24voyages": 53028
+    },
+    "moinsCher": {
+      "site": "h24voyages",
+      "prix": 53028,
+      "airline": "Air Algerie",
+      "departDate": "2026-07-10"
+    },
+    "economie": 653,
     "nbSitesDisponibles": 2
   }
 ]
