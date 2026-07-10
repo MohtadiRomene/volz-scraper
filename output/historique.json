@@ -388992,5 +388992,2455 @@
         "direction": "📈 hausse"
       }
     ]
+  },
+  {
+    "date": "2026-07-10",
+    "scraped_at": "2026-07-10T21:54:45.636Z",
+    "nb_vols": 83,
+    "nb_erreurs": 0,
+    "vols": [
+      {
+        "origine": "ALG",
+        "destination": "CDG",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "342 474,00",
+        "prix_num": 342474,
+        "places": 4,
+        "aller": {
+          "heure_dep": "23:15",
+          "nb_stops": "1 Stop",
+          "duree": "15h 50m",
+          "heure_arr": "19:20"
+        },
+        "retour": {
+          "heure_dep": "13:35",
+          "nb_stops": "1 Stop",
+          "duree": "8h 15m",
+          "heure_arr": "00:05"
+        },
+        "scraped_at": "2026-07-10T21:53:04.695Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "CDG",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "342 474,00",
+        "prix_num": 342474,
+        "places": 4,
+        "aller": {
+          "heure_dep": "23:15",
+          "nb_stops": "1 Stop",
+          "duree": "15h 50m",
+          "heure_arr": "19:20"
+        },
+        "retour": {
+          "heure_dep": "13:35",
+          "nb_stops": "1 Stop",
+          "duree": "8h 15m",
+          "heure_arr": "00:05"
+        },
+        "scraped_at": "2026-07-10T21:53:04.695Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "CDG",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "342 474,00",
+        "prix_num": 342474,
+        "places": 4,
+        "aller": {
+          "heure_dep": "23:15",
+          "nb_stops": "1 Stop",
+          "duree": "15h 50m",
+          "heure_arr": "19:20"
+        },
+        "retour": {
+          "heure_dep": "13:35",
+          "nb_stops": "1 Stop",
+          "duree": "8h 15m",
+          "heure_arr": "00:05"
+        },
+        "scraped_at": "2026-07-10T21:53:04.695Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "AYT",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "130 754,00",
+        "prix_num": 130754,
+        "places": 4,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "11h 35m",
+          "heure_arr": "17:55"
+        },
+        "retour": {
+          "heure_dep": "02:05",
+          "nb_stops": "1 Stop",
+          "duree": "1h 40m",
+          "heure_arr": "06:45"
+        },
+        "scraped_at": "2026-07-10T21:53:29.734Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "AYT",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "130 754,00",
+        "prix_num": 130754,
+        "places": 4,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "11h 35m",
+          "heure_arr": "17:55"
+        },
+        "retour": {
+          "heure_dep": "22:30",
+          "nb_stops": "1 Stop",
+          "duree": "4h 55m",
+          "heure_arr": "06:30"
+        },
+        "scraped_at": "2026-07-10T21:53:29.734Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "AYT",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "132 404,00",
+        "prix_num": 132404,
+        "places": 4,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "11h 35m",
+          "heure_arr": "17:55"
+        },
+        "retour": {
+          "heure_dep": "12:55",
+          "nb_stops": "1 Stop",
+          "duree": "1h 55m",
+          "heure_arr": "17:55"
+        },
+        "scraped_at": "2026-07-10T21:53:29.734Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "AYT",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "132 404,00",
+        "prix_num": 132404,
+        "places": 4,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "11h 35m",
+          "heure_arr": "17:55"
+        },
+        "retour": {
+          "heure_dep": "12:35",
+          "nb_stops": "1 Stop",
+          "duree": "2h 15m",
+          "heure_arr": "17:55"
+        },
+        "scraped_at": "2026-07-10T21:53:29.734Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "AYT",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "132 404,00",
+        "prix_num": 132404,
+        "places": 4,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "11h 35m",
+          "heure_arr": "17:55"
+        },
+        "retour": {
+          "heure_dep": "11:55",
+          "nb_stops": "1 Stop",
+          "duree": "2h 55m",
+          "heure_arr": "17:55"
+        },
+        "scraped_at": "2026-07-10T21:53:29.734Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "AYT",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "132 404,00",
+        "prix_num": 132404,
+        "places": 4,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "11h 35m",
+          "heure_arr": "17:55"
+        },
+        "retour": {
+          "heure_dep": "11:20",
+          "nb_stops": "1 Stop",
+          "duree": "3h 30m",
+          "heure_arr": "17:55"
+        },
+        "scraped_at": "2026-07-10T21:53:29.734Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "AYT",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "132 404,00",
+        "prix_num": 132404,
+        "places": 4,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "11h 35m",
+          "heure_arr": "17:55"
+        },
+        "retour": {
+          "heure_dep": "10:20",
+          "nb_stops": "1 Stop",
+          "duree": "4h 20m",
+          "heure_arr": "17:55"
+        },
+        "scraped_at": "2026-07-10T21:53:29.734Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "AYT",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "153 849,00",
+        "prix_num": 153849,
+        "places": 0,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "11h 35m",
+          "heure_arr": "17:55"
+        },
+        "retour": {
+          "heure_dep": "12:35",
+          "nb_stops": "1 Stop",
+          "duree": "6h 10m",
+          "heure_arr": "22:05"
+        },
+        "scraped_at": "2026-07-10T21:53:29.734Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "AYT",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "154 519,00",
+        "prix_num": 154519,
+        "places": 0,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "11h 35m",
+          "heure_arr": "17:55"
+        },
+        "retour": {
+          "heure_dep": "11:55",
+          "nb_stops": "1 Stop",
+          "duree": "1h 30m",
+          "heure_arr": "16:45"
+        },
+        "scraped_at": "2026-07-10T21:53:29.734Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "AYT",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "154 519,00",
+        "prix_num": 154519,
+        "places": 0,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "11h 35m",
+          "heure_arr": "17:55"
+        },
+        "retour": {
+          "heure_dep": "11:20",
+          "nb_stops": "1 Stop",
+          "duree": "2h 5m",
+          "heure_arr": "16:45"
+        },
+        "scraped_at": "2026-07-10T21:53:29.734Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "AYT",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "154 519,00",
+        "prix_num": 154519,
+        "places": 0,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "11h 35m",
+          "heure_arr": "17:55"
+        },
+        "retour": {
+          "heure_dep": "10:20",
+          "nb_stops": "1 Stop",
+          "duree": "2h 55m",
+          "heure_arr": "16:45"
+        },
+        "scraped_at": "2026-07-10T21:53:29.734Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "AYT",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "154 519,00",
+        "prix_num": 154519,
+        "places": 0,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "11h 35m",
+          "heure_arr": "17:55"
+        },
+        "retour": {
+          "heure_dep": "08:35",
+          "nb_stops": "1 Stop",
+          "duree": "4h 45m",
+          "heure_arr": "16:45"
+        },
+        "scraped_at": "2026-07-10T21:53:29.734Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "AYT",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "154 519,00",
+        "prix_num": 154519,
+        "places": 0,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "11h 35m",
+          "heure_arr": "17:55"
+        },
+        "retour": {
+          "heure_dep": "08:20",
+          "nb_stops": "1 Stop",
+          "duree": "5h 0m",
+          "heure_arr": "16:45"
+        },
+        "scraped_at": "2026-07-10T21:53:29.734Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "AYT",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "154 519,00",
+        "prix_num": 154519,
+        "places": 0,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "11h 35m",
+          "heure_arr": "17:55"
+        },
+        "retour": {
+          "heure_dep": "07:30",
+          "nb_stops": "1 Stop",
+          "duree": "5h 50m",
+          "heure_arr": "16:45"
+        },
+        "scraped_at": "2026-07-10T21:53:29.734Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "AYT",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "203 889,00",
+        "prix_num": 203889,
+        "places": 2,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "5h 45m",
+          "heure_arr": "12:05"
+        },
+        "retour": {
+          "heure_dep": "02:05",
+          "nb_stops": "1 Stop",
+          "duree": "1h 40m",
+          "heure_arr": "06:45"
+        },
+        "scraped_at": "2026-07-10T21:53:29.734Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "AYT",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "203 889,00",
+        "prix_num": 203889,
+        "places": 2,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "5h 45m",
+          "heure_arr": "12:05"
+        },
+        "retour": {
+          "heure_dep": "22:30",
+          "nb_stops": "1 Stop",
+          "duree": "4h 55m",
+          "heure_arr": "06:30"
+        },
+        "scraped_at": "2026-07-10T21:53:29.734Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "AYT",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "205 539,00",
+        "prix_num": 205539,
+        "places": 2,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "5h 45m",
+          "heure_arr": "12:05"
+        },
+        "retour": {
+          "heure_dep": "12:55",
+          "nb_stops": "1 Stop",
+          "duree": "1h 55m",
+          "heure_arr": "17:55"
+        },
+        "scraped_at": "2026-07-10T21:53:29.734Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "AYT",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "205 539,00",
+        "prix_num": 205539,
+        "places": 2,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "5h 45m",
+          "heure_arr": "12:05"
+        },
+        "retour": {
+          "heure_dep": "12:35",
+          "nb_stops": "1 Stop",
+          "duree": "2h 15m",
+          "heure_arr": "17:55"
+        },
+        "scraped_at": "2026-07-10T21:53:29.734Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "AYT",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "205 539,00",
+        "prix_num": 205539,
+        "places": 2,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "5h 45m",
+          "heure_arr": "12:05"
+        },
+        "retour": {
+          "heure_dep": "11:55",
+          "nb_stops": "1 Stop",
+          "duree": "2h 55m",
+          "heure_arr": "17:55"
+        },
+        "scraped_at": "2026-07-10T21:53:29.734Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "AYT",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "205 539,00",
+        "prix_num": 205539,
+        "places": 2,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "5h 45m",
+          "heure_arr": "12:05"
+        },
+        "retour": {
+          "heure_dep": "11:20",
+          "nb_stops": "1 Stop",
+          "duree": "3h 30m",
+          "heure_arr": "17:55"
+        },
+        "scraped_at": "2026-07-10T21:53:29.734Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "CAI",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "130 987,00",
+        "prix_num": 130987,
+        "places": 0,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "21h 0m",
+          "heure_arr": "04:20"
+        },
+        "retour": {
+          "heure_dep": "02:15",
+          "nb_stops": "1 Stop",
+          "duree": "1h 55m",
+          "heure_arr": "08:15"
+        },
+        "scraped_at": "2026-07-10T21:53:42.766Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "CAI",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "130 987,00",
+        "prix_num": 130987,
+        "places": 0,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "21h 0m",
+          "heure_arr": "04:20"
+        },
+        "retour": {
+          "heure_dep": "02:15",
+          "nb_stops": "1 Stop",
+          "duree": "3h 20m",
+          "heure_arr": "09:45"
+        },
+        "scraped_at": "2026-07-10T21:53:42.766Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "CAI",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "130 987,00",
+        "prix_num": 130987,
+        "places": 0,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "21h 0m",
+          "heure_arr": "04:20"
+        },
+        "retour": {
+          "heure_dep": "22:15",
+          "nb_stops": "1 Stop",
+          "duree": "5h 55m",
+          "heure_arr": "08:15"
+        },
+        "scraped_at": "2026-07-10T21:53:42.766Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "CAI",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "130 987,00",
+        "prix_num": 130987,
+        "places": 0,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "21h 0m",
+          "heure_arr": "04:20"
+        },
+        "retour": {
+          "heure_dep": "21:45",
+          "nb_stops": "1 Stop",
+          "duree": "6h 25m",
+          "heure_arr": "08:15"
+        },
+        "scraped_at": "2026-07-10T21:53:42.766Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "CAI",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "130 987,00",
+        "prix_num": 130987,
+        "places": 0,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "21h 0m",
+          "heure_arr": "04:20"
+        },
+        "retour": {
+          "heure_dep": "22:15",
+          "nb_stops": "1 Stop",
+          "duree": "7h 20m",
+          "heure_arr": "09:45"
+        },
+        "scraped_at": "2026-07-10T21:53:42.766Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "CAI",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "130 987,00",
+        "prix_num": 130987,
+        "places": 0,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "21h 0m",
+          "heure_arr": "04:20"
+        },
+        "retour": {
+          "heure_dep": "21:45",
+          "nb_stops": "1 Stop",
+          "duree": "7h 50m",
+          "heure_arr": "09:45"
+        },
+        "scraped_at": "2026-07-10T21:53:42.766Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "CAI",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "130 987,00",
+        "prix_num": 130987,
+        "places": 0,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "21h 0m",
+          "heure_arr": "04:20"
+        },
+        "retour": {
+          "heure_dep": "22:15",
+          "nb_stops": "1 Stop",
+          "duree": "19h 45m",
+          "heure_arr": "22:05"
+        },
+        "scraped_at": "2026-07-10T21:53:42.766Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "CAI",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "130 987,00",
+        "prix_num": 130987,
+        "places": 0,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "21h 0m",
+          "heure_arr": "04:20"
+        },
+        "retour": {
+          "heure_dep": "21:45",
+          "nb_stops": "1 Stop",
+          "duree": "20h 15m",
+          "heure_arr": "22:05"
+        },
+        "scraped_at": "2026-07-10T21:53:42.766Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "CAI",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "134 887,00",
+        "prix_num": 134887,
+        "places": 1,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "21h 0m",
+          "heure_arr": "04:20"
+        },
+        "retour": {
+          "heure_dep": "10:05",
+          "nb_stops": "1 Stop",
+          "duree": "17h 55m",
+          "heure_arr": "08:15"
+        },
+        "scraped_at": "2026-07-10T21:53:42.766Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "CAI",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "144 332,00",
+        "prix_num": 144332,
+        "places": 4,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "21h 0m",
+          "heure_arr": "04:20"
+        },
+        "retour": {
+          "heure_dep": "22:15",
+          "nb_stops": "1 Stop",
+          "duree": "4h 25m",
+          "heure_arr": "06:30"
+        },
+        "scraped_at": "2026-07-10T21:53:42.766Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "CAI",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "144 332,00",
+        "prix_num": 144332,
+        "places": 4,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "21h 0m",
+          "heure_arr": "04:20"
+        },
+        "retour": {
+          "heure_dep": "21:45",
+          "nb_stops": "1 Stop",
+          "duree": "4h 55m",
+          "heure_arr": "06:30"
+        },
+        "scraped_at": "2026-07-10T21:53:42.766Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "CAI",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "144 332,00",
+        "prix_num": 144332,
+        "places": 4,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "21h 0m",
+          "heure_arr": "04:20"
+        },
+        "retour": {
+          "heure_dep": "22:15",
+          "nb_stops": "1 Stop",
+          "duree": "15h 50m",
+          "heure_arr": "17:55"
+        },
+        "scraped_at": "2026-07-10T21:53:42.766Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "CAI",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "144 332,00",
+        "prix_num": 144332,
+        "places": 4,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "21h 0m",
+          "heure_arr": "04:20"
+        },
+        "retour": {
+          "heure_dep": "21:45",
+          "nb_stops": "1 Stop",
+          "duree": "16h 20m",
+          "heure_arr": "17:55"
+        },
+        "scraped_at": "2026-07-10T21:53:42.766Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "CAI",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "152 772,00",
+        "prix_num": 152772,
+        "places": 4,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "21h 0m",
+          "heure_arr": "04:20"
+        },
+        "retour": {
+          "heure_dep": "10:05",
+          "nb_stops": "1 Stop",
+          "duree": "3h 50m",
+          "heure_arr": "17:55"
+        },
+        "scraped_at": "2026-07-10T21:53:42.766Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "CAI",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "152 772,00",
+        "prix_num": 152772,
+        "places": 4,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "21h 0m",
+          "heure_arr": "04:20"
+        },
+        "retour": {
+          "heure_dep": "06:05",
+          "nb_stops": "1 Stop",
+          "duree": "7h 55m",
+          "heure_arr": "17:55"
+        },
+        "scraped_at": "2026-07-10T21:53:42.766Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "CAI",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "152 772,00",
+        "prix_num": 152772,
+        "places": 4,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "21h 0m",
+          "heure_arr": "04:20"
+        },
+        "retour": {
+          "heure_dep": "02:15",
+          "nb_stops": "1 Stop",
+          "duree": "11h 50m",
+          "heure_arr": "17:55"
+        },
+        "scraped_at": "2026-07-10T21:53:42.766Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "CAI",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "152 772,00",
+        "prix_num": 152772,
+        "places": 4,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "21h 0m",
+          "heure_arr": "04:20"
+        },
+        "retour": {
+          "heure_dep": "10:05",
+          "nb_stops": "1 Stop",
+          "duree": "16h 25m",
+          "heure_arr": "06:30"
+        },
+        "scraped_at": "2026-07-10T21:53:42.766Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "CAI",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "152 772,00",
+        "prix_num": 152772,
+        "places": 4,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "21h 0m",
+          "heure_arr": "04:20"
+        },
+        "retour": {
+          "heure_dep": "06:05",
+          "nb_stops": "1 Stop",
+          "duree": "20h 30m",
+          "heure_arr": "06:30"
+        },
+        "scraped_at": "2026-07-10T21:53:42.766Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "CAI",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "182 812,00",
+        "prix_num": 182812,
+        "places": 0,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "21h 0m",
+          "heure_arr": "04:20"
+        },
+        "retour": {
+          "heure_dep": "10:05",
+          "nb_stops": "1 Stop",
+          "duree": "2h 25m",
+          "heure_arr": "16:45"
+        },
+        "scraped_at": "2026-07-10T21:53:42.766Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "CAI",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "182 812,00",
+        "prix_num": 182812,
+        "places": 0,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "21h 0m",
+          "heure_arr": "04:20"
+        },
+        "retour": {
+          "heure_dep": "06:05",
+          "nb_stops": "1 Stop",
+          "duree": "6h 30m",
+          "heure_arr": "16:45"
+        },
+        "scraped_at": "2026-07-10T21:53:42.766Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "BCN",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "70 423,00",
+        "prix_num": 70423,
+        "places": 4,
+        "aller": {
+          "heure_dep": "23:15",
+          "nb_stops": "Direct",
+          "duree": "01:30",
+          "heure_arr": "+1d"
+        },
+        "retour": {
+          "heure_dep": "09:00",
+          "nb_stops": "Direct",
+          "duree": "09:20",
+          "heure_arr": "Alger"
+        },
+        "scraped_at": "2026-07-10T21:54:18.513Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "BCN",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "70 423,00",
+        "prix_num": 70423,
+        "places": 4,
+        "aller": {
+          "heure_dep": "23:15",
+          "nb_stops": "Direct",
+          "duree": "01:30",
+          "heure_arr": "+1d"
+        },
+        "retour": {
+          "heure_dep": "23:45",
+          "nb_stops": "Direct",
+          "duree": "00:05",
+          "heure_arr": "+1d"
+        },
+        "scraped_at": "2026-07-10T21:54:18.513Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "BCN",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "151 041,00",
+        "prix_num": 151041,
+        "places": 0,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "3h 5m",
+          "heure_arr": "10:45"
+        },
+        "retour": {
+          "heure_dep": "14:35",
+          "nb_stops": "1 Stop",
+          "duree": "11h 15m",
+          "heure_arr": "08:15"
+        },
+        "scraped_at": "2026-07-10T21:54:18.513Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "BCN",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "151 041,00",
+        "prix_num": 151041,
+        "places": 0,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "3h 5m",
+          "heure_arr": "10:45"
+        },
+        "retour": {
+          "heure_dep": "14:35",
+          "nb_stops": "1 Stop",
+          "duree": "12h 40m",
+          "heure_arr": "09:45"
+        },
+        "scraped_at": "2026-07-10T21:54:18.513Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "BCN",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "151 041,00",
+        "prix_num": 151041,
+        "places": 0,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "5h 55m",
+          "heure_arr": "13:30"
+        },
+        "retour": {
+          "heure_dep": "14:35",
+          "nb_stops": "1 Stop",
+          "duree": "11h 15m",
+          "heure_arr": "08:15"
+        },
+        "scraped_at": "2026-07-10T21:54:18.513Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "BCN",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "151 041,00",
+        "prix_num": 151041,
+        "places": 0,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "5h 55m",
+          "heure_arr": "13:30"
+        },
+        "retour": {
+          "heure_dep": "14:35",
+          "nb_stops": "1 Stop",
+          "duree": "12h 40m",
+          "heure_arr": "09:45"
+        },
+        "scraped_at": "2026-07-10T21:54:18.513Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "BCN",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "151 041,00",
+        "prix_num": 151041,
+        "places": 0,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "3h 5m",
+          "heure_arr": "10:45"
+        },
+        "retour": {
+          "heure_dep": "07:40",
+          "nb_stops": "1 Stop",
+          "duree": "18h 20m",
+          "heure_arr": "08:15"
+        },
+        "scraped_at": "2026-07-10T21:54:18.513Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "BCN",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "151 041,00",
+        "prix_num": 151041,
+        "places": 0,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "10h 5m",
+          "heure_arr": "17:40"
+        },
+        "retour": {
+          "heure_dep": "14:35",
+          "nb_stops": "1 Stop",
+          "duree": "11h 15m",
+          "heure_arr": "08:15"
+        },
+        "scraped_at": "2026-07-10T21:54:18.513Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "BCN",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "151 041,00",
+        "prix_num": 151041,
+        "places": 0,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "3h 5m",
+          "heure_arr": "10:45"
+        },
+        "retour": {
+          "heure_dep": "07:40",
+          "nb_stops": "1 Stop",
+          "duree": "19h 45m",
+          "heure_arr": "09:45"
+        },
+        "scraped_at": "2026-07-10T21:54:18.513Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "BCN",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "151 041,00",
+        "prix_num": 151041,
+        "places": 0,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "10h 5m",
+          "heure_arr": "17:40"
+        },
+        "retour": {
+          "heure_dep": "14:35",
+          "nb_stops": "1 Stop",
+          "duree": "12h 40m",
+          "heure_arr": "09:45"
+        },
+        "scraped_at": "2026-07-10T21:54:18.513Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "BCN",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "151 041,00",
+        "prix_num": 151041,
+        "places": 0,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "5h 55m",
+          "heure_arr": "13:30"
+        },
+        "retour": {
+          "heure_dep": "07:40",
+          "nb_stops": "1 Stop",
+          "duree": "18h 20m",
+          "heure_arr": "08:15"
+        },
+        "scraped_at": "2026-07-10T21:54:18.513Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "BCN",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "151 041,00",
+        "prix_num": 151041,
+        "places": 0,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "5h 55m",
+          "heure_arr": "13:30"
+        },
+        "retour": {
+          "heure_dep": "07:40",
+          "nb_stops": "1 Stop",
+          "duree": "19h 45m",
+          "heure_arr": "09:45"
+        },
+        "scraped_at": "2026-07-10T21:54:18.513Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "BCN",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "151 041,00",
+        "prix_num": 151041,
+        "places": 0,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "15h 30m",
+          "heure_arr": "23:15"
+        },
+        "retour": {
+          "heure_dep": "14:35",
+          "nb_stops": "1 Stop",
+          "duree": "11h 15m",
+          "heure_arr": "08:15"
+        },
+        "scraped_at": "2026-07-10T21:54:18.513Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "BCN",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "151 041,00",
+        "prix_num": 151041,
+        "places": 0,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "10h 5m",
+          "heure_arr": "17:40"
+        },
+        "retour": {
+          "heure_dep": "07:40",
+          "nb_stops": "1 Stop",
+          "duree": "18h 20m",
+          "heure_arr": "08:15"
+        },
+        "scraped_at": "2026-07-10T21:54:18.513Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "BCN",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "151 041,00",
+        "prix_num": 151041,
+        "places": 0,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "15h 30m",
+          "heure_arr": "23:15"
+        },
+        "retour": {
+          "heure_dep": "14:35",
+          "nb_stops": "1 Stop",
+          "duree": "12h 40m",
+          "heure_arr": "09:45"
+        },
+        "scraped_at": "2026-07-10T21:54:18.513Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "BCN",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "151 041,00",
+        "prix_num": 151041,
+        "places": 0,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "10h 5m",
+          "heure_arr": "17:40"
+        },
+        "retour": {
+          "heure_dep": "07:40",
+          "nb_stops": "1 Stop",
+          "duree": "19h 45m",
+          "heure_arr": "09:45"
+        },
+        "scraped_at": "2026-07-10T21:54:18.513Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "BCN",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "151 041,00",
+        "prix_num": 151041,
+        "places": 0,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "15h 30m",
+          "heure_arr": "23:15"
+        },
+        "retour": {
+          "heure_dep": "07:40",
+          "nb_stops": "1 Stop",
+          "duree": "18h 20m",
+          "heure_arr": "08:15"
+        },
+        "scraped_at": "2026-07-10T21:54:18.513Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "BCN",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "151 041,00",
+        "prix_num": 151041,
+        "places": 0,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "15h 30m",
+          "heure_arr": "23:15"
+        },
+        "retour": {
+          "heure_dep": "07:40",
+          "nb_stops": "1 Stop",
+          "duree": "19h 45m",
+          "heure_arr": "09:45"
+        },
+        "scraped_at": "2026-07-10T21:54:18.513Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "BCN",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "153 731,00",
+        "prix_num": 153731,
+        "places": 0,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "3h 5m",
+          "heure_arr": "10:45"
+        },
+        "retour": {
+          "heure_dep": "14:35",
+          "nb_stops": "1 Stop",
+          "duree": "1h 5m",
+          "heure_arr": "22:05"
+        },
+        "scraped_at": "2026-07-10T21:54:18.513Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "BCN",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "153 731,00",
+        "prix_num": 153731,
+        "places": 0,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "5h 55m",
+          "heure_arr": "13:30"
+        },
+        "retour": {
+          "heure_dep": "14:35",
+          "nb_stops": "1 Stop",
+          "duree": "1h 5m",
+          "heure_arr": "22:05"
+        },
+        "scraped_at": "2026-07-10T21:54:18.513Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "MAD",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "141 121,00",
+        "prix_num": 141121,
+        "places": 4,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "10h 50m",
+          "heure_arr": "19:00"
+        },
+        "retour": {
+          "heure_dep": "12:00",
+          "nb_stops": "1 Stop",
+          "duree": "13h 15m",
+          "heure_arr": "08:15"
+        },
+        "scraped_at": "2026-07-10T21:54:30.095Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "MAD",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "141 121,00",
+        "prix_num": 141121,
+        "places": 4,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "10h 50m",
+          "heure_arr": "19:00"
+        },
+        "retour": {
+          "heure_dep": "12:00",
+          "nb_stops": "1 Stop",
+          "duree": "14h 40m",
+          "heure_arr": "09:45"
+        },
+        "scraped_at": "2026-07-10T21:54:30.095Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "MAD",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "141 121,00",
+        "prix_num": 141121,
+        "places": 4,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "10h 50m",
+          "heure_arr": "19:00"
+        },
+        "retour": {
+          "heure_dep": "07:40",
+          "nb_stops": "1 Stop",
+          "duree": "17h 30m",
+          "heure_arr": "08:15"
+        },
+        "scraped_at": "2026-07-10T21:54:30.095Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "MAD",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "141 121,00",
+        "prix_num": 141121,
+        "places": 4,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "10h 50m",
+          "heure_arr": "19:00"
+        },
+        "retour": {
+          "heure_dep": "07:40",
+          "nb_stops": "1 Stop",
+          "duree": "18h 55m",
+          "heure_arr": "09:45"
+        },
+        "scraped_at": "2026-07-10T21:54:30.095Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "MAD",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "152 676,00",
+        "prix_num": 152676,
+        "places": 4,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "10h 50m",
+          "heure_arr": "19:00"
+        },
+        "retour": {
+          "heure_dep": "09:10",
+          "nb_stops": "1 Stop",
+          "duree": "16h 35m",
+          "heure_arr": "08:15"
+        },
+        "scraped_at": "2026-07-10T21:54:30.095Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "MAD",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "152 676,00",
+        "prix_num": 152676,
+        "places": 4,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "10h 50m",
+          "heure_arr": "19:00"
+        },
+        "retour": {
+          "heure_dep": "09:10",
+          "nb_stops": "1 Stop",
+          "duree": "18h 0m",
+          "heure_arr": "09:45"
+        },
+        "scraped_at": "2026-07-10T21:54:30.095Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "MAD",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "157 296,00",
+        "prix_num": 157296,
+        "places": 4,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "10h 50m",
+          "heure_arr": "19:00"
+        },
+        "retour": {
+          "heure_dep": "12:00",
+          "nb_stops": "1 Stop",
+          "duree": "23h 10m",
+          "heure_arr": "17:55"
+        },
+        "scraped_at": "2026-07-10T21:54:30.095Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "MAD",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "160 636,00",
+        "prix_num": 160636,
+        "places": 4,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "10h 50m",
+          "heure_arr": "19:00"
+        },
+        "retour": {
+          "heure_dep": "07:40",
+          "nb_stops": "1 Stop",
+          "duree": "2h 0m",
+          "heure_arr": "16:45"
+        },
+        "scraped_at": "2026-07-10T21:54:30.095Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "MAD",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "162 906,00",
+        "prix_num": 162906,
+        "places": 4,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "10h 50m",
+          "heure_arr": "19:00"
+        },
+        "retour": {
+          "heure_dep": "07:40",
+          "nb_stops": "1 Stop",
+          "duree": "3h 25m",
+          "heure_arr": "17:55"
+        },
+        "scraped_at": "2026-07-10T21:54:30.095Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "MAD",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "162 906,00",
+        "prix_num": 162906,
+        "places": 4,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "10h 50m",
+          "heure_arr": "19:00"
+        },
+        "retour": {
+          "heure_dep": "12:00",
+          "nb_stops": "1 Stop",
+          "duree": "11h 45m",
+          "heure_arr": "06:30"
+        },
+        "scraped_at": "2026-07-10T21:54:30.095Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "MAD",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "162 906,00",
+        "prix_num": 162906,
+        "places": 4,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "10h 50m",
+          "heure_arr": "19:00"
+        },
+        "retour": {
+          "heure_dep": "07:40",
+          "nb_stops": "1 Stop",
+          "duree": "16h 0m",
+          "heure_arr": "06:30"
+        },
+        "scraped_at": "2026-07-10T21:54:30.095Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "MAD",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "167 176,00",
+        "prix_num": 167176,
+        "places": 4,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "10h 50m",
+          "heure_arr": "19:00"
+        },
+        "retour": {
+          "heure_dep": "18:25",
+          "nb_stops": "1 Stop",
+          "duree": "6h 50m",
+          "heure_arr": "08:15"
+        },
+        "scraped_at": "2026-07-10T21:54:30.095Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "MAD",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "167 176,00",
+        "prix_num": 167176,
+        "places": 4,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "10h 50m",
+          "heure_arr": "19:00"
+        },
+        "retour": {
+          "heure_dep": "18:25",
+          "nb_stops": "1 Stop",
+          "duree": "8h 15m",
+          "heure_arr": "09:45"
+        },
+        "scraped_at": "2026-07-10T21:54:30.095Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "MAD",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "169 856,00",
+        "prix_num": 169856,
+        "places": 4,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "10h 50m",
+          "heure_arr": "19:00"
+        },
+        "retour": {
+          "heure_dep": "18:25",
+          "nb_stops": "1 Stop",
+          "duree": "20h 40m",
+          "heure_arr": "22:05"
+        },
+        "scraped_at": "2026-07-10T21:54:30.095Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "MAD",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "172 826,00",
+        "prix_num": 172826,
+        "places": 4,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "10h 50m",
+          "heure_arr": "19:00"
+        },
+        "retour": {
+          "heure_dep": "09:10",
+          "nb_stops": "1 Stop",
+          "duree": "2h 30m",
+          "heure_arr": "17:55"
+        },
+        "scraped_at": "2026-07-10T21:54:30.095Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "MAD",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "172 826,00",
+        "prix_num": 172826,
+        "places": 4,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "10h 50m",
+          "heure_arr": "19:00"
+        },
+        "retour": {
+          "heure_dep": "09:10",
+          "nb_stops": "1 Stop",
+          "duree": "15h 5m",
+          "heure_arr": "06:30"
+        },
+        "scraped_at": "2026-07-10T21:54:30.095Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "MAD",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "181 746,00",
+        "prix_num": 181746,
+        "places": 4,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "10h 50m",
+          "heure_arr": "19:00"
+        },
+        "retour": {
+          "heure_dep": "12:00",
+          "nb_stops": "1 Stop",
+          "duree": "3h 5m",
+          "heure_arr": "22:05"
+        },
+        "scraped_at": "2026-07-10T21:54:30.095Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "MAD",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "181 746,00",
+        "prix_num": 181746,
+        "places": 4,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "10h 50m",
+          "heure_arr": "19:00"
+        },
+        "retour": {
+          "heure_dep": "07:40",
+          "nb_stops": "1 Stop",
+          "duree": "7h 20m",
+          "heure_arr": "22:05"
+        },
+        "scraped_at": "2026-07-10T21:54:30.095Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "MAD",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "187 326,00",
+        "prix_num": 187326,
+        "places": 4,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "10h 50m",
+          "heure_arr": "19:00"
+        },
+        "retour": {
+          "heure_dep": "18:25",
+          "nb_stops": "1 Stop",
+          "duree": "5h 20m",
+          "heure_arr": "06:30"
+        },
+        "scraped_at": "2026-07-10T21:54:30.095Z"
+      },
+      {
+        "origine": "ALG",
+        "destination": "MAD",
+        "type": "RT",
+        "adultes": 1,
+        "date_aller": "2026-07-10",
+        "date_retour": "2026-07-20",
+        "prix_dzd": "187 326,00",
+        "prix_num": 187326,
+        "places": 4,
+        "aller": {
+          "heure_dep": "23:25",
+          "nb_stops": "1 Stop",
+          "duree": "10h 50m",
+          "heure_arr": "19:00"
+        },
+        "retour": {
+          "heure_dep": "18:25",
+          "nb_stops": "1 Stop",
+          "duree": "16h 45m",
+          "heure_arr": "17:55"
+        },
+        "scraped_at": "2026-07-10T21:54:30.095Z"
+      }
+    ],
+    "changements": [
+      {
+        "route": "ALG → AYT",
+        "date": "2026-07-10",
+        "ancien_prix": 103114,
+        "nouveau_prix": 130754,
+        "difference": 27640,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → AYT",
+        "date": "2026-07-10",
+        "ancien_prix": 103114,
+        "nouveau_prix": 130754,
+        "difference": 27640,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → AYT",
+        "date": "2026-07-10",
+        "ancien_prix": 103114,
+        "nouveau_prix": 132404,
+        "difference": 29290,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → AYT",
+        "date": "2026-07-10",
+        "ancien_prix": 103114,
+        "nouveau_prix": 132404,
+        "difference": 29290,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → AYT",
+        "date": "2026-07-10",
+        "ancien_prix": 103114,
+        "nouveau_prix": 132404,
+        "difference": 29290,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → AYT",
+        "date": "2026-07-10",
+        "ancien_prix": 103114,
+        "nouveau_prix": 132404,
+        "difference": 29290,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → AYT",
+        "date": "2026-07-10",
+        "ancien_prix": 103114,
+        "nouveau_prix": 132404,
+        "difference": 29290,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → AYT",
+        "date": "2026-07-10",
+        "ancien_prix": 103114,
+        "nouveau_prix": 153849,
+        "difference": 50735,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → AYT",
+        "date": "2026-07-10",
+        "ancien_prix": 103114,
+        "nouveau_prix": 154519,
+        "difference": 51405,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → AYT",
+        "date": "2026-07-10",
+        "ancien_prix": 103114,
+        "nouveau_prix": 154519,
+        "difference": 51405,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → AYT",
+        "date": "2026-07-10",
+        "ancien_prix": 103114,
+        "nouveau_prix": 154519,
+        "difference": 51405,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → AYT",
+        "date": "2026-07-10",
+        "ancien_prix": 103114,
+        "nouveau_prix": 154519,
+        "difference": 51405,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → AYT",
+        "date": "2026-07-10",
+        "ancien_prix": 103114,
+        "nouveau_prix": 154519,
+        "difference": 51405,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → AYT",
+        "date": "2026-07-10",
+        "ancien_prix": 103114,
+        "nouveau_prix": 154519,
+        "difference": 51405,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → AYT",
+        "date": "2026-07-10",
+        "ancien_prix": 103114,
+        "nouveau_prix": 203889,
+        "difference": 100775,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → AYT",
+        "date": "2026-07-10",
+        "ancien_prix": 103114,
+        "nouveau_prix": 203889,
+        "difference": 100775,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → AYT",
+        "date": "2026-07-10",
+        "ancien_prix": 103114,
+        "nouveau_prix": 205539,
+        "difference": 102425,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → AYT",
+        "date": "2026-07-10",
+        "ancien_prix": 103114,
+        "nouveau_prix": 205539,
+        "difference": 102425,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → AYT",
+        "date": "2026-07-10",
+        "ancien_prix": 103114,
+        "nouveau_prix": 205539,
+        "difference": 102425,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → AYT",
+        "date": "2026-07-10",
+        "ancien_prix": 103114,
+        "nouveau_prix": 205539,
+        "difference": 102425,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → CAI",
+        "date": "2026-07-10",
+        "ancien_prix": 130987,
+        "nouveau_prix": 134887,
+        "difference": 3900,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → CAI",
+        "date": "2026-07-10",
+        "ancien_prix": 130987,
+        "nouveau_prix": 144332,
+        "difference": 13345,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → CAI",
+        "date": "2026-07-10",
+        "ancien_prix": 130987,
+        "nouveau_prix": 144332,
+        "difference": 13345,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → CAI",
+        "date": "2026-07-10",
+        "ancien_prix": 130987,
+        "nouveau_prix": 144332,
+        "difference": 13345,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → CAI",
+        "date": "2026-07-10",
+        "ancien_prix": 130987,
+        "nouveau_prix": 144332,
+        "difference": 13345,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → CAI",
+        "date": "2026-07-10",
+        "ancien_prix": 130987,
+        "nouveau_prix": 152772,
+        "difference": 21785,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → CAI",
+        "date": "2026-07-10",
+        "ancien_prix": 130987,
+        "nouveau_prix": 152772,
+        "difference": 21785,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → CAI",
+        "date": "2026-07-10",
+        "ancien_prix": 130987,
+        "nouveau_prix": 152772,
+        "difference": 21785,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → CAI",
+        "date": "2026-07-10",
+        "ancien_prix": 130987,
+        "nouveau_prix": 152772,
+        "difference": 21785,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → CAI",
+        "date": "2026-07-10",
+        "ancien_prix": 130987,
+        "nouveau_prix": 152772,
+        "difference": 21785,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → CAI",
+        "date": "2026-07-10",
+        "ancien_prix": 130987,
+        "nouveau_prix": 182812,
+        "difference": 51825,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → CAI",
+        "date": "2026-07-10",
+        "ancien_prix": 130987,
+        "nouveau_prix": 182812,
+        "difference": 51825,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → BCN",
+        "date": "2026-07-10",
+        "ancien_prix": 65923,
+        "nouveau_prix": 70423,
+        "difference": 4500,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → BCN",
+        "date": "2026-07-10",
+        "ancien_prix": 65923,
+        "nouveau_prix": 70423,
+        "difference": 4500,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → BCN",
+        "date": "2026-07-10",
+        "ancien_prix": 151041,
+        "nouveau_prix": 153731,
+        "difference": 2690,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → BCN",
+        "date": "2026-07-10",
+        "ancien_prix": 151041,
+        "nouveau_prix": 153731,
+        "difference": 2690,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → MAD",
+        "date": "2026-07-10",
+        "ancien_prix": 125581,
+        "nouveau_prix": 141121,
+        "difference": 15540,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → MAD",
+        "date": "2026-07-10",
+        "ancien_prix": 125581,
+        "nouveau_prix": 141121,
+        "difference": 15540,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → MAD",
+        "date": "2026-07-10",
+        "ancien_prix": 125581,
+        "nouveau_prix": 141121,
+        "difference": 15540,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → MAD",
+        "date": "2026-07-10",
+        "ancien_prix": 125581,
+        "nouveau_prix": 141121,
+        "difference": 15540,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → MAD",
+        "date": "2026-07-10",
+        "ancien_prix": 125581,
+        "nouveau_prix": 152676,
+        "difference": 27095,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → MAD",
+        "date": "2026-07-10",
+        "ancien_prix": 125581,
+        "nouveau_prix": 152676,
+        "difference": 27095,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → MAD",
+        "date": "2026-07-10",
+        "ancien_prix": 125581,
+        "nouveau_prix": 157296,
+        "difference": 31715,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → MAD",
+        "date": "2026-07-10",
+        "ancien_prix": 125581,
+        "nouveau_prix": 160636,
+        "difference": 35055,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → MAD",
+        "date": "2026-07-10",
+        "ancien_prix": 125581,
+        "nouveau_prix": 162906,
+        "difference": 37325,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → MAD",
+        "date": "2026-07-10",
+        "ancien_prix": 125581,
+        "nouveau_prix": 162906,
+        "difference": 37325,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → MAD",
+        "date": "2026-07-10",
+        "ancien_prix": 125581,
+        "nouveau_prix": 162906,
+        "difference": 37325,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → MAD",
+        "date": "2026-07-10",
+        "ancien_prix": 125581,
+        "nouveau_prix": 167176,
+        "difference": 41595,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → MAD",
+        "date": "2026-07-10",
+        "ancien_prix": 125581,
+        "nouveau_prix": 167176,
+        "difference": 41595,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → MAD",
+        "date": "2026-07-10",
+        "ancien_prix": 125581,
+        "nouveau_prix": 169856,
+        "difference": 44275,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → MAD",
+        "date": "2026-07-10",
+        "ancien_prix": 125581,
+        "nouveau_prix": 172826,
+        "difference": 47245,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → MAD",
+        "date": "2026-07-10",
+        "ancien_prix": 125581,
+        "nouveau_prix": 172826,
+        "difference": 47245,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → MAD",
+        "date": "2026-07-10",
+        "ancien_prix": 125581,
+        "nouveau_prix": 181746,
+        "difference": 56165,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → MAD",
+        "date": "2026-07-10",
+        "ancien_prix": 125581,
+        "nouveau_prix": 181746,
+        "difference": 56165,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → MAD",
+        "date": "2026-07-10",
+        "ancien_prix": 125581,
+        "nouveau_prix": 187326,
+        "difference": 61745,
+        "direction": "📈 hausse"
+      },
+      {
+        "route": "ALG → MAD",
+        "date": "2026-07-10",
+        "ancien_prix": 125581,
+        "nouveau_prix": 187326,
+        "difference": 61745,
+        "direction": "📈 hausse"
+      }
+    ]
   }
 ]
