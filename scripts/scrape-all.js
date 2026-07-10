@@ -5,24 +5,28 @@ const fs            = require('fs');
 
 const delay = ms => new Promise(r => setTimeout(r, ms));
 
+// Date dynamique : toujours "aujourd'hui" comme point de départ,
+// et +10 jours pour le retour, aligné avec h24voyages
+const AUJOURD_HUI = new Date().toISOString().split('T')[0];
+
 const CONFIG = {
   origines: [
-    { code: 'ALG', nom: 'Alger'       },
-    { code: 'ORN', nom: 'Oran'        },
-    { code: 'CZL', nom: 'Constantine' },
-    { code: 'TUN', nom: 'Tunis'       },
-    { code: 'CMN', nom: 'Casablanca'  },
+    { code: 'ALG', nom: 'Alger' },
   ],
   destinations: [
-    { code: 'CDG', nom: 'Paris'     },
-    { code: 'IST', nom: 'Istanbul'  },
-    { code: 'DXB', nom: 'Dubai'     },
-    { code: 'BCN', nom: 'Barcelone' },
-    { code: 'LHR', nom: 'Londres'   },
+    { code: 'CDG', nom: 'Paris'           },
+    { code: 'IST', nom: 'Istanbul'        },
+    { code: 'AYT', nom: 'Antalya'         },
+    { code: 'CAI', nom: 'Le Caire'        },
+    { code: 'SSH', nom: 'Sharm El Sheikh' },
+    { code: 'DXB', nom: 'Dubai'           },
+    { code: 'BCN', nom: 'Barcelone'       },
+    { code: 'MAD', nom: 'Madrid'          },
+    { code: 'TUN', nom: 'Tunis'           },
   ],
-  dates: ['2026-08-01','2026-08-15','2026-09-01','2026-09-15'],
-  types:   ['OW', 'RT'],
-  adultes: [1, 2],
+  dates: [AUJOURD_HUI],
+  types:   ['RT'],
+  adultes: [1],
   delaiEntreRequetes: 3000,
 };
 
@@ -93,7 +97,7 @@ const parseVol = (raw, combo) => {
           for (const adultes of CONFIG.adultes) {
             numRecherche++;
             const dateRetour = type === 'RT'
-              ? new Date(new Date(dateAller).getTime() + 7*86400000).toISOString().split('T')[0] : '';
+              ? new Date(new Date(dateAller).getTime() + 10*86400000).toISOString().split('T')[0] : '';
             const combo = { origine, destination, dateAller, dateRetour, adultes, type };
             process.stdout.write(`[${numRecherche}/${totalRecherches}] ${origine.code}→${destination.code} ${dateAller} ${type} ${adultes}pax ... `);
             try {
@@ -119,7 +123,6 @@ const parseVol = (raw, combo) => {
   }
   await browser.close();
 
-  // Détecter les changements de prix
   const changements = [];
   if (historique.length > 0) {
     const ancienVols = historique[historique.length-1].vols || [];
@@ -155,7 +158,6 @@ const parseVol = (raw, combo) => {
     changements.forEach(c => console.log(`  ${c.direction} ${c.route} ${c.date} : ${c.ancien_prix} → ${c.nouveau_prix} DZD`));
   }
 
-  // Auto push GitHub
   try {
     console.log('\n📤 Push GitHub...');
     execSync(`git add output/ && git commit -m "scraping ${dateAujourd} - ${tousLesVols.length} vols" && git push`, { stdio: 'inherit' });
