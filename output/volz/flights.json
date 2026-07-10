@@ -12,7 +12,7 @@
     "price": 342474,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:53:04.695Z"
+    "scraped_at": "2026-07-10T22:00:11.464Z"
   },
   {
     "site": "volz",
@@ -27,7 +27,7 @@
     "price": 342474,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:53:04.695Z"
+    "scraped_at": "2026-07-10T22:00:11.464Z"
   },
   {
     "site": "volz",
@@ -42,7 +42,7 @@
     "price": 342474,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:53:04.695Z"
+    "scraped_at": "2026-07-10T22:00:11.464Z"
   },
   {
     "site": "volz",
@@ -57,7 +57,7 @@
     "price": 130754,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:53:29.734Z"
+    "scraped_at": "2026-07-10T22:00:36.396Z"
   },
   {
     "site": "volz",
@@ -72,7 +72,7 @@
     "price": 130754,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:53:29.734Z"
+    "scraped_at": "2026-07-10T22:00:36.397Z"
   },
   {
     "site": "volz",
@@ -87,7 +87,7 @@
     "price": 132404,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:53:29.734Z"
+    "scraped_at": "2026-07-10T22:00:36.397Z"
   },
   {
     "site": "volz",
@@ -102,7 +102,7 @@
     "price": 132404,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:53:29.734Z"
+    "scraped_at": "2026-07-10T22:00:36.397Z"
   },
   {
     "site": "volz",
@@ -117,7 +117,7 @@
     "price": 132404,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:53:29.734Z"
+    "scraped_at": "2026-07-10T22:00:36.397Z"
   },
   {
     "site": "volz",
@@ -132,7 +132,7 @@
     "price": 132404,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:53:29.734Z"
+    "scraped_at": "2026-07-10T22:00:36.397Z"
   },
   {
     "site": "volz",
@@ -147,7 +147,7 @@
     "price": 132404,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:53:29.734Z"
+    "scraped_at": "2026-07-10T22:00:36.397Z"
   },
   {
     "site": "volz",
@@ -162,7 +162,7 @@
     "price": 153849,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:53:29.734Z"
+    "scraped_at": "2026-07-10T22:00:36.397Z"
   },
   {
     "site": "volz",
@@ -177,7 +177,7 @@
     "price": 154519,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:53:29.734Z"
+    "scraped_at": "2026-07-10T22:00:36.397Z"
   },
   {
     "site": "volz",
@@ -192,7 +192,7 @@
     "price": 154519,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:53:29.734Z"
+    "scraped_at": "2026-07-10T22:00:36.397Z"
   },
   {
     "site": "volz",
@@ -207,7 +207,7 @@
     "price": 154519,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:53:29.734Z"
+    "scraped_at": "2026-07-10T22:00:36.397Z"
   },
   {
     "site": "volz",
@@ -222,7 +222,7 @@
     "price": 154519,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:53:29.734Z"
+    "scraped_at": "2026-07-10T22:00:36.397Z"
   },
   {
     "site": "volz",
@@ -237,7 +237,7 @@
     "price": 154519,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:53:29.734Z"
+    "scraped_at": "2026-07-10T22:00:36.397Z"
   },
   {
     "site": "volz",
@@ -252,97 +252,7 @@
     "price": 154519,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:53:29.734Z"
-  },
-  {
-    "site": "volz",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "AYT",
-    "destinationName": "Antalya",
-    "tripType": "RT",
-    "adults": 1,
-    "departDate": "2026-07-10",
-    "returnDate": "2026-07-20",
-    "price": 203889,
-    "currency": "DZD",
-    "airline": null,
-    "scraped_at": "2026-07-10T21:53:29.734Z"
-  },
-  {
-    "site": "volz",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "AYT",
-    "destinationName": "Antalya",
-    "tripType": "RT",
-    "adults": 1,
-    "departDate": "2026-07-10",
-    "returnDate": "2026-07-20",
-    "price": 203889,
-    "currency": "DZD",
-    "airline": null,
-    "scraped_at": "2026-07-10T21:53:29.734Z"
-  },
-  {
-    "site": "volz",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "AYT",
-    "destinationName": "Antalya",
-    "tripType": "RT",
-    "adults": 1,
-    "departDate": "2026-07-10",
-    "returnDate": "2026-07-20",
-    "price": 205539,
-    "currency": "DZD",
-    "airline": null,
-    "scraped_at": "2026-07-10T21:53:29.734Z"
-  },
-  {
-    "site": "volz",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "AYT",
-    "destinationName": "Antalya",
-    "tripType": "RT",
-    "adults": 1,
-    "departDate": "2026-07-10",
-    "returnDate": "2026-07-20",
-    "price": 205539,
-    "currency": "DZD",
-    "airline": null,
-    "scraped_at": "2026-07-10T21:53:29.734Z"
-  },
-  {
-    "site": "volz",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "AYT",
-    "destinationName": "Antalya",
-    "tripType": "RT",
-    "adults": 1,
-    "departDate": "2026-07-10",
-    "returnDate": "2026-07-20",
-    "price": 205539,
-    "currency": "DZD",
-    "airline": null,
-    "scraped_at": "2026-07-10T21:53:29.734Z"
-  },
-  {
-    "site": "volz",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "AYT",
-    "destinationName": "Antalya",
-    "tripType": "RT",
-    "adults": 1,
-    "departDate": "2026-07-10",
-    "returnDate": "2026-07-20",
-    "price": 205539,
-    "currency": "DZD",
-    "airline": null,
-    "scraped_at": "2026-07-10T21:53:29.734Z"
+    "scraped_at": "2026-07-10T22:00:36.397Z"
   },
   {
     "site": "volz",
@@ -354,10 +264,10 @@
     "adults": 1,
     "departDate": "2026-07-10",
     "returnDate": "2026-07-20",
-    "price": 130987,
+    "price": 146452,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:53:42.766Z"
+    "scraped_at": "2026-07-10T22:00:49.670Z"
   },
   {
     "site": "volz",
@@ -369,10 +279,10 @@
     "adults": 1,
     "departDate": "2026-07-10",
     "returnDate": "2026-07-20",
-    "price": 130987,
+    "price": 146452,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:53:42.766Z"
+    "scraped_at": "2026-07-10T22:00:49.670Z"
   },
   {
     "site": "volz",
@@ -384,10 +294,10 @@
     "adults": 1,
     "departDate": "2026-07-10",
     "returnDate": "2026-07-20",
-    "price": 130987,
+    "price": 146452,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:53:42.766Z"
+    "scraped_at": "2026-07-10T22:00:49.670Z"
   },
   {
     "site": "volz",
@@ -399,10 +309,10 @@
     "adults": 1,
     "departDate": "2026-07-10",
     "returnDate": "2026-07-20",
-    "price": 130987,
+    "price": 146452,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:53:42.766Z"
+    "scraped_at": "2026-07-10T22:00:49.670Z"
   },
   {
     "site": "volz",
@@ -414,10 +324,10 @@
     "adults": 1,
     "departDate": "2026-07-10",
     "returnDate": "2026-07-20",
-    "price": 130987,
+    "price": 146452,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:53:42.766Z"
+    "scraped_at": "2026-07-10T22:00:49.670Z"
   },
   {
     "site": "volz",
@@ -429,10 +339,10 @@
     "adults": 1,
     "departDate": "2026-07-10",
     "returnDate": "2026-07-20",
-    "price": 130987,
+    "price": 146452,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:53:42.766Z"
+    "scraped_at": "2026-07-10T22:00:49.670Z"
   },
   {
     "site": "volz",
@@ -444,10 +354,10 @@
     "adults": 1,
     "departDate": "2026-07-10",
     "returnDate": "2026-07-20",
-    "price": 130987,
+    "price": 146452,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:53:42.766Z"
+    "scraped_at": "2026-07-10T22:00:49.670Z"
   },
   {
     "site": "volz",
@@ -459,10 +369,10 @@
     "adults": 1,
     "departDate": "2026-07-10",
     "returnDate": "2026-07-20",
-    "price": 130987,
+    "price": 146452,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:53:42.766Z"
+    "scraped_at": "2026-07-10T22:00:49.670Z"
   },
   {
     "site": "volz",
@@ -474,10 +384,10 @@
     "adults": 1,
     "departDate": "2026-07-10",
     "returnDate": "2026-07-20",
-    "price": 134887,
+    "price": 158162,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:53:42.766Z"
+    "scraped_at": "2026-07-10T22:00:49.670Z"
   },
   {
     "site": "volz",
@@ -489,10 +399,10 @@
     "adults": 1,
     "departDate": "2026-07-10",
     "returnDate": "2026-07-20",
-    "price": 144332,
+    "price": 158162,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:53:42.766Z"
+    "scraped_at": "2026-07-10T22:00:49.670Z"
   },
   {
     "site": "volz",
@@ -504,10 +414,10 @@
     "adults": 1,
     "departDate": "2026-07-10",
     "returnDate": "2026-07-20",
-    "price": 144332,
+    "price": 158162,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:53:42.766Z"
+    "scraped_at": "2026-07-10T22:00:49.670Z"
   },
   {
     "site": "volz",
@@ -519,10 +429,10 @@
     "adults": 1,
     "departDate": "2026-07-10",
     "returnDate": "2026-07-20",
-    "price": 144332,
+    "price": 158162,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:53:42.766Z"
+    "scraped_at": "2026-07-10T22:00:49.670Z"
   },
   {
     "site": "volz",
@@ -534,10 +444,10 @@
     "adults": 1,
     "departDate": "2026-07-10",
     "returnDate": "2026-07-20",
-    "price": 144332,
+    "price": 158162,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:53:42.766Z"
+    "scraped_at": "2026-07-10T22:00:49.670Z"
   },
   {
     "site": "volz",
@@ -549,10 +459,10 @@
     "adults": 1,
     "departDate": "2026-07-10",
     "returnDate": "2026-07-20",
-    "price": 152772,
+    "price": 158162,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:53:42.766Z"
+    "scraped_at": "2026-07-10T22:00:49.670Z"
   },
   {
     "site": "volz",
@@ -564,10 +474,10 @@
     "adults": 1,
     "departDate": "2026-07-10",
     "returnDate": "2026-07-20",
-    "price": 152772,
+    "price": 158162,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:53:42.766Z"
+    "scraped_at": "2026-07-10T22:00:49.670Z"
   },
   {
     "site": "volz",
@@ -579,10 +489,10 @@
     "adults": 1,
     "departDate": "2026-07-10",
     "returnDate": "2026-07-20",
-    "price": 152772,
+    "price": 158162,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:53:42.766Z"
+    "scraped_at": "2026-07-10T22:00:49.670Z"
   },
   {
     "site": "volz",
@@ -594,10 +504,10 @@
     "adults": 1,
     "departDate": "2026-07-10",
     "returnDate": "2026-07-20",
-    "price": 152772,
+    "price": 159432,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:53:42.766Z"
+    "scraped_at": "2026-07-10T22:00:49.670Z"
   },
   {
     "site": "volz",
@@ -609,10 +519,10 @@
     "adults": 1,
     "departDate": "2026-07-10",
     "returnDate": "2026-07-20",
-    "price": 152772,
+    "price": 159432,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:53:42.766Z"
+    "scraped_at": "2026-07-10T22:00:49.670Z"
   },
   {
     "site": "volz",
@@ -624,10 +534,10 @@
     "adults": 1,
     "departDate": "2026-07-10",
     "returnDate": "2026-07-20",
-    "price": 182812,
+    "price": 159432,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:53:42.766Z"
+    "scraped_at": "2026-07-10T22:00:49.670Z"
   },
   {
     "site": "volz",
@@ -639,10 +549,115 @@
     "adults": 1,
     "departDate": "2026-07-10",
     "returnDate": "2026-07-20",
-    "price": 182812,
+    "price": 159432,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:53:42.766Z"
+    "scraped_at": "2026-07-10T22:00:49.670Z"
+  },
+  {
+    "site": "volz",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "DXB",
+    "destinationName": "Dubai",
+    "tripType": "RT",
+    "adults": 1,
+    "departDate": "2026-07-10",
+    "returnDate": "2026-07-20",
+    "price": 313408,
+    "currency": "DZD",
+    "airline": null,
+    "scraped_at": "2026-07-10T22:01:14.833Z"
+  },
+  {
+    "site": "volz",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "DXB",
+    "destinationName": "Dubai",
+    "tripType": "RT",
+    "adults": 1,
+    "departDate": "2026-07-10",
+    "returnDate": "2026-07-20",
+    "price": 313408,
+    "currency": "DZD",
+    "airline": null,
+    "scraped_at": "2026-07-10T22:01:14.833Z"
+  },
+  {
+    "site": "volz",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "DXB",
+    "destinationName": "Dubai",
+    "tripType": "RT",
+    "adults": 1,
+    "departDate": "2026-07-10",
+    "returnDate": "2026-07-20",
+    "price": 325858,
+    "currency": "DZD",
+    "airline": null,
+    "scraped_at": "2026-07-10T22:01:14.833Z"
+  },
+  {
+    "site": "volz",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "DXB",
+    "destinationName": "Dubai",
+    "tripType": "RT",
+    "adults": 1,
+    "departDate": "2026-07-10",
+    "returnDate": "2026-07-20",
+    "price": 332088,
+    "currency": "DZD",
+    "airline": null,
+    "scraped_at": "2026-07-10T22:01:14.833Z"
+  },
+  {
+    "site": "volz",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "DXB",
+    "destinationName": "Dubai",
+    "tripType": "RT",
+    "adults": 1,
+    "departDate": "2026-07-10",
+    "returnDate": "2026-07-20",
+    "price": 332088,
+    "currency": "DZD",
+    "airline": null,
+    "scraped_at": "2026-07-10T22:01:14.833Z"
+  },
+  {
+    "site": "volz",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "DXB",
+    "destinationName": "Dubai",
+    "tripType": "RT",
+    "adults": 1,
+    "departDate": "2026-07-10",
+    "returnDate": "2026-07-20",
+    "price": 352058,
+    "currency": "DZD",
+    "airline": null,
+    "scraped_at": "2026-07-10T22:01:14.833Z"
+  },
+  {
+    "site": "volz",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "DXB",
+    "destinationName": "Dubai",
+    "tripType": "RT",
+    "adults": 1,
+    "departDate": "2026-07-10",
+    "returnDate": "2026-07-20",
+    "price": 352058,
+    "currency": "DZD",
+    "airline": null,
+    "scraped_at": "2026-07-10T22:01:14.833Z"
   },
   {
     "site": "volz",
@@ -657,7 +672,7 @@
     "price": 70423,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:54:18.513Z"
+    "scraped_at": "2026-07-10T22:01:25.676Z"
   },
   {
     "site": "volz",
@@ -672,7 +687,7 @@
     "price": 70423,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:54:18.513Z"
+    "scraped_at": "2026-07-10T22:01:25.676Z"
   },
   {
     "site": "volz",
@@ -687,7 +702,7 @@
     "price": 151041,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:54:18.513Z"
+    "scraped_at": "2026-07-10T22:01:25.676Z"
   },
   {
     "site": "volz",
@@ -702,7 +717,7 @@
     "price": 151041,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:54:18.513Z"
+    "scraped_at": "2026-07-10T22:01:25.676Z"
   },
   {
     "site": "volz",
@@ -717,7 +732,7 @@
     "price": 151041,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:54:18.513Z"
+    "scraped_at": "2026-07-10T22:01:25.676Z"
   },
   {
     "site": "volz",
@@ -732,7 +747,7 @@
     "price": 151041,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:54:18.513Z"
+    "scraped_at": "2026-07-10T22:01:25.676Z"
   },
   {
     "site": "volz",
@@ -747,7 +762,7 @@
     "price": 151041,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:54:18.513Z"
+    "scraped_at": "2026-07-10T22:01:25.676Z"
   },
   {
     "site": "volz",
@@ -762,7 +777,7 @@
     "price": 151041,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:54:18.513Z"
+    "scraped_at": "2026-07-10T22:01:25.676Z"
   },
   {
     "site": "volz",
@@ -777,7 +792,7 @@
     "price": 151041,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:54:18.513Z"
+    "scraped_at": "2026-07-10T22:01:25.676Z"
   },
   {
     "site": "volz",
@@ -792,7 +807,7 @@
     "price": 151041,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:54:18.513Z"
+    "scraped_at": "2026-07-10T22:01:25.676Z"
   },
   {
     "site": "volz",
@@ -807,7 +822,7 @@
     "price": 151041,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:54:18.513Z"
+    "scraped_at": "2026-07-10T22:01:25.676Z"
   },
   {
     "site": "volz",
@@ -822,7 +837,7 @@
     "price": 151041,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:54:18.513Z"
+    "scraped_at": "2026-07-10T22:01:25.676Z"
   },
   {
     "site": "volz",
@@ -837,7 +852,7 @@
     "price": 151041,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:54:18.513Z"
+    "scraped_at": "2026-07-10T22:01:25.676Z"
   },
   {
     "site": "volz",
@@ -852,7 +867,7 @@
     "price": 151041,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:54:18.513Z"
+    "scraped_at": "2026-07-10T22:01:25.676Z"
   },
   {
     "site": "volz",
@@ -867,7 +882,7 @@
     "price": 151041,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:54:18.513Z"
+    "scraped_at": "2026-07-10T22:01:25.676Z"
   },
   {
     "site": "volz",
@@ -882,7 +897,7 @@
     "price": 151041,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:54:18.513Z"
+    "scraped_at": "2026-07-10T22:01:25.676Z"
   },
   {
     "site": "volz",
@@ -897,7 +912,7 @@
     "price": 151041,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:54:18.513Z"
+    "scraped_at": "2026-07-10T22:01:25.676Z"
   },
   {
     "site": "volz",
@@ -912,7 +927,7 @@
     "price": 151041,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:54:18.513Z"
+    "scraped_at": "2026-07-10T22:01:25.676Z"
   },
   {
     "site": "volz",
@@ -924,10 +939,10 @@
     "adults": 1,
     "departDate": "2026-07-10",
     "returnDate": "2026-07-20",
-    "price": 153731,
+    "price": 151041,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:54:18.513Z"
+    "scraped_at": "2026-07-10T22:01:25.676Z"
   },
   {
     "site": "volz",
@@ -939,10 +954,10 @@
     "adults": 1,
     "departDate": "2026-07-10",
     "returnDate": "2026-07-20",
-    "price": 153731,
+    "price": 151041,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:54:18.513Z"
+    "scraped_at": "2026-07-10T22:01:25.676Z"
   },
   {
     "site": "volz",
@@ -957,7 +972,7 @@
     "price": 141121,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:54:30.095Z"
+    "scraped_at": "2026-07-10T22:01:37.322Z"
   },
   {
     "site": "volz",
@@ -972,7 +987,7 @@
     "price": 141121,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:54:30.095Z"
+    "scraped_at": "2026-07-10T22:01:37.322Z"
   },
   {
     "site": "volz",
@@ -987,7 +1002,7 @@
     "price": 141121,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:54:30.095Z"
+    "scraped_at": "2026-07-10T22:01:37.322Z"
   },
   {
     "site": "volz",
@@ -1002,7 +1017,7 @@
     "price": 141121,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:54:30.095Z"
+    "scraped_at": "2026-07-10T22:01:37.322Z"
   },
   {
     "site": "volz",
@@ -1017,7 +1032,7 @@
     "price": 152676,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:54:30.095Z"
+    "scraped_at": "2026-07-10T22:01:37.322Z"
   },
   {
     "site": "volz",
@@ -1032,22 +1047,7 @@
     "price": 152676,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:54:30.095Z"
-  },
-  {
-    "site": "volz",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "MAD",
-    "destinationName": "Madrid",
-    "tripType": "RT",
-    "adults": 1,
-    "departDate": "2026-07-10",
-    "returnDate": "2026-07-20",
-    "price": 157296,
-    "currency": "DZD",
-    "airline": null,
-    "scraped_at": "2026-07-10T21:54:30.095Z"
+    "scraped_at": "2026-07-10T22:01:37.322Z"
   },
   {
     "site": "volz",
@@ -1062,7 +1062,7 @@
     "price": 160636,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:54:30.095Z"
+    "scraped_at": "2026-07-10T22:01:37.322Z"
   },
   {
     "site": "volz",
@@ -1077,7 +1077,7 @@
     "price": 162906,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:54:30.095Z"
+    "scraped_at": "2026-07-10T22:01:37.322Z"
   },
   {
     "site": "volz",
@@ -1092,7 +1092,7 @@
     "price": 162906,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:54:30.095Z"
+    "scraped_at": "2026-07-10T22:01:37.322Z"
   },
   {
     "site": "volz",
@@ -1107,7 +1107,22 @@
     "price": 162906,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:54:30.095Z"
+    "scraped_at": "2026-07-10T22:01:37.322Z"
+  },
+  {
+    "site": "volz",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "MAD",
+    "destinationName": "Madrid",
+    "tripType": "RT",
+    "adults": 1,
+    "departDate": "2026-07-10",
+    "returnDate": "2026-07-20",
+    "price": 162906,
+    "currency": "DZD",
+    "airline": null,
+    "scraped_at": "2026-07-10T22:01:37.322Z"
   },
   {
     "site": "volz",
@@ -1122,7 +1137,7 @@
     "price": 167176,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:54:30.095Z"
+    "scraped_at": "2026-07-10T22:01:37.322Z"
   },
   {
     "site": "volz",
@@ -1137,7 +1152,7 @@
     "price": 167176,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:54:30.095Z"
+    "scraped_at": "2026-07-10T22:01:37.322Z"
   },
   {
     "site": "volz",
@@ -1152,7 +1167,7 @@
     "price": 169856,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:54:30.095Z"
+    "scraped_at": "2026-07-10T22:01:37.322Z"
   },
   {
     "site": "volz",
@@ -1167,7 +1182,7 @@
     "price": 172826,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:54:30.095Z"
+    "scraped_at": "2026-07-10T22:01:37.322Z"
   },
   {
     "site": "volz",
@@ -1182,7 +1197,7 @@
     "price": 172826,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:54:30.095Z"
+    "scraped_at": "2026-07-10T22:01:37.322Z"
   },
   {
     "site": "volz",
@@ -1197,7 +1212,7 @@
     "price": 181746,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:54:30.095Z"
+    "scraped_at": "2026-07-10T22:01:37.322Z"
   },
   {
     "site": "volz",
@@ -1212,7 +1227,7 @@
     "price": 181746,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:54:30.095Z"
+    "scraped_at": "2026-07-10T22:01:37.322Z"
   },
   {
     "site": "volz",
@@ -1227,7 +1242,7 @@
     "price": 187326,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:54:30.095Z"
+    "scraped_at": "2026-07-10T22:01:37.322Z"
   },
   {
     "site": "volz",
@@ -1242,6 +1257,6 @@
     "price": 187326,
     "currency": "DZD",
     "airline": null,
-    "scraped_at": "2026-07-10T21:54:30.095Z"
+    "scraped_at": "2026-07-10T22:01:37.322Z"
   }
 ]

@@ -10,16 +10,16 @@
     "departDate": "2026-07-10",
     "prix": {
       "volz": 342474,
-      "h24voyages": 136191
+      "h24voyages": null
     },
     "moinsCher": {
-      "site": "h24voyages",
-      "prix": 136191,
-      "airline": "Saudi Arabian",
+      "site": "volz",
+      "prix": 342474,
+      "airline": null,
       "departDate": "2026-07-10"
     },
-    "economie": 206283,
-    "nbSitesDisponibles": 2
+    "economie": 0,
+    "nbSitesDisponibles": 1
   },
   {
     "route": "ALG → AYT",
@@ -32,38 +32,16 @@
     "departDate": "2026-07-10",
     "prix": {
       "volz": 130754,
-      "h24voyages": 119824
+      "h24voyages": null
     },
     "moinsCher": {
-      "site": "h24voyages",
-      "prix": 119824,
-      "airline": "Turkish Airlines",
+      "site": "volz",
+      "prix": 130754,
+      "airline": null,
       "departDate": "2026-07-10"
     },
-    "economie": 10930,
-    "nbSitesDisponibles": 2
-  },
-  {
-    "route": "ALG → BCN",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "BCN",
-    "destinationName": "Barcelone",
-    "tripType": "RT",
-    "adults": 1,
-    "departDate": "2026-07-10",
-    "prix": {
-      "volz": 70423,
-      "h24voyages": 64142
-    },
-    "moinsCher": {
-      "site": "h24voyages",
-      "prix": 64142,
-      "airline": "Vueling Airlines",
-      "departDate": "2026-07-10"
-    },
-    "economie": 6281,
-    "nbSitesDisponibles": 2
+    "economie": 0,
+    "nbSitesDisponibles": 1
   },
   {
     "route": "ALG → CAI",
@@ -75,57 +53,13 @@
     "adults": 1,
     "departDate": "2026-07-10",
     "prix": {
-      "volz": 130987,
-      "h24voyages": 125947
+      "volz": 146452,
+      "h24voyages": null
     },
     "moinsCher": {
-      "site": "h24voyages",
-      "prix": 125947,
-      "airline": "Turkish Airlines",
-      "departDate": "2026-07-10"
-    },
-    "economie": 5040,
-    "nbSitesDisponibles": 2
-  },
-  {
-    "route": "ALG → MAD",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "MAD",
-    "destinationName": "Madrid",
-    "tripType": "RT",
-    "adults": 1,
-    "departDate": "2026-07-10",
-    "prix": {
-      "volz": 141121,
-      "h24voyages": 136081
-    },
-    "moinsCher": {
-      "site": "h24voyages",
-      "prix": 136081,
-      "airline": "Turkish Airlines",
-      "departDate": "2026-07-10"
-    },
-    "economie": 5040,
-    "nbSitesDisponibles": 2
-  },
-  {
-    "route": "ALG → IST",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "IST",
-    "destinationName": "Istanbul",
-    "tripType": "RT",
-    "adults": 1,
-    "departDate": "2026-07-10",
-    "prix": {
-      "volz": null,
-      "h24voyages": 176597
-    },
-    "moinsCher": {
-      "site": "h24voyages",
-      "prix": 176597,
-      "airline": "Saudi Arabian",
+      "site": "volz",
+      "prix": 146452,
+      "airline": null,
       "departDate": "2026-07-10"
     },
     "economie": 0,
@@ -141,13 +75,57 @@
     "adults": 1,
     "departDate": "2026-07-10",
     "prix": {
-      "volz": null,
-      "h24voyages": 193857
+      "volz": 313408,
+      "h24voyages": null
     },
     "moinsCher": {
-      "site": "h24voyages",
-      "prix": 193857,
-      "airline": "Qatar Airways",
+      "site": "volz",
+      "prix": 313408,
+      "airline": null,
+      "departDate": "2026-07-10"
+    },
+    "economie": 0,
+    "nbSitesDisponibles": 1
+  },
+  {
+    "route": "ALG → BCN",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "BCN",
+    "destinationName": "Barcelone",
+    "tripType": "RT",
+    "adults": 1,
+    "departDate": "2026-07-10",
+    "prix": {
+      "volz": 70423,
+      "h24voyages": null
+    },
+    "moinsCher": {
+      "site": "volz",
+      "prix": 70423,
+      "airline": null,
+      "departDate": "2026-07-10"
+    },
+    "economie": 0,
+    "nbSitesDisponibles": 1
+  },
+  {
+    "route": "ALG → MAD",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "MAD",
+    "destinationName": "Madrid",
+    "tripType": "RT",
+    "adults": 1,
+    "departDate": "2026-07-10",
+    "prix": {
+      "volz": 141121,
+      "h24voyages": null
+    },
+    "moinsCher": {
+      "site": "volz",
+      "prix": 141121,
+      "airline": null,
       "departDate": "2026-07-10"
     },
     "economie": 0,
