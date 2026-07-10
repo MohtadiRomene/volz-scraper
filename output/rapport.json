@@ -1,456 +1,392 @@
 {
   "date": "2026-07-10",
-  "duree_secondes": 110,
+  "duree_secondes": 111,
   "nb_recherches": 9,
-  "nb_vols": 83,
+  "nb_vols": 84,
   "nb_erreurs": 0,
   "changements_prix": [
     {
       "route": "ALG → AYT",
       "date": "2026-07-10",
-      "ancien_prix": 103114,
-      "nouveau_prix": 130754,
-      "difference": 27640,
-      "direction": "📈 hausse"
-    },
-    {
-      "route": "ALG → AYT",
-      "date": "2026-07-10",
-      "ancien_prix": 103114,
-      "nouveau_prix": 130754,
-      "difference": 27640,
-      "direction": "📈 hausse"
-    },
-    {
-      "route": "ALG → AYT",
-      "date": "2026-07-10",
-      "ancien_prix": 103114,
+      "ancien_prix": 130754,
       "nouveau_prix": 132404,
-      "difference": 29290,
+      "difference": 1650,
       "direction": "📈 hausse"
     },
     {
       "route": "ALG → AYT",
       "date": "2026-07-10",
-      "ancien_prix": 103114,
+      "ancien_prix": 130754,
       "nouveau_prix": 132404,
-      "difference": 29290,
+      "difference": 1650,
       "direction": "📈 hausse"
     },
     {
       "route": "ALG → AYT",
       "date": "2026-07-10",
-      "ancien_prix": 103114,
+      "ancien_prix": 130754,
       "nouveau_prix": 132404,
-      "difference": 29290,
+      "difference": 1650,
       "direction": "📈 hausse"
     },
     {
       "route": "ALG → AYT",
       "date": "2026-07-10",
-      "ancien_prix": 103114,
+      "ancien_prix": 130754,
       "nouveau_prix": 132404,
-      "difference": 29290,
+      "difference": 1650,
       "direction": "📈 hausse"
     },
     {
       "route": "ALG → AYT",
       "date": "2026-07-10",
-      "ancien_prix": 103114,
+      "ancien_prix": 130754,
       "nouveau_prix": 132404,
-      "difference": 29290,
+      "difference": 1650,
       "direction": "📈 hausse"
     },
     {
       "route": "ALG → AYT",
       "date": "2026-07-10",
-      "ancien_prix": 103114,
+      "ancien_prix": 130754,
       "nouveau_prix": 153849,
-      "difference": 50735,
+      "difference": 23095,
       "direction": "📈 hausse"
     },
     {
       "route": "ALG → AYT",
       "date": "2026-07-10",
-      "ancien_prix": 103114,
+      "ancien_prix": 130754,
       "nouveau_prix": 154519,
-      "difference": 51405,
+      "difference": 23765,
       "direction": "📈 hausse"
     },
     {
       "route": "ALG → AYT",
       "date": "2026-07-10",
-      "ancien_prix": 103114,
+      "ancien_prix": 130754,
       "nouveau_prix": 154519,
-      "difference": 51405,
+      "difference": 23765,
       "direction": "📈 hausse"
     },
     {
       "route": "ALG → AYT",
       "date": "2026-07-10",
-      "ancien_prix": 103114,
+      "ancien_prix": 130754,
       "nouveau_prix": 154519,
-      "difference": 51405,
+      "difference": 23765,
       "direction": "📈 hausse"
     },
     {
       "route": "ALG → AYT",
       "date": "2026-07-10",
-      "ancien_prix": 103114,
+      "ancien_prix": 130754,
       "nouveau_prix": 154519,
-      "difference": 51405,
+      "difference": 23765,
       "direction": "📈 hausse"
     },
     {
       "route": "ALG → AYT",
       "date": "2026-07-10",
-      "ancien_prix": 103114,
+      "ancien_prix": 130754,
       "nouveau_prix": 154519,
-      "difference": 51405,
+      "difference": 23765,
       "direction": "📈 hausse"
     },
     {
       "route": "ALG → AYT",
       "date": "2026-07-10",
-      "ancien_prix": 103114,
+      "ancien_prix": 130754,
       "nouveau_prix": 154519,
-      "difference": 51405,
-      "direction": "📈 hausse"
-    },
-    {
-      "route": "ALG → AYT",
-      "date": "2026-07-10",
-      "ancien_prix": 103114,
-      "nouveau_prix": 203889,
-      "difference": 100775,
-      "direction": "📈 hausse"
-    },
-    {
-      "route": "ALG → AYT",
-      "date": "2026-07-10",
-      "ancien_prix": 103114,
-      "nouveau_prix": 203889,
-      "difference": 100775,
-      "direction": "📈 hausse"
-    },
-    {
-      "route": "ALG → AYT",
-      "date": "2026-07-10",
-      "ancien_prix": 103114,
-      "nouveau_prix": 205539,
-      "difference": 102425,
-      "direction": "📈 hausse"
-    },
-    {
-      "route": "ALG → AYT",
-      "date": "2026-07-10",
-      "ancien_prix": 103114,
-      "nouveau_prix": 205539,
-      "difference": 102425,
-      "direction": "📈 hausse"
-    },
-    {
-      "route": "ALG → AYT",
-      "date": "2026-07-10",
-      "ancien_prix": 103114,
-      "nouveau_prix": 205539,
-      "difference": 102425,
-      "direction": "📈 hausse"
-    },
-    {
-      "route": "ALG → AYT",
-      "date": "2026-07-10",
-      "ancien_prix": 103114,
-      "nouveau_prix": 205539,
-      "difference": 102425,
+      "difference": 23765,
       "direction": "📈 hausse"
     },
     {
       "route": "ALG → CAI",
       "date": "2026-07-10",
       "ancien_prix": 130987,
-      "nouveau_prix": 134887,
-      "difference": 3900,
+      "nouveau_prix": 146452,
+      "difference": 15465,
       "direction": "📈 hausse"
     },
     {
       "route": "ALG → CAI",
       "date": "2026-07-10",
       "ancien_prix": 130987,
-      "nouveau_prix": 144332,
-      "difference": 13345,
+      "nouveau_prix": 146452,
+      "difference": 15465,
       "direction": "📈 hausse"
     },
     {
       "route": "ALG → CAI",
       "date": "2026-07-10",
       "ancien_prix": 130987,
-      "nouveau_prix": 144332,
-      "difference": 13345,
+      "nouveau_prix": 146452,
+      "difference": 15465,
       "direction": "📈 hausse"
     },
     {
       "route": "ALG → CAI",
       "date": "2026-07-10",
       "ancien_prix": 130987,
-      "nouveau_prix": 144332,
-      "difference": 13345,
+      "nouveau_prix": 146452,
+      "difference": 15465,
       "direction": "📈 hausse"
     },
     {
       "route": "ALG → CAI",
       "date": "2026-07-10",
       "ancien_prix": 130987,
-      "nouveau_prix": 144332,
-      "difference": 13345,
+      "nouveau_prix": 146452,
+      "difference": 15465,
       "direction": "📈 hausse"
     },
     {
       "route": "ALG → CAI",
       "date": "2026-07-10",
       "ancien_prix": 130987,
-      "nouveau_prix": 152772,
-      "difference": 21785,
+      "nouveau_prix": 146452,
+      "difference": 15465,
       "direction": "📈 hausse"
     },
     {
       "route": "ALG → CAI",
       "date": "2026-07-10",
       "ancien_prix": 130987,
-      "nouveau_prix": 152772,
-      "difference": 21785,
+      "nouveau_prix": 146452,
+      "difference": 15465,
       "direction": "📈 hausse"
     },
     {
       "route": "ALG → CAI",
       "date": "2026-07-10",
       "ancien_prix": 130987,
-      "nouveau_prix": 152772,
-      "difference": 21785,
+      "nouveau_prix": 146452,
+      "difference": 15465,
       "direction": "📈 hausse"
     },
     {
       "route": "ALG → CAI",
       "date": "2026-07-10",
       "ancien_prix": 130987,
-      "nouveau_prix": 152772,
-      "difference": 21785,
+      "nouveau_prix": 158162,
+      "difference": 27175,
       "direction": "📈 hausse"
     },
     {
       "route": "ALG → CAI",
       "date": "2026-07-10",
       "ancien_prix": 130987,
-      "nouveau_prix": 152772,
-      "difference": 21785,
+      "nouveau_prix": 158162,
+      "difference": 27175,
       "direction": "📈 hausse"
     },
     {
       "route": "ALG → CAI",
       "date": "2026-07-10",
       "ancien_prix": 130987,
-      "nouveau_prix": 182812,
-      "difference": 51825,
+      "nouveau_prix": 158162,
+      "difference": 27175,
       "direction": "📈 hausse"
     },
     {
       "route": "ALG → CAI",
       "date": "2026-07-10",
       "ancien_prix": 130987,
-      "nouveau_prix": 182812,
-      "difference": 51825,
+      "nouveau_prix": 158162,
+      "difference": 27175,
       "direction": "📈 hausse"
     },
     {
-      "route": "ALG → BCN",
+      "route": "ALG → CAI",
       "date": "2026-07-10",
-      "ancien_prix": 65923,
-      "nouveau_prix": 70423,
-      "difference": 4500,
+      "ancien_prix": 130987,
+      "nouveau_prix": 158162,
+      "difference": 27175,
       "direction": "📈 hausse"
     },
     {
-      "route": "ALG → BCN",
+      "route": "ALG → CAI",
       "date": "2026-07-10",
-      "ancien_prix": 65923,
-      "nouveau_prix": 70423,
-      "difference": 4500,
+      "ancien_prix": 130987,
+      "nouveau_prix": 158162,
+      "difference": 27175,
       "direction": "📈 hausse"
     },
     {
-      "route": "ALG → BCN",
+      "route": "ALG → CAI",
       "date": "2026-07-10",
-      "ancien_prix": 151041,
-      "nouveau_prix": 153731,
-      "difference": 2690,
+      "ancien_prix": 130987,
+      "nouveau_prix": 158162,
+      "difference": 27175,
       "direction": "📈 hausse"
     },
     {
-      "route": "ALG → BCN",
+      "route": "ALG → CAI",
       "date": "2026-07-10",
-      "ancien_prix": 151041,
-      "nouveau_prix": 153731,
-      "difference": 2690,
+      "ancien_prix": 130987,
+      "nouveau_prix": 158162,
+      "difference": 27175,
+      "direction": "📈 hausse"
+    },
+    {
+      "route": "ALG → CAI",
+      "date": "2026-07-10",
+      "ancien_prix": 130987,
+      "nouveau_prix": 159432,
+      "difference": 28445,
+      "direction": "📈 hausse"
+    },
+    {
+      "route": "ALG → CAI",
+      "date": "2026-07-10",
+      "ancien_prix": 130987,
+      "nouveau_prix": 159432,
+      "difference": 28445,
+      "direction": "📈 hausse"
+    },
+    {
+      "route": "ALG → CAI",
+      "date": "2026-07-10",
+      "ancien_prix": 130987,
+      "nouveau_prix": 159432,
+      "difference": 28445,
+      "direction": "📈 hausse"
+    },
+    {
+      "route": "ALG → CAI",
+      "date": "2026-07-10",
+      "ancien_prix": 130987,
+      "nouveau_prix": 159432,
+      "difference": 28445,
       "direction": "📈 hausse"
     },
     {
       "route": "ALG → MAD",
       "date": "2026-07-10",
-      "ancien_prix": 125581,
-      "nouveau_prix": 141121,
-      "difference": 15540,
-      "direction": "📈 hausse"
-    },
-    {
-      "route": "ALG → MAD",
-      "date": "2026-07-10",
-      "ancien_prix": 125581,
-      "nouveau_prix": 141121,
-      "difference": 15540,
-      "direction": "📈 hausse"
-    },
-    {
-      "route": "ALG → MAD",
-      "date": "2026-07-10",
-      "ancien_prix": 125581,
-      "nouveau_prix": 141121,
-      "difference": 15540,
-      "direction": "📈 hausse"
-    },
-    {
-      "route": "ALG → MAD",
-      "date": "2026-07-10",
-      "ancien_prix": 125581,
-      "nouveau_prix": 141121,
-      "difference": 15540,
-      "direction": "📈 hausse"
-    },
-    {
-      "route": "ALG → MAD",
-      "date": "2026-07-10",
-      "ancien_prix": 125581,
+      "ancien_prix": 141121,
       "nouveau_prix": 152676,
-      "difference": 27095,
+      "difference": 11555,
       "direction": "📈 hausse"
     },
     {
       "route": "ALG → MAD",
       "date": "2026-07-10",
-      "ancien_prix": 125581,
+      "ancien_prix": 141121,
       "nouveau_prix": 152676,
-      "difference": 27095,
+      "difference": 11555,
       "direction": "📈 hausse"
     },
     {
       "route": "ALG → MAD",
       "date": "2026-07-10",
-      "ancien_prix": 125581,
-      "nouveau_prix": 157296,
-      "difference": 31715,
-      "direction": "📈 hausse"
-    },
-    {
-      "route": "ALG → MAD",
-      "date": "2026-07-10",
-      "ancien_prix": 125581,
+      "ancien_prix": 141121,
       "nouveau_prix": 160636,
-      "difference": 35055,
+      "difference": 19515,
       "direction": "📈 hausse"
     },
     {
       "route": "ALG → MAD",
       "date": "2026-07-10",
-      "ancien_prix": 125581,
+      "ancien_prix": 141121,
       "nouveau_prix": 162906,
-      "difference": 37325,
+      "difference": 21785,
       "direction": "📈 hausse"
     },
     {
       "route": "ALG → MAD",
       "date": "2026-07-10",
-      "ancien_prix": 125581,
+      "ancien_prix": 141121,
       "nouveau_prix": 162906,
-      "difference": 37325,
+      "difference": 21785,
       "direction": "📈 hausse"
     },
     {
       "route": "ALG → MAD",
       "date": "2026-07-10",
-      "ancien_prix": 125581,
+      "ancien_prix": 141121,
       "nouveau_prix": 162906,
-      "difference": 37325,
+      "difference": 21785,
       "direction": "📈 hausse"
     },
     {
       "route": "ALG → MAD",
       "date": "2026-07-10",
-      "ancien_prix": 125581,
+      "ancien_prix": 141121,
+      "nouveau_prix": 162906,
+      "difference": 21785,
+      "direction": "📈 hausse"
+    },
+    {
+      "route": "ALG → MAD",
+      "date": "2026-07-10",
+      "ancien_prix": 141121,
       "nouveau_prix": 167176,
-      "difference": 41595,
+      "difference": 26055,
       "direction": "📈 hausse"
     },
     {
       "route": "ALG → MAD",
       "date": "2026-07-10",
-      "ancien_prix": 125581,
+      "ancien_prix": 141121,
       "nouveau_prix": 167176,
-      "difference": 41595,
+      "difference": 26055,
       "direction": "📈 hausse"
     },
     {
       "route": "ALG → MAD",
       "date": "2026-07-10",
-      "ancien_prix": 125581,
+      "ancien_prix": 141121,
       "nouveau_prix": 169856,
-      "difference": 44275,
+      "difference": 28735,
       "direction": "📈 hausse"
     },
     {
       "route": "ALG → MAD",
       "date": "2026-07-10",
-      "ancien_prix": 125581,
+      "ancien_prix": 141121,
       "nouveau_prix": 172826,
-      "difference": 47245,
+      "difference": 31705,
       "direction": "📈 hausse"
     },
     {
       "route": "ALG → MAD",
       "date": "2026-07-10",
-      "ancien_prix": 125581,
+      "ancien_prix": 141121,
       "nouveau_prix": 172826,
-      "difference": 47245,
+      "difference": 31705,
       "direction": "📈 hausse"
     },
     {
       "route": "ALG → MAD",
       "date": "2026-07-10",
-      "ancien_prix": 125581,
+      "ancien_prix": 141121,
       "nouveau_prix": 181746,
-      "difference": 56165,
+      "difference": 40625,
       "direction": "📈 hausse"
     },
     {
       "route": "ALG → MAD",
       "date": "2026-07-10",
-      "ancien_prix": 125581,
+      "ancien_prix": 141121,
       "nouveau_prix": 181746,
-      "difference": 56165,
+      "difference": 40625,
       "direction": "📈 hausse"
     },
     {
       "route": "ALG → MAD",
       "date": "2026-07-10",
-      "ancien_prix": 125581,
+      "ancien_prix": 141121,
       "nouveau_prix": 187326,
-      "difference": 61745,
+      "difference": 46205,
       "direction": "📈 hausse"
     },
     {
       "route": "ALG → MAD",
       "date": "2026-07-10",
-      "ancien_prix": 125581,
+      "ancien_prix": 141121,
       "nouveau_prix": 187326,
-      "difference": 61745,
+      "difference": 46205,
       "direction": "📈 hausse"
     }
   ]
