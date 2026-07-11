@@ -1,7 +1,7 @@
-// scripts/compare.js
 const fs = require('fs');
 
-const key = (v) => `${v.origin}-${v.destination}-${v.tripType}-${v.adults}-${v.departDate}`;
+const paxKey = (p) => `${p.adults}a${p.children}c${p.infants}i`;
+const key = (v) => `${v.origin}-${v.destination}-${v.tripType}-${v.cabinClass}-${paxKey(v.passengers)}-${v.departDate}`;
 
 (async () => {
   const volz = fs.existsSync('output/volz/flights.json')
@@ -38,7 +38,8 @@ const key = (v) => `${v.origin}-${v.destination}-${v.tripType}-${v.adults}-${v.d
       destination: vols[0].destination,
       destinationName: vols[0].destinationName,
       tripType: vols[0].tripType,
-      adults: vols[0].adults,
+      cabinClass: vols[0].cabinClass,
+      passengers: vols[0].passengers,
       departDate: vols[0].departDate,
       prix: {
         volz: parSite.volz?.price || null,
@@ -56,6 +57,6 @@ const key = (v) => `${v.origin}-${v.destination}-${v.tripType}-${v.adults}-${v.d
   }).sort((a, b) => (b.economie || 0) - (a.economie || 0));
 
   fs.writeFileSync('output/comparison.json', JSON.stringify(comparaisons, null, 2));
-  console.log(`✅ ${comparaisons.length} routes comparées → output/comparison.json`);
-  console.log(`   ${comparaisons.filter(c => c.nbSitesDisponibles > 1).length} routes disponibles sur les 2 sites`);
+  console.log(`✅ ${comparaisons.length} combinaisons comparées → output/comparison.json`);
+  console.log(`   ${comparaisons.filter(c => c.nbSitesDisponibles > 1).length} disponibles sur les 2 sites`);
 })();

@@ -1,10 +1,16 @@
 const { chromium } = require('playwright');
 
-async function searchH24(origin, originName, destIata, destName, departDate, returnDate, attempt = 1) {
+async function searchH24(origin, originName, destIata, destName, departDate, returnDate, classeCode, passengers, attempt = 1) {
   const query = {
     tripType: "Round Trip",
-    passengerDrop: { adults: 1, young: 0, seniors: 0, child: 0, infants: 0 },
-    classe: "economy",
+    passengerDrop: {
+      adults: passengers.adults,
+      young: 0,
+      seniors: 0,
+      child: passengers.children,
+      infants: passengers.infants
+    },
+    classe: classeCode, // 'economy' | 'premium_economy' | 'business' | 'first_class'
     depart1: originName,
     depart1iata: {
       airport_name: originName,
@@ -33,7 +39,6 @@ async function searchH24(origin, originName, destIata, destName, departDate, ret
   const page = await browser.newPage();
 
   try {
-    // Attend activement la réponse de l'API, avec un timeout de 20s
     const responsePromise = page.waitForResponse(
       res => res.url().includes('/flights/flights/search') && res.status() === 201,
       { timeout: 20000 }
@@ -51,7 +56,7 @@ async function searchH24(origin, originName, destIata, destName, departDate, ret
     await browser.close();
     if (attempt < 2) {
       console.log(`    ↻ Retry (tentative ${attempt + 1})...`);
-      return searchH24(origin, originName, destIata, destName, departDate, returnDate, attempt + 1);
+      return searchH24(origin, originName, destIata, destName, departDate, returnDate, classeCode, passengers, attempt + 1);
     }
     throw e;
   }

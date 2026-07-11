@@ -1,5 +1,3 @@
-// scripts/transform-volz.js
-// Convertit output/tous-les-vols.json (schéma volz) vers le schéma unifié
 const fs = require('fs');
 
 const NOMS_VILLES = {
@@ -18,12 +16,13 @@ const NOMS_VILLES = {
     destination: v.destination,
     destinationName: NOMS_VILLES[v.destination] || v.destination,
     tripType: v.type,
-    adults: v.adultes,
+    cabinClass: v.cabinClass || 'ECONOMY',
+    passengers: v.passengers || { adults: 1, children: 0, infants: 0 },
     departDate: v.date_aller,
     returnDate: v.date_retour,
     price: v.prix_num,
     currency: 'DZD',
-    airline: null, // volz ne fournit pas la compagnie dans le scrape actuel
+    airline: null,
     scraped_at: v.scraped_at,
   }));
 
