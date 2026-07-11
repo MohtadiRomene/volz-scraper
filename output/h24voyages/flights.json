@@ -17,7 +17,7 @@
     "price": 59781,
     "currency": "DZD",
     "airline": "Air Algerie",
-    "scraped_at": "2026-07-11T12:01:23.184Z"
+    "scraped_at": "2026-07-11T13:11:25.073Z"
   },
   {
     "site": "h24voyages",
@@ -37,7 +37,7 @@
     "price": 119562,
     "currency": "DZD",
     "airline": "Air Algerie",
-    "scraped_at": "2026-07-11T12:01:32.365Z"
+    "scraped_at": "2026-07-11T13:11:33.360Z"
   },
   {
     "site": "h24voyages",
@@ -57,7 +57,7 @@
     "price": 109122,
     "currency": "DZD",
     "airline": "Air Algerie",
-    "scraped_at": "2026-07-11T12:01:41.693Z"
+    "scraped_at": "2026-07-11T13:11:42.411Z"
   },
   {
     "site": "h24voyages",
@@ -77,7 +77,7 @@
     "price": 64931,
     "currency": "DZD",
     "airline": "Air Algerie",
-    "scraped_at": "2026-07-11T12:01:50.186Z"
+    "scraped_at": "2026-07-11T13:11:50.150Z"
   },
   {
     "site": "h24voyages",
@@ -97,7 +97,7 @@
     "price": 119548,
     "currency": "DZD",
     "airline": "Air Algerie",
-    "scraped_at": "2026-07-11T12:02:18.022Z"
+    "scraped_at": "2026-07-11T13:12:18.520Z"
   },
   {
     "site": "h24voyages",
@@ -117,7 +117,7 @@
     "price": 239096,
     "currency": "DZD",
     "airline": "Air Algerie",
-    "scraped_at": "2026-07-11T12:02:27.427Z"
+    "scraped_at": "2026-07-11T13:12:27.317Z"
   },
   {
     "site": "h24voyages",
@@ -137,7 +137,7 @@
     "price": 239096,
     "currency": "DZD",
     "airline": "Air Algerie",
-    "scraped_at": "2026-07-11T12:02:35.141Z"
+    "scraped_at": "2026-07-11T13:12:34.193Z"
   },
   {
     "site": "h24voyages",
@@ -157,7 +157,7 @@
     "price": 129678,
     "currency": "DZD",
     "airline": "Air Algerie",
-    "scraped_at": "2026-07-11T12:02:44.718Z"
+    "scraped_at": "2026-07-11T13:12:40.949Z"
   },
   {
     "site": "h24voyages",
@@ -174,10 +174,10 @@
     },
     "departDate": "2026-07-11",
     "returnDate": "2026-07-21",
-    "price": 51513,
+    "price": 64524,
     "currency": "DZD",
-    "airline": "Pegasus",
-    "scraped_at": "2026-07-11T12:03:13.386Z"
+    "airline": "Air Algerie",
+    "scraped_at": "2026-07-11T13:13:07.579Z"
   },
   {
     "site": "h24voyages",
@@ -194,10 +194,10 @@
     },
     "departDate": "2026-07-11",
     "returnDate": "2026-07-21",
-    "price": 103026,
+    "price": 129048,
     "currency": "DZD",
-    "airline": "Pegasus",
-    "scraped_at": "2026-07-11T12:03:20.466Z"
+    "airline": "Air Algerie",
+    "scraped_at": "2026-07-11T13:13:13.924Z"
   },
   {
     "site": "h24voyages",
@@ -214,10 +214,10 @@
     },
     "departDate": "2026-07-11",
     "returnDate": "2026-07-21",
-    "price": 94986,
+    "price": 116048,
     "currency": "DZD",
-    "airline": "Pegasus",
-    "scraped_at": "2026-07-11T12:03:26.820Z"
+    "airline": "Air Algerie",
+    "scraped_at": "2026-07-11T13:13:19.963Z"
   },
   {
     "site": "h24voyages",
@@ -234,10 +234,10 @@
     },
     "departDate": "2026-07-11",
     "returnDate": "2026-07-21",
-    "price": 56934,
+    "price": 70394,
     "currency": "DZD",
     "airline": "Air Algerie",
-    "scraped_at": "2026-07-11T12:03:32.624Z"
+    "scraped_at": "2026-07-11T13:13:26.725Z"
   },
   {
     "site": "h24voyages",
@@ -254,10 +254,10 @@
     },
     "departDate": "2026-07-11",
     "returnDate": "2026-07-21",
-    "price": 132094,
+    "price": 180360,
     "currency": "DZD",
-    "airline": "Air Algerie",
-    "scraped_at": "2026-07-11T12:04:01.112Z"
+    "airline": "Turkish Airlines",
+    "scraped_at": "2026-07-11T13:13:52.315Z"
   },
   {
     "site": "h24voyages",
@@ -274,10 +274,10 @@
     },
     "departDate": "2026-07-11",
     "returnDate": "2026-07-21",
-    "price": 264188,
+    "price": 360720,
     "currency": "DZD",
-    "airline": "Air Algerie",
-    "scraped_at": "2026-07-11T12:04:07.154Z"
+    "airline": "Turkish Airlines",
+    "scraped_at": "2026-07-11T13:13:58.468Z"
   },
   {
     "site": "h24voyages",
@@ -294,10 +294,10 @@
     },
     "departDate": "2026-07-11",
     "returnDate": "2026-07-21",
-    "price": 264188,
+    "price": 331860,
     "currency": "DZD",
-    "airline": "Air Algerie",
-    "scraped_at": "2026-07-11T12:04:12.424Z"
+    "airline": "Turkish Airlines",
+    "scraped_at": "2026-07-11T13:14:03.984Z"
   },
   {
     "site": "h24voyages",
@@ -314,10 +314,10 @@
     },
     "departDate": "2026-07-11",
     "returnDate": "2026-07-21",
-    "price": 144724,
+    "price": 193840,
     "currency": "DZD",
-    "airline": "Air Algerie",
-    "scraped_at": "2026-07-11T12:04:18.746Z"
+    "airline": "Turkish Airlines",
+    "scraped_at": "2026-07-11T13:14:10.023Z"
   },
   {
     "site": "h24voyages",
@@ -337,7 +337,7 @@
     "price": 67118,
     "currency": "DZD",
     "airline": "Air Algerie",
-    "scraped_at": "2026-07-11T12:04:51.085Z"
+    "scraped_at": "2026-07-11T13:15:10.807Z"
   },
   {
     "site": "h24voyages",
@@ -357,7 +357,7 @@
     "price": 134236,
     "currency": "DZD",
     "airline": "Air Algerie",
-    "scraped_at": "2026-07-11T12:05:03.379Z"
+    "scraped_at": "2026-07-11T13:15:25.976Z"
   },
   {
     "site": "h24voyages",
@@ -377,7 +377,7 @@
     "price": 120136,
     "currency": "DZD",
     "airline": "Air Algerie",
-    "scraped_at": "2026-07-11T12:05:17.823Z"
+    "scraped_at": "2026-07-11T13:15:40.075Z"
   },
   {
     "site": "h24voyages",
@@ -397,7 +397,7 @@
     "price": 73328,
     "currency": "DZD",
     "airline": "Air Algerie",
-    "scraped_at": "2026-07-11T12:05:31.029Z"
+    "scraped_at": "2026-07-11T13:15:54.701Z"
   },
   {
     "site": "h24voyages",
@@ -417,7 +417,7 @@
     "price": 229766,
     "currency": "DZD",
     "airline": "Turkish Airlines",
-    "scraped_at": "2026-07-11T12:06:05.242Z"
+    "scraped_at": "2026-07-11T13:16:28.696Z"
   },
   {
     "site": "h24voyages",
@@ -437,7 +437,7 @@
     "price": 459532,
     "currency": "DZD",
     "airline": "Turkish Airlines",
-    "scraped_at": "2026-07-11T12:06:11.260Z"
+    "scraped_at": "2026-07-11T13:16:35.239Z"
   },
   {
     "site": "h24voyages",
@@ -457,7 +457,7 @@
     "price": 423172,
     "currency": "DZD",
     "airline": "Turkish Airlines",
-    "scraped_at": "2026-07-11T12:06:18.311Z"
+    "scraped_at": "2026-07-11T13:16:43.040Z"
   },
   {
     "site": "h24voyages",
@@ -477,7 +477,7 @@
     "price": 246246,
     "currency": "DZD",
     "airline": "Turkish Airlines",
-    "scraped_at": "2026-07-11T12:06:24.977Z"
+    "scraped_at": "2026-07-11T13:16:50.295Z"
   },
   {
     "site": "h24voyages",
@@ -497,7 +497,7 @@
     "price": 86647,
     "currency": "DZD",
     "airline": "Air Algerie",
-    "scraped_at": "2026-07-11T12:06:52.389Z"
+    "scraped_at": "2026-07-11T13:17:16.820Z"
   },
   {
     "site": "h24voyages",
@@ -517,7 +517,7 @@
     "price": 173294,
     "currency": "DZD",
     "airline": "Air Algerie",
-    "scraped_at": "2026-07-11T12:07:00.007Z"
+    "scraped_at": "2026-07-11T13:17:23.174Z"
   },
   {
     "site": "h24voyages",
@@ -537,7 +537,7 @@
     "price": 156394,
     "currency": "DZD",
     "airline": "Air Algerie",
-    "scraped_at": "2026-07-11T12:07:07.261Z"
+    "scraped_at": "2026-07-11T13:17:32.600Z"
   },
   {
     "site": "h24voyages",
@@ -557,7 +557,7 @@
     "price": 97770,
     "currency": "DZD",
     "airline": "Air Algerie",
-    "scraped_at": "2026-07-11T12:07:14.433Z"
+    "scraped_at": "2026-07-11T13:17:40.377Z"
   },
   {
     "site": "h24voyages",
@@ -577,7 +577,7 @@
     "price": 295409,
     "currency": "DZD",
     "airline": "Air France",
-    "scraped_at": "2026-07-11T12:07:20.603Z"
+    "scraped_at": "2026-07-11T13:17:47.648Z"
   },
   {
     "site": "h24voyages",
@@ -597,7 +597,7 @@
     "price": 590818,
     "currency": "DZD",
     "airline": "Air France",
-    "scraped_at": "2026-07-11T12:07:27.024Z"
+    "scraped_at": "2026-07-11T13:17:54.296Z"
   },
   {
     "site": "h24voyages",
@@ -617,7 +617,7 @@
     "price": 532148,
     "currency": "DZD",
     "airline": "Air France",
-    "scraped_at": "2026-07-11T12:07:34.281Z"
+    "scraped_at": "2026-07-11T13:18:05.138Z"
   },
   {
     "site": "h24voyages",
@@ -637,7 +637,7 @@
     "price": 326732,
     "currency": "DZD",
     "airline": "Air France",
-    "scraped_at": "2026-07-11T12:07:40.230Z"
+    "scraped_at": "2026-07-11T13:18:13.779Z"
   },
   {
     "site": "h24voyages",
@@ -657,7 +657,7 @@
     "price": 133027,
     "currency": "DZD",
     "airline": "Air Algerie",
-    "scraped_at": "2026-07-11T12:07:47.523Z"
+    "scraped_at": "2026-07-11T13:18:21.456Z"
   },
   {
     "site": "h24voyages",
@@ -677,7 +677,7 @@
     "price": 266054,
     "currency": "DZD",
     "airline": "Air Algerie",
-    "scraped_at": "2026-07-11T12:07:55.198Z"
+    "scraped_at": "2026-07-11T13:18:29.215Z"
   },
   {
     "site": "h24voyages",
@@ -697,7 +697,7 @@
     "price": 266054,
     "currency": "DZD",
     "airline": "Air Algerie",
-    "scraped_at": "2026-07-11T12:08:02.672Z"
+    "scraped_at": "2026-07-11T13:18:37.003Z"
   },
   {
     "site": "h24voyages",
@@ -717,7 +717,7 @@
     "price": 148780,
     "currency": "DZD",
     "airline": "Air Algerie",
-    "scraped_at": "2026-07-11T12:08:09.852Z"
+    "scraped_at": "2026-07-11T13:18:46.854Z"
   },
   {
     "site": "h24voyages",
@@ -734,10 +734,10 @@
     },
     "departDate": "2026-07-11",
     "returnDate": "2026-07-21",
-    "price": 131509,
+    "price": 126641,
     "currency": "DZD",
-    "airline": "Pegasus",
-    "scraped_at": "2026-07-11T12:08:38.211Z"
+    "airline": "Turkish Airlines",
+    "scraped_at": "2026-07-11T13:19:18.724Z"
   },
   {
     "site": "h24voyages",
@@ -754,10 +754,10 @@
     },
     "departDate": "2026-07-11",
     "returnDate": "2026-07-21",
-    "price": 263018,
+    "price": 253282,
     "currency": "DZD",
-    "airline": "Pegasus",
-    "scraped_at": "2026-07-11T12:08:45.905Z"
+    "airline": "Turkish Airlines",
+    "scraped_at": "2026-07-11T13:19:25.616Z"
   },
   {
     "site": "h24voyages",
@@ -777,7 +777,7 @@
     "price": 235572,
     "currency": "DZD",
     "airline": "Turkish Airlines",
-    "scraped_at": "2026-07-11T12:08:54.049Z"
+    "scraped_at": "2026-07-11T13:19:32.657Z"
   },
   {
     "site": "h24voyages",
@@ -797,7 +797,7 @@
     "price": 139992,
     "currency": "DZD",
     "airline": "Turkish Airlines",
-    "scraped_at": "2026-07-11T12:09:01.838Z"
+    "scraped_at": "2026-07-11T13:19:41.464Z"
   },
   {
     "site": "h24voyages",
@@ -817,7 +817,7 @@
     "price": 274633,
     "currency": "DZD",
     "airline": "Turkish Airlines",
-    "scraped_at": "2026-07-11T12:09:31.984Z"
+    "scraped_at": "2026-07-11T13:20:09.731Z"
   },
   {
     "site": "h24voyages",
@@ -837,7 +837,7 @@
     "price": 549266,
     "currency": "DZD",
     "airline": "Turkish Airlines",
-    "scraped_at": "2026-07-11T12:09:38.189Z"
+    "scraped_at": "2026-07-11T13:20:14.856Z"
   },
   {
     "site": "h24voyages",
@@ -857,7 +857,7 @@
     "price": 504476,
     "currency": "DZD",
     "airline": "Turkish Airlines",
-    "scraped_at": "2026-07-11T12:09:43.912Z"
+    "scraped_at": "2026-07-11T13:20:20.711Z"
   },
   {
     "site": "h24voyages",
@@ -877,7 +877,7 @@
     "price": 298814,
     "currency": "DZD",
     "airline": "Turkish Airlines",
-    "scraped_at": "2026-07-11T12:09:49.839Z"
+    "scraped_at": "2026-07-11T13:20:26.849Z"
   },
   {
     "site": "h24voyages",
@@ -894,10 +894,10 @@
     },
     "departDate": "2026-07-11",
     "returnDate": "2026-07-21",
-    "price": 104825,
+    "price": 165873,
     "currency": "DZD",
-    "airline": "Pegasus",
-    "scraped_at": "2026-07-11T12:10:18.935Z"
+    "airline": "Turkish Airlines",
+    "scraped_at": "2026-07-11T13:20:53.012Z"
   },
   {
     "site": "h24voyages",
@@ -914,10 +914,10 @@
     },
     "departDate": "2026-07-11",
     "returnDate": "2026-07-21",
-    "price": 209650,
+    "price": 331746,
     "currency": "DZD",
-    "airline": "Pegasus",
-    "scraped_at": "2026-07-11T12:10:25.516Z"
+    "airline": "Turkish Airlines",
+    "scraped_at": "2026-07-11T13:21:00.009Z"
   },
   {
     "site": "h24voyages",
@@ -934,10 +934,10 @@
     },
     "departDate": "2026-07-11",
     "returnDate": "2026-07-21",
-    "price": 200670,
+    "price": 305096,
     "currency": "DZD",
-    "airline": "Pegasus",
-    "scraped_at": "2026-07-11T12:10:33.139Z"
+    "airline": "Turkish Airlines",
+    "scraped_at": "2026-07-11T13:21:07.788Z"
   },
   {
     "site": "h24voyages",
@@ -954,10 +954,10 @@
     },
     "departDate": "2026-07-11",
     "returnDate": "2026-07-21",
-    "price": 122835,
+    "price": 178463,
     "currency": "DZD",
-    "airline": "Pegasus",
-    "scraped_at": "2026-07-11T12:10:40.472Z"
+    "airline": "Turkish Airlines",
+    "scraped_at": "2026-07-11T13:21:14.656Z"
   },
   {
     "site": "h24voyages",
@@ -977,7 +977,7 @@
     "price": 220001,
     "currency": "DZD",
     "airline": "Qatar Airways",
-    "scraped_at": "2026-07-11T12:11:10.716Z"
+    "scraped_at": "2026-07-11T13:21:43.798Z"
   },
   {
     "site": "h24voyages",
@@ -997,7 +997,7 @@
     "price": 440002,
     "currency": "DZD",
     "airline": "Qatar Airways",
-    "scraped_at": "2026-07-11T12:11:17.026Z"
+    "scraped_at": "2026-07-11T13:21:49.989Z"
   },
   {
     "site": "h24voyages",
@@ -1017,7 +1017,7 @@
     "price": 433652,
     "currency": "DZD",
     "airline": "Qatar Airways",
-    "scraped_at": "2026-07-11T12:11:24.404Z"
+    "scraped_at": "2026-07-11T13:21:56.452Z"
   },
   {
     "site": "h24voyages",
@@ -1037,7 +1037,7 @@
     "price": 243707,
     "currency": "DZD",
     "airline": "Qatar Airways",
-    "scraped_at": "2026-07-11T12:11:31.058Z"
+    "scraped_at": "2026-07-11T13:22:04.588Z"
   },
   {
     "site": "h24voyages",
@@ -1057,7 +1057,7 @@
     "price": 57720,
     "currency": "DZD",
     "airline": "Alitalia",
-    "scraped_at": "2026-07-11T12:12:01.975Z"
+    "scraped_at": "2026-07-11T13:22:34.077Z"
   },
   {
     "site": "h24voyages",
@@ -1077,7 +1077,7 @@
     "price": 115440,
     "currency": "DZD",
     "airline": "Alitalia",
-    "scraped_at": "2026-07-11T12:12:08.682Z"
+    "scraped_at": "2026-07-11T13:22:40.519Z"
   },
   {
     "site": "h24voyages",
@@ -1097,7 +1097,7 @@
     "price": 108955,
     "currency": "DZD",
     "airline": "Alitalia",
-    "scraped_at": "2026-07-11T12:12:16.003Z"
+    "scraped_at": "2026-07-11T13:22:47.579Z"
   },
   {
     "site": "h24voyages",
@@ -1117,7 +1117,7 @@
     "price": 65115,
     "currency": "DZD",
     "airline": "Alitalia",
-    "scraped_at": "2026-07-11T12:12:29.640Z"
+    "scraped_at": "2026-07-11T13:22:54.282Z"
   },
   {
     "site": "h24voyages",
@@ -1137,7 +1137,7 @@
     "price": 102902,
     "currency": "DZD",
     "airline": "Alitalia",
-    "scraped_at": "2026-07-11T12:12:59.452Z"
+    "scraped_at": "2026-07-11T13:23:18.613Z"
   },
   {
     "site": "h24voyages",
@@ -1157,7 +1157,7 @@
     "price": 205803,
     "currency": "DZD",
     "airline": "Alitalia",
-    "scraped_at": "2026-07-11T12:13:06.716Z"
+    "scraped_at": "2026-07-11T13:23:24.559Z"
   },
   {
     "site": "h24voyages",
@@ -1177,7 +1177,7 @@
     "price": 190032,
     "currency": "DZD",
     "airline": "Alitalia",
-    "scraped_at": "2026-07-11T12:13:14.608Z"
+    "scraped_at": "2026-07-11T13:23:32.049Z"
   },
   {
     "site": "h24voyages",
@@ -1197,7 +1197,7 @@
     "price": 113534,
     "currency": "DZD",
     "airline": "Alitalia",
-    "scraped_at": "2026-07-11T12:13:22.331Z"
+    "scraped_at": "2026-07-11T13:23:38.572Z"
   },
   {
     "site": "h24voyages",
@@ -1217,7 +1217,7 @@
     "price": 63531,
     "currency": "DZD",
     "airline": "Alitalia",
-    "scraped_at": "2026-07-11T12:13:48.897Z"
+    "scraped_at": "2026-07-11T13:24:05.194Z"
   },
   {
     "site": "h24voyages",
@@ -1237,7 +1237,7 @@
     "price": 127062,
     "currency": "DZD",
     "airline": "Alitalia",
-    "scraped_at": "2026-07-11T12:13:55.685Z"
+    "scraped_at": "2026-07-11T13:24:11.955Z"
   },
   {
     "site": "h24voyages",
@@ -1257,7 +1257,7 @@
     "price": 119141,
     "currency": "DZD",
     "airline": "Alitalia",
-    "scraped_at": "2026-07-11T12:14:03.812Z"
+    "scraped_at": "2026-07-11T13:24:19.760Z"
   },
   {
     "site": "h24voyages",
@@ -1277,7 +1277,7 @@
     "price": 71648,
     "currency": "DZD",
     "airline": "Alitalia",
-    "scraped_at": "2026-07-11T12:14:10.815Z"
+    "scraped_at": "2026-07-11T13:24:26.528Z"
   },
   {
     "site": "h24voyages",
@@ -1297,7 +1297,7 @@
     "price": 113851,
     "currency": "DZD",
     "airline": "Alitalia",
-    "scraped_at": "2026-07-11T12:14:36.816Z"
+    "scraped_at": "2026-07-11T13:24:52.724Z"
   },
   {
     "site": "h24voyages",
@@ -1317,7 +1317,7 @@
     "price": 227701,
     "currency": "DZD",
     "airline": "Alitalia",
-    "scraped_at": "2026-07-11T12:14:42.523Z"
+    "scraped_at": "2026-07-11T13:24:58.261Z"
   },
   {
     "site": "h24voyages",
@@ -1337,7 +1337,7 @@
     "price": 209237,
     "currency": "DZD",
     "airline": "Alitalia",
-    "scraped_at": "2026-07-11T12:14:49.397Z"
+    "scraped_at": "2026-07-11T13:25:04.292Z"
   },
   {
     "site": "h24voyages",
@@ -1357,7 +1357,7 @@
     "price": 125710,
     "currency": "DZD",
     "airline": "Alitalia",
-    "scraped_at": "2026-07-11T12:14:56.387Z"
+    "scraped_at": "2026-07-11T13:25:10.236Z"
   },
   {
     "site": "h24voyages",
@@ -1377,7 +1377,7 @@
     "price": 43730,
     "currency": "DZD",
     "airline": "Air Algerie",
-    "scraped_at": "2026-07-11T12:15:23.628Z"
+    "scraped_at": "2026-07-11T13:25:36.636Z"
   },
   {
     "site": "h24voyages",
@@ -1394,10 +1394,10 @@
     },
     "departDate": "2026-07-11",
     "returnDate": "2026-07-21",
-    "price": 92560,
+    "price": 87460,
     "currency": "DZD",
     "airline": "Air Algerie",
-    "scraped_at": "2026-07-11T12:15:30.388Z"
+    "scraped_at": "2026-07-11T13:25:43.723Z"
   },
   {
     "site": "h24voyages",
@@ -1414,10 +1414,10 @@
     },
     "departDate": "2026-07-11",
     "returnDate": "2026-07-21",
-    "price": 83550,
+    "price": 79290,
     "currency": "DZD",
     "airline": "Air Algerie",
-    "scraped_at": "2026-07-11T12:15:38.270Z"
+    "scraped_at": "2026-07-11T13:25:50.583Z"
   },
   {
     "site": "h24voyages",
@@ -1437,7 +1437,7 @@
     "price": 48140,
     "currency": "DZD",
     "airline": "Air Algerie",
-    "scraped_at": "2026-07-11T12:15:45.049Z"
+    "scraped_at": "2026-07-11T13:25:57.643Z"
   },
   {
     "site": "h24voyages",
@@ -1457,7 +1457,7 @@
     "price": 88190,
     "currency": "DZD",
     "airline": "Air Algerie",
-    "scraped_at": "2026-07-11T12:16:11.145Z"
+    "scraped_at": "2026-07-11T13:26:26.230Z"
   },
   {
     "site": "h24voyages",
@@ -1477,7 +1477,7 @@
     "price": 176380,
     "currency": "DZD",
     "airline": "Air Algerie",
-    "scraped_at": "2026-07-11T12:16:16.617Z"
+    "scraped_at": "2026-07-11T13:26:31.397Z"
   },
   {
     "site": "h24voyages",
@@ -1497,7 +1497,7 @@
     "price": 153840,
     "currency": "DZD",
     "airline": "Air Algerie",
-    "scraped_at": "2026-07-11T12:16:22.184Z"
+    "scraped_at": "2026-07-11T13:26:37.265Z"
   },
   {
     "site": "h24voyages",
@@ -1517,6 +1517,6 @@
     "price": 96950,
     "currency": "DZD",
     "airline": "Air Algerie",
-    "scraped_at": "2026-07-11T12:16:28.090Z"
+    "scraped_at": "2026-07-11T13:26:42.892Z"
   }
 ]
