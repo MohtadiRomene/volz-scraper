@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
-  "duree_secondes": 1487,
-  "nb_recherches": 144,
-  "nb_vols": 1352,
-  "nb_erreurs": 0
+  "nb_vols_volz": 1352,
+  "nb_vols_h24voyages": 76,
+  "nb_vols_total": 1428,
+  "scraped_at": "2026-07-11T15:21:44.817Z"
 }
