@@ -41,6 +41,7 @@ const key = (v) => `${v.origin}-${v.destination}-${v.tripType}-${v.cabinClass}-$
       cabinClass: vols[0].cabinClass,
       passengers: vols[0].passengers,
       departDate: vols[0].departDate,
+      returnDate: vols[0].returnDate,
       prix: {
         volz: parSite.volz?.price || null,
         h24voyages: parSite.h24voyages?.price || null,
