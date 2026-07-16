@@ -1,58 +1,30 @@
 [
   {
-    "route": "ALG → BCN",
+    "route": "ALG → DXB",
     "origin": "ALG",
     "originName": "Alger",
-    "destination": "BCN",
-    "destinationName": "Barcelone",
+    "destination": "DXB",
+    "destinationName": "Dubai",
     "tripType": "RT",
-    "cabinClass": "ECONOMY",
-    "passengers": {
-      "adults": 2,
-      "children": 0,
-      "infants": 0
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 126848,
-      "h24voyages": 269732
-    },
-    "moinsCher": {
-      "site": "volz",
-      "prix": 126848,
-      "airline": null,
-      "departDate": "2026-07-13"
-    },
-    "economie": 142884,
-    "nbSitesDisponibles": 2
-  },
-  {
-    "route": "ALG → BCN",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "BCN",
-    "destinationName": "Barcelone",
-    "tripType": "RT",
-    "cabinClass": "ECONOMY",
+    "cabinClass": "BUSINESS",
     "passengers": {
       "adults": 1,
       "children": 1,
       "infants": 0
     },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
     "prix": {
-      "volz": 119228,
-      "h24voyages": 250252
+      "volz": 527198,
+      "h24voyages": 356496
     },
     "moinsCher": {
-      "site": "volz",
-      "prix": 119228,
-      "airline": null,
-      "departDate": "2026-07-13"
+      "site": "h24voyages",
+      "prix": 356496,
+      "airline": "Saudi Arabian",
+      "departDate": "2026-07-16"
     },
-    "economie": 131024,
+    "economie": 170702,
     "nbSitesDisponibles": 2
   },
   {
@@ -68,19 +40,19 @@
       "children": 0,
       "infants": 0
     },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
     "prix": {
-      "volz": 318514,
-      "h24voyages": 425926
+      "volz": 578784,
+      "h24voyages": 443264
     },
     "moinsCher": {
-      "site": "volz",
-      "prix": 318514,
-      "airline": null,
-      "departDate": "2026-07-13"
+      "site": "h24voyages",
+      "prix": 443264,
+      "airline": "Turkish Airlines",
+      "departDate": "2026-07-16"
     },
-    "economie": 107412,
+    "economie": 135520,
     "nbSitesDisponibles": 2
   },
   {
@@ -96,243 +68,19 @@
       "children": 1,
       "infants": 0
     },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
     "prix": {
-      "volz": 292304,
-      "h24voyages": 398926
+      "volz": 487234,
+      "h24voyages": 414074
     },
     "moinsCher": {
-      "site": "volz",
-      "prix": 292304,
-      "airline": null,
-      "departDate": "2026-07-13"
+      "site": "h24voyages",
+      "prix": 414074,
+      "airline": "Turkish Airlines",
+      "departDate": "2026-07-16"
     },
-    "economie": 106622,
-    "nbSitesDisponibles": 2
-  },
-  {
-    "route": "ALG → MAD",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "MAD",
-    "destinationName": "Madrid",
-    "tripType": "RT",
-    "cabinClass": "ECONOMY",
-    "passengers": {
-      "adults": 2,
-      "children": 0,
-      "infants": 0
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 164924,
-      "h24voyages": 254322
-    },
-    "moinsCher": {
-      "site": "volz",
-      "prix": 164924,
-      "airline": null,
-      "departDate": "2026-07-13"
-    },
-    "economie": 89398,
-    "nbSitesDisponibles": 2
-  },
-  {
-    "route": "ALG → MAD",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "MAD",
-    "destinationName": "Madrid",
-    "tripType": "RT",
-    "cabinClass": "ECONOMY",
-    "passengers": {
-      "adults": 1,
-      "children": 1,
-      "infants": 0
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 153564,
-      "h24voyages": 236922
-    },
-    "moinsCher": {
-      "site": "volz",
-      "prix": 153564,
-      "airline": null,
-      "departDate": "2026-07-13"
-    },
-    "economie": 83358,
-    "nbSitesDisponibles": 2
-  },
-  {
-    "route": "ALG → MAD",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "MAD",
-    "destinationName": "Madrid",
-    "tripType": "RT",
-    "cabinClass": "BUSINESS",
-    "passengers": {
-      "adults": 1,
-      "children": 0,
-      "infants": 0
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 138357,
-      "h24voyages": 212963
-    },
-    "moinsCher": {
-      "site": "volz",
-      "prix": 138357,
-      "airline": null,
-      "departDate": "2026-07-13"
-    },
-    "economie": 74606,
-    "nbSitesDisponibles": 2
-  },
-  {
-    "route": "ALG → MAD",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "MAD",
-    "destinationName": "Madrid",
-    "tripType": "RT",
-    "cabinClass": "BUSINESS",
-    "passengers": {
-      "adults": 1,
-      "children": 0,
-      "infants": 1
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 156506,
-      "h24voyages": 229588
-    },
-    "moinsCher": {
-      "site": "volz",
-      "prix": 156506,
-      "airline": null,
-      "departDate": "2026-07-13"
-    },
-    "economie": 73082,
-    "nbSitesDisponibles": 2
-  },
-  {
-    "route": "ALG → BCN",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "BCN",
-    "destinationName": "Barcelone",
-    "tripType": "RT",
-    "cabinClass": "ECONOMY",
-    "passengers": {
-      "adults": 1,
-      "children": 0,
-      "infants": 1
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 75830,
-      "h24voyages": 147896
-    },
-    "moinsCher": {
-      "site": "volz",
-      "prix": 75830,
-      "airline": null,
-      "departDate": "2026-07-13"
-    },
-    "economie": 72066,
-    "nbSitesDisponibles": 2
-  },
-  {
-    "route": "ALG → BCN",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "BCN",
-    "destinationName": "Barcelone",
-    "tripType": "RT",
-    "cabinClass": "ECONOMY",
-    "passengers": {
-      "adults": 1,
-      "children": 0,
-      "infants": 0
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 63424,
-      "h24voyages": 134866
-    },
-    "moinsCher": {
-      "site": "volz",
-      "prix": 63424,
-      "airline": null,
-      "departDate": "2026-07-13"
-    },
-    "economie": 71442,
-    "nbSitesDisponibles": 2
-  },
-  {
-    "route": "ALG → MAD",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "MAD",
-    "destinationName": "Madrid",
-    "tripType": "RT",
-    "cabinClass": "ECONOMY",
-    "passengers": {
-      "adults": 1,
-      "children": 0,
-      "infants": 0
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 82462,
-      "h24voyages": 127161
-    },
-    "moinsCher": {
-      "site": "volz",
-      "prix": 82462,
-      "airline": null,
-      "departDate": "2026-07-13"
-    },
-    "economie": 44699,
-    "nbSitesDisponibles": 2
-  },
-  {
-    "route": "ALG → MAD",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "MAD",
-    "destinationName": "Madrid",
-    "tripType": "RT",
-    "cabinClass": "ECONOMY",
-    "passengers": {
-      "adults": 1,
-      "children": 0,
-      "infants": 1
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 96886,
-      "h24voyages": 137276
-    },
-    "moinsCher": {
-      "site": "volz",
-      "prix": 96886,
-      "airline": null,
-      "departDate": "2026-07-13"
-    },
-    "economie": 40390,
+    "economie": 73160,
     "nbSitesDisponibles": 2
   },
   {
@@ -348,19 +96,19 @@
       "children": 0,
       "infants": 0
     },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
     "prix": {
-      "volz": 505812,
-      "h24voyages": 487012
+      "volz": 511090,
+      "h24voyages": 464830
     },
     "moinsCher": {
       "site": "h24voyages",
-      "prix": 487012,
+      "prix": 464830,
       "airline": "Turkish Airlines",
-      "departDate": "2026-07-13"
+      "departDate": "2026-07-16"
     },
-    "economie": 18800,
+    "economie": 46260,
     "nbSitesDisponibles": 2
   },
   {
@@ -376,17 +124,17 @@
       "children": 1,
       "infants": 0
     },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
     "prix": {
-      "volz": 466012,
-      "h24voyages": 447212
+      "volz": 469460,
+      "h24voyages": 450660
     },
     "moinsCher": {
       "site": "h24voyages",
-      "prix": 447212,
+      "prix": 450660,
       "airline": "Turkish Airlines",
-      "departDate": "2026-07-13"
+      "departDate": "2026-07-16"
     },
     "economie": 18800,
     "nbSitesDisponibles": 2
@@ -397,6 +145,62 @@
     "originName": "Alger",
     "destination": "SSH",
     "destinationName": "Sharm El Sheikh",
+    "tripType": "RT",
+    "cabinClass": "BUSINESS",
+    "passengers": {
+      "adults": 2,
+      "children": 0,
+      "infants": 0
+    },
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
+    "prix": {
+      "volz": 597080,
+      "h24voyages": 578280
+    },
+    "moinsCher": {
+      "site": "h24voyages",
+      "prix": 578280,
+      "airline": "Turkish Airlines",
+      "departDate": "2026-07-16"
+    },
+    "economie": 18800,
+    "nbSitesDisponibles": 2
+  },
+  {
+    "route": "ALG → SSH",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "SSH",
+    "destinationName": "Sharm El Sheikh",
+    "tripType": "RT",
+    "cabinClass": "BUSINESS",
+    "passengers": {
+      "adults": 1,
+      "children": 1,
+      "infants": 0
+    },
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
+    "prix": {
+      "volz": 548650,
+      "h24voyages": 529850
+    },
+    "moinsCher": {
+      "site": "h24voyages",
+      "prix": 529850,
+      "airline": "Turkish Airlines",
+      "departDate": "2026-07-16"
+    },
+    "economie": 18800,
+    "nbSitesDisponibles": 2
+  },
+  {
+    "route": "ALG → MAD",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "MAD",
+    "destinationName": "Madrid",
     "tripType": "RT",
     "cabinClass": "ECONOMY",
     "passengers": {
@@ -404,27 +208,27 @@
       "children": 0,
       "infants": 0
     },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
     "prix": {
-      "volz": 486742,
-      "h24voyages": 467942
+      "volz": 220744,
+      "h24voyages": 205068
     },
     "moinsCher": {
       "site": "h24voyages",
-      "prix": 467942,
-      "airline": "Turkish Airlines",
-      "departDate": "2026-07-13"
+      "prix": 205068,
+      "airline": "Tunisair",
+      "departDate": "2026-07-16"
     },
-    "economie": 18800,
+    "economie": 15676,
     "nbSitesDisponibles": 2
   },
   {
-    "route": "ALG → SSH",
+    "route": "ALG → MAD",
     "origin": "ALG",
     "originName": "Alger",
-    "destination": "SSH",
-    "destinationName": "Sharm El Sheikh",
+    "destination": "MAD",
+    "destinationName": "Madrid",
     "tripType": "RT",
     "cabinClass": "ECONOMY",
     "passengers": {
@@ -432,131 +236,19 @@
       "children": 1,
       "infants": 0
     },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
     "prix": {
-      "volz": 442202,
-      "h24voyages": 423402
+      "volz": 211194,
+      "h24voyages": 195996
     },
     "moinsCher": {
       "site": "h24voyages",
-      "prix": 423402,
-      "airline": "Turkish Airlines",
-      "departDate": "2026-07-13"
+      "prix": 195996,
+      "airline": "Tunisair",
+      "departDate": "2026-07-16"
     },
-    "economie": 18800,
-    "nbSitesDisponibles": 2
-  },
-  {
-    "route": "ALG → SSH",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "SSH",
-    "destinationName": "Sharm El Sheikh",
-    "tripType": "RT",
-    "cabinClass": "BUSINESS",
-    "passengers": {
-      "adults": 2,
-      "children": 0,
-      "infants": 0
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 597206,
-      "h24voyages": 578406
-    },
-    "moinsCher": {
-      "site": "h24voyages",
-      "prix": 578406,
-      "airline": "Turkish Airlines",
-      "departDate": "2026-07-13"
-    },
-    "economie": 18800,
-    "nbSitesDisponibles": 2
-  },
-  {
-    "route": "ALG → SSH",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "SSH",
-    "destinationName": "Sharm El Sheikh",
-    "tripType": "RT",
-    "cabinClass": "BUSINESS",
-    "passengers": {
-      "adults": 1,
-      "children": 1,
-      "infants": 0
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 548776,
-      "h24voyages": 529976
-    },
-    "moinsCher": {
-      "site": "h24voyages",
-      "prix": 529976,
-      "airline": "Turkish Airlines",
-      "departDate": "2026-07-13"
-    },
-    "economie": 18800,
-    "nbSitesDisponibles": 2
-  },
-  {
-    "route": "ALG → BCN",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "BCN",
-    "destinationName": "Barcelone",
-    "tripType": "RT",
-    "cabinClass": "BUSINESS",
-    "passengers": {
-      "adults": 2,
-      "children": 0,
-      "infants": 0
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 499936,
-      "h24voyages": 481136
-    },
-    "moinsCher": {
-      "site": "h24voyages",
-      "prix": 481136,
-      "airline": "Turkish Airlines",
-      "departDate": "2026-07-13"
-    },
-    "economie": 18800,
-    "nbSitesDisponibles": 2
-  },
-  {
-    "route": "ALG → BCN",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "BCN",
-    "destinationName": "Barcelone",
-    "tripType": "RT",
-    "cabinClass": "BUSINESS",
-    "passengers": {
-      "adults": 1,
-      "children": 1,
-      "infants": 0
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 465816,
-      "h24voyages": 447086
-    },
-    "moinsCher": {
-      "site": "h24voyages",
-      "prix": 447086,
-      "airline": "Turkish Airlines",
-      "departDate": "2026-07-13"
-    },
-    "economie": 18730,
+    "economie": 15198,
     "nbSitesDisponibles": 2
   },
   {
@@ -572,55 +264,27 @@
       "children": 0,
       "infants": 1
     },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
     "prix": {
-      "volz": 329684,
-      "h24voyages": 314834
+      "volz": 329614,
+      "h24voyages": 314764
     },
     "moinsCher": {
       "site": "h24voyages",
-      "prix": 314834,
+      "prix": 314764,
       "airline": "Turkish Airlines",
-      "departDate": "2026-07-13"
+      "departDate": "2026-07-16"
     },
     "economie": 14850,
     "nbSitesDisponibles": 2
   },
   {
-    "route": "ALG → AYT",
+    "route": "ALG → BCN",
     "origin": "ALG",
     "originName": "Alger",
-    "destination": "AYT",
-    "destinationName": "Antalya",
-    "tripType": "RT",
-    "cabinClass": "ECONOMY",
-    "passengers": {
-      "adults": 1,
-      "children": 0,
-      "infants": 1
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 117000,
-      "h24voyages": 105420
-    },
-    "moinsCher": {
-      "site": "h24voyages",
-      "prix": 105420,
-      "airline": "Turkish Airlines",
-      "departDate": "2026-07-13"
-    },
-    "economie": 11580,
-    "nbSitesDisponibles": 2
-  },
-  {
-    "route": "ALG → AYT",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "AYT",
-    "destinationName": "Antalya",
+    "destination": "BCN",
+    "destinationName": "Barcelone",
     "tripType": "RT",
     "cabinClass": "BUSINESS",
     "passengers": {
@@ -628,17 +292,129 @@
       "children": 0,
       "infants": 1
     },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
     "prix": {
-      "volz": 272936,
-      "h24voyages": 261356
+      "volz": 374888,
+      "h24voyages": 360038
     },
     "moinsCher": {
       "site": "h24voyages",
-      "prix": 261356,
+      "prix": 360038,
       "airline": "Turkish Airlines",
-      "departDate": "2026-07-13"
+      "departDate": "2026-07-16"
+    },
+    "economie": 14850,
+    "nbSitesDisponibles": 2
+  },
+  {
+    "route": "ALG → TUN",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "TUN",
+    "destinationName": "Tunis",
+    "tripType": "RT",
+    "cabinClass": "BUSINESS",
+    "passengers": {
+      "adults": 2,
+      "children": 0,
+      "infants": 0
+    },
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
+    "prix": {
+      "volz": 153008,
+      "h24voyages": 140918
+    },
+    "moinsCher": {
+      "site": "h24voyages",
+      "prix": 140918,
+      "airline": "Tunisair",
+      "departDate": "2026-07-16"
+    },
+    "economie": 12090,
+    "nbSitesDisponibles": 2
+  },
+  {
+    "route": "ALG → BCN",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "BCN",
+    "destinationName": "Barcelone",
+    "tripType": "RT",
+    "cabinClass": "ECONOMY",
+    "passengers": {
+      "adults": 2,
+      "children": 0,
+      "infants": 0
+    },
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
+    "prix": {
+      "volz": 123142,
+      "h24voyages": 111464
+    },
+    "moinsCher": {
+      "site": "h24voyages",
+      "prix": 111464,
+      "airline": "Vueling Airlines",
+      "departDate": "2026-07-16"
+    },
+    "economie": 11678,
+    "nbSitesDisponibles": 2
+  },
+  {
+    "route": "ALG → BCN",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "BCN",
+    "destinationName": "Barcelone",
+    "tripType": "RT",
+    "cabinClass": "ECONOMY",
+    "passengers": {
+      "adults": 1,
+      "children": 1,
+      "infants": 0
+    },
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
+    "prix": {
+      "volz": 123142,
+      "h24voyages": 111464
+    },
+    "moinsCher": {
+      "site": "h24voyages",
+      "prix": 111464,
+      "airline": "Vueling Airlines",
+      "departDate": "2026-07-16"
+    },
+    "economie": 11678,
+    "nbSitesDisponibles": 2
+  },
+  {
+    "route": "ALG → IST",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "IST",
+    "destinationName": "Istanbul",
+    "tripType": "RT",
+    "cabinClass": "ECONOMY",
+    "passengers": {
+      "adults": 1,
+      "children": 0,
+      "infants": 1
+    },
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
+    "prix": {
+      "volz": 85010,
+      "h24voyages": 73430
+    },
+    "moinsCher": {
+      "site": "h24voyages",
+      "prix": 73430,
+      "airline": "Turkish Airlines",
+      "departDate": "2026-07-16"
     },
     "economie": 11580,
     "nbSitesDisponibles": 2
@@ -656,19 +432,383 @@
       "children": 0,
       "infants": 1
     },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
     "prix": {
-      "volz": 269632,
-      "h24voyages": 258052
+      "volz": 122488,
+      "h24voyages": 110908
     },
     "moinsCher": {
       "site": "h24voyages",
-      "prix": 258052,
+      "prix": 110908,
       "airline": "Turkish Airlines",
-      "departDate": "2026-07-13"
+      "departDate": "2026-07-16"
     },
     "economie": 11580,
+    "nbSitesDisponibles": 2
+  },
+  {
+    "route": "ALG → MAD",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "MAD",
+    "destinationName": "Madrid",
+    "tripType": "RT",
+    "cabinClass": "BUSINESS",
+    "passengers": {
+      "adults": 1,
+      "children": 0,
+      "infants": 1
+    },
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
+    "prix": {
+      "volz": 250708,
+      "h24voyages": 239128
+    },
+    "moinsCher": {
+      "site": "h24voyages",
+      "prix": 239128,
+      "airline": "Turkish Airlines",
+      "departDate": "2026-07-16"
+    },
+    "economie": 11580,
+    "nbSitesDisponibles": 2
+  },
+  {
+    "route": "ALG → TUN",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "TUN",
+    "destinationName": "Tunis",
+    "tripType": "RT",
+    "cabinClass": "BUSINESS",
+    "passengers": {
+      "adults": 1,
+      "children": 1,
+      "infants": 0
+    },
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
+    "prix": {
+      "volz": 138298,
+      "h24voyages": 126944
+    },
+    "moinsCher": {
+      "site": "h24voyages",
+      "prix": 126944,
+      "airline": "Tunisair",
+      "departDate": "2026-07-16"
+    },
+    "economie": 11354,
+    "nbSitesDisponibles": 2
+  },
+  {
+    "route": "ALG → MAD",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "MAD",
+    "destinationName": "Madrid",
+    "tripType": "RT",
+    "cabinClass": "ECONOMY",
+    "passengers": {
+      "adults": 1,
+      "children": 0,
+      "infants": 1
+    },
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
+    "prix": {
+      "volz": 123148,
+      "h24voyages": 112891
+    },
+    "moinsCher": {
+      "site": "h24voyages",
+      "prix": 112891,
+      "airline": "Tunisair",
+      "departDate": "2026-07-16"
+    },
+    "economie": 10257,
+    "nbSitesDisponibles": 2
+  },
+  {
+    "route": "ALG → TUN",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "TUN",
+    "destinationName": "Tunis",
+    "tripType": "RT",
+    "cabinClass": "ECONOMY",
+    "passengers": {
+      "adults": 2,
+      "children": 0,
+      "infants": 0
+    },
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
+    "prix": {
+      "volz": 111374,
+      "h24voyages": 101274
+    },
+    "moinsCher": {
+      "site": "h24voyages",
+      "prix": 101274,
+      "airline": "Tunisair",
+      "departDate": "2026-07-16"
+    },
+    "economie": 10100,
+    "nbSitesDisponibles": 2
+  },
+  {
+    "route": "ALG → IST",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "IST",
+    "destinationName": "Istanbul",
+    "tripType": "RT",
+    "cabinClass": "ECONOMY",
+    "passengers": {
+      "adults": 2,
+      "children": 0,
+      "infants": 0
+    },
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
+    "prix": {
+      "volz": 146280,
+      "h24voyages": 136200
+    },
+    "moinsCher": {
+      "site": "h24voyages",
+      "prix": 136200,
+      "airline": "Turkish Airlines",
+      "departDate": "2026-07-16"
+    },
+    "economie": 10080,
+    "nbSitesDisponibles": 2
+  },
+  {
+    "route": "ALG → IST",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "IST",
+    "destinationName": "Istanbul",
+    "tripType": "RT",
+    "cabinClass": "ECONOMY",
+    "passengers": {
+      "adults": 1,
+      "children": 1,
+      "infants": 0
+    },
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
+    "prix": {
+      "volz": 137780,
+      "h24voyages": 127700
+    },
+    "moinsCher": {
+      "site": "h24voyages",
+      "prix": 127700,
+      "airline": "Turkish Airlines",
+      "departDate": "2026-07-16"
+    },
+    "economie": 10080,
+    "nbSitesDisponibles": 2
+  },
+  {
+    "route": "ALG → SSH",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "SSH",
+    "destinationName": "Sharm El Sheikh",
+    "tripType": "RT",
+    "cabinClass": "ECONOMY",
+    "passengers": {
+      "adults": 2,
+      "children": 0,
+      "infants": 0
+    },
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
+    "prix": {
+      "volz": 218048,
+      "h24voyages": 207968
+    },
+    "moinsCher": {
+      "site": "h24voyages",
+      "prix": 207968,
+      "airline": "Turkish Airlines",
+      "departDate": "2026-07-16"
+    },
+    "economie": 10080,
+    "nbSitesDisponibles": 2
+  },
+  {
+    "route": "ALG → SSH",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "SSH",
+    "destinationName": "Sharm El Sheikh",
+    "tripType": "RT",
+    "cabinClass": "ECONOMY",
+    "passengers": {
+      "adults": 1,
+      "children": 1,
+      "infants": 0
+    },
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
+    "prix": {
+      "volz": 205998,
+      "h24voyages": 195918
+    },
+    "moinsCher": {
+      "site": "h24voyages",
+      "prix": 195918,
+      "airline": "Turkish Airlines",
+      "departDate": "2026-07-16"
+    },
+    "economie": 10080,
+    "nbSitesDisponibles": 2
+  },
+  {
+    "route": "ALG → TUN",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "TUN",
+    "destinationName": "Tunis",
+    "tripType": "RT",
+    "cabinClass": "ECONOMY",
+    "passengers": {
+      "adults": 1,
+      "children": 1,
+      "infants": 0
+    },
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
+    "prix": {
+      "volz": 106434,
+      "h24voyages": 96581
+    },
+    "moinsCher": {
+      "site": "h24voyages",
+      "prix": 96581,
+      "airline": "Tunisair",
+      "departDate": "2026-07-16"
+    },
+    "economie": 9853,
+    "nbSitesDisponibles": 2
+  },
+  {
+    "route": "ALG → DXB",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "DXB",
+    "destinationName": "Dubai",
+    "tripType": "RT",
+    "cabinClass": "BUSINESS",
+    "passengers": {
+      "adults": 2,
+      "children": 0,
+      "infants": 0
+    },
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
+    "prix": {
+      "volz": 398096,
+      "h24voyages": 388296
+    },
+    "moinsCher": {
+      "site": "h24voyages",
+      "prix": 388296,
+      "airline": "Saudi Arabian",
+      "departDate": "2026-07-16"
+    },
+    "economie": 9800,
+    "nbSitesDisponibles": 2
+  },
+  {
+    "route": "ALG → BCN",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "BCN",
+    "destinationName": "Barcelone",
+    "tripType": "RT",
+    "cabinClass": "ECONOMY",
+    "passengers": {
+      "adults": 1,
+      "children": 0,
+      "infants": 1
+    },
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
+    "prix": {
+      "volz": 80342,
+      "h24voyages": 70719
+    },
+    "moinsCher": {
+      "site": "h24voyages",
+      "prix": 70719,
+      "airline": "Vueling Airlines",
+      "departDate": "2026-07-16"
+    },
+    "economie": 9623,
+    "nbSitesDisponibles": 2
+  },
+  {
+    "route": "ALG → AYT",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "AYT",
+    "destinationName": "Antalya",
+    "tripType": "RT",
+    "cabinClass": "BUSINESS",
+    "passengers": {
+      "adults": 1,
+      "children": 0,
+      "infants": 0
+    },
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
+    "prix": {
+      "volz": 260232,
+      "h24voyages": 250832
+    },
+    "moinsCher": {
+      "site": "h24voyages",
+      "prix": 250832,
+      "airline": "Turkish Airlines",
+      "departDate": "2026-07-16"
+    },
+    "economie": 9400,
+    "nbSitesDisponibles": 2
+  },
+  {
+    "route": "ALG → SSH",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "SSH",
+    "destinationName": "Sharm El Sheikh",
+    "tripType": "RT",
+    "cabinClass": "BUSINESS",
+    "passengers": {
+      "adults": 1,
+      "children": 0,
+      "infants": 0
+    },
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
+    "prix": {
+      "volz": 298540,
+      "h24voyages": 289140
+    },
+    "moinsCher": {
+      "site": "h24voyages",
+      "prix": 289140,
+      "airline": "Turkish Airlines",
+      "departDate": "2026-07-16"
+    },
+    "economie": 9400,
     "nbSitesDisponibles": 2
   },
   {
@@ -682,169 +822,57 @@
     "passengers": {
       "adults": 1,
       "children": 0,
-      "infants": 1
+      "infants": 0
     },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
     "prix": {
-      "volz": 270998,
-      "h24voyages": 259418
+      "volz": 341437,
+      "h24voyages": 332037
     },
     "moinsCher": {
       "site": "h24voyages",
-      "prix": 259418,
+      "prix": 332037,
       "airline": "Turkish Airlines",
-      "departDate": "2026-07-13"
-    },
-    "economie": 11580,
-    "nbSitesDisponibles": 2
-  },
-  {
-    "route": "ALG → AYT",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "AYT",
-    "destinationName": "Antalya",
-    "tripType": "RT",
-    "cabinClass": "ECONOMY",
-    "passengers": {
-      "adults": 2,
-      "children": 0,
-      "infants": 0
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 206260,
-      "h24voyages": 196180
-    },
-    "moinsCher": {
-      "site": "h24voyages",
-      "prix": 196180,
-      "airline": "Turkish Airlines",
-      "departDate": "2026-07-13"
-    },
-    "economie": 10080,
-    "nbSitesDisponibles": 2
-  },
-  {
-    "route": "ALG → AYT",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "AYT",
-    "destinationName": "Antalya",
-    "tripType": "RT",
-    "cabinClass": "ECONOMY",
-    "passengers": {
-      "adults": 1,
-      "children": 1,
-      "infants": 0
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 192770,
-      "h24voyages": 182690
-    },
-    "moinsCher": {
-      "site": "h24voyages",
-      "prix": 182690,
-      "airline": "Turkish Airlines",
-      "departDate": "2026-07-13"
-    },
-    "economie": 10080,
-    "nbSitesDisponibles": 2
-  },
-  {
-    "route": "ALG → DXB",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "DXB",
-    "destinationName": "Dubai",
-    "tripType": "RT",
-    "cabinClass": "BUSINESS",
-    "passengers": {
-      "adults": 2,
-      "children": 0,
-      "infants": 0
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 398122,
-      "h24voyages": 388322
-    },
-    "moinsCher": {
-      "site": "h24voyages",
-      "prix": 388322,
-      "airline": "Saudi Arabian",
-      "departDate": "2026-07-13"
-    },
-    "economie": 9800,
-    "nbSitesDisponibles": 2
-  },
-  {
-    "route": "ALG → DXB",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "DXB",
-    "destinationName": "Dubai",
-    "tripType": "RT",
-    "cabinClass": "BUSINESS",
-    "passengers": {
-      "adults": 1,
-      "children": 1,
-      "infants": 0
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 366322,
-      "h24voyages": 356522
-    },
-    "moinsCher": {
-      "site": "h24voyages",
-      "prix": 356522,
-      "airline": "Saudi Arabian",
-      "departDate": "2026-07-13"
-    },
-    "economie": 9800,
-    "nbSitesDisponibles": 2
-  },
-  {
-    "route": "ALG → AYT",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "AYT",
-    "destinationName": "Antalya",
-    "tripType": "RT",
-    "cabinClass": "BUSINESS",
-    "passengers": {
-      "adults": 1,
-      "children": 0,
-      "infants": 0
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 252906,
-      "h24voyages": 243506
-    },
-    "moinsCher": {
-      "site": "h24voyages",
-      "prix": 243506,
-      "airline": "Turkish Airlines",
-      "departDate": "2026-07-13"
+      "departDate": "2026-07-16"
     },
     "economie": 9400,
     "nbSitesDisponibles": 2
   },
   {
-    "route": "ALG → SSH",
+    "route": "ALG → MAD",
     "origin": "ALG",
     "originName": "Alger",
-    "destination": "SSH",
-    "destinationName": "Sharm El Sheikh",
+    "destination": "MAD",
+    "destinationName": "Madrid",
+    "tripType": "RT",
+    "cabinClass": "BUSINESS",
+    "passengers": {
+      "adults": 1,
+      "children": 0,
+      "infants": 0
+    },
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
+    "prix": {
+      "volz": 231032,
+      "h24voyages": 221632
+    },
+    "moinsCher": {
+      "site": "h24voyages",
+      "prix": 221632,
+      "airline": "Turkish Airlines",
+      "departDate": "2026-07-16"
+    },
+    "economie": 9400,
+    "nbSitesDisponibles": 2
+  },
+  {
+    "route": "ALG → MAD",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "MAD",
+    "destinationName": "Madrid",
     "tripType": "RT",
     "cabinClass": "ECONOMY",
     "passengers": {
@@ -852,75 +880,19 @@
       "children": 0,
       "infants": 0
     },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
     "prix": {
-      "volz": 243371,
-      "h24voyages": 233971
+      "volz": 110372,
+      "h24voyages": 102534
     },
     "moinsCher": {
       "site": "h24voyages",
-      "prix": 233971,
-      "airline": "Turkish Airlines",
-      "departDate": "2026-07-13"
+      "prix": 102534,
+      "airline": "Tunisair",
+      "departDate": "2026-07-16"
     },
-    "economie": 9400,
-    "nbSitesDisponibles": 2
-  },
-  {
-    "route": "ALG → SSH",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "SSH",
-    "destinationName": "Sharm El Sheikh",
-    "tripType": "RT",
-    "cabinClass": "BUSINESS",
-    "passengers": {
-      "adults": 1,
-      "children": 0,
-      "infants": 0
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 298603,
-      "h24voyages": 289203
-    },
-    "moinsCher": {
-      "site": "h24voyages",
-      "prix": 289203,
-      "airline": "Turkish Airlines",
-      "departDate": "2026-07-13"
-    },
-    "economie": 9400,
-    "nbSitesDisponibles": 2
-  },
-  {
-    "route": "ALG → BCN",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "BCN",
-    "destinationName": "Barcelone",
-    "tripType": "RT",
-    "cabinClass": "BUSINESS",
-    "passengers": {
-      "adults": 1,
-      "children": 0,
-      "infants": 0
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 249968,
-      "h24voyages": 240568
-    },
-    "moinsCher": {
-      "site": "h24voyages",
-      "prix": 240568,
-      "airline": "Turkish Airlines",
-      "departDate": "2026-07-13"
-    },
-    "economie": 9400,
+    "economie": 7838,
     "nbSitesDisponibles": 2
   },
   {
@@ -936,17 +908,17 @@
       "children": 0,
       "infants": 1
     },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
     "prix": {
-      "volz": 131198,
-      "h24voyages": 124659
+      "volz": 131147,
+      "h24voyages": 124608
     },
     "moinsCher": {
       "site": "h24voyages",
-      "prix": 124659,
+      "prix": 124608,
       "airline": "Air Algerie",
-      "departDate": "2026-07-13"
+      "departDate": "2026-07-16"
     },
     "economie": 6539,
     "nbSitesDisponibles": 2
@@ -964,17 +936,17 @@
       "children": 0,
       "infants": 1
     },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
     "prix": {
-      "volz": 146356,
-      "h24voyages": 139817
+      "volz": 146348,
+      "h24voyages": 139809
     },
     "moinsCher": {
       "site": "h24voyages",
-      "prix": 139817,
+      "prix": 139809,
       "airline": "Air Algerie",
-      "departDate": "2026-07-13"
+      "departDate": "2026-07-16"
     },
     "economie": 6539,
     "nbSitesDisponibles": 2
@@ -992,17 +964,17 @@
       "children": 0,
       "infants": 1
     },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
     "prix": {
-      "volz": 147126,
-      "h24voyages": 140587
+      "volz": 147112,
+      "h24voyages": 140573
     },
     "moinsCher": {
       "site": "h24voyages",
-      "prix": 140587,
+      "prix": 140573,
       "airline": "Air Algerie",
-      "departDate": "2026-07-13"
+      "departDate": "2026-07-16"
     },
     "economie": 6539,
     "nbSitesDisponibles": 2
@@ -1020,17 +992,17 @@
       "children": 0,
       "infants": 0
     },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
     "prix": {
-      "volz": 235596,
-      "h24voyages": 229058
+      "volz": 261994,
+      "h24voyages": 255456
     },
     "moinsCher": {
       "site": "h24voyages",
-      "prix": 229058,
+      "prix": 255456,
       "airline": "Air Algerie",
-      "departDate": "2026-07-13"
+      "departDate": "2026-07-16"
     },
     "economie": 6538,
     "nbSitesDisponibles": 2
@@ -1048,45 +1020,17 @@
       "children": 1,
       "infants": 0
     },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
     "prix": {
-      "volz": 235596,
-      "h24voyages": 229058
+      "volz": 244094,
+      "h24voyages": 237556
     },
     "moinsCher": {
       "site": "h24voyages",
-      "prix": 229058,
+      "prix": 237556,
       "airline": "Air Algerie",
-      "departDate": "2026-07-13"
-    },
-    "economie": 6538,
-    "nbSitesDisponibles": 2
-  },
-  {
-    "route": "ALG → IST",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "IST",
-    "destinationName": "Istanbul",
-    "tripType": "RT",
-    "cabinClass": "ECONOMY",
-    "passengers": {
-      "adults": 2,
-      "children": 0,
-      "infants": 0
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 126632,
-      "h24voyages": 120094
-    },
-    "moinsCher": {
-      "site": "h24voyages",
-      "prix": 120094,
-      "airline": "Air Algerie",
-      "departDate": "2026-07-13"
+      "departDate": "2026-07-16"
     },
     "economie": 6538,
     "nbSitesDisponibles": 2
@@ -1104,17 +1048,17 @@
       "children": 0,
       "infants": 0
     },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
     "prix": {
-      "volz": 260912,
-      "h24voyages": 254374
+      "volz": 260896,
+      "h24voyages": 254358
     },
     "moinsCher": {
       "site": "h24voyages",
-      "prix": 254374,
+      "prix": 254358,
       "airline": "Air Algerie",
-      "departDate": "2026-07-13"
+      "departDate": "2026-07-16"
     },
     "economie": 6538,
     "nbSitesDisponibles": 2
@@ -1132,17 +1076,73 @@
       "children": 1,
       "infants": 0
     },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
     "prix": {
-      "volz": 260692,
-      "h24voyages": 254154
+      "volz": 260896,
+      "h24voyages": 254358
     },
     "moinsCher": {
       "site": "h24voyages",
-      "prix": 254154,
+      "prix": 254358,
       "airline": "Air Algerie",
-      "departDate": "2026-07-13"
+      "departDate": "2026-07-16"
+    },
+    "economie": 6538,
+    "nbSitesDisponibles": 2
+  },
+  {
+    "route": "ALG → AYT",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "AYT",
+    "destinationName": "Antalya",
+    "tripType": "RT",
+    "cabinClass": "ECONOMY",
+    "passengers": {
+      "adults": 2,
+      "children": 0,
+      "infants": 0
+    },
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
+    "prix": {
+      "volz": 179148,
+      "h24voyages": 172610
+    },
+    "moinsCher": {
+      "site": "h24voyages",
+      "prix": 172610,
+      "airline": "Air Algerie",
+      "departDate": "2026-07-16"
+    },
+    "economie": 6538,
+    "nbSitesDisponibles": 2
+  },
+  {
+    "route": "ALG → AYT",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "AYT",
+    "destinationName": "Antalya",
+    "tripType": "RT",
+    "cabinClass": "ECONOMY",
+    "passengers": {
+      "adults": 1,
+      "children": 1,
+      "infants": 0
+    },
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
+    "prix": {
+      "volz": 157088,
+      "h24voyages": 150550
+    },
+    "moinsCher": {
+      "site": "h24voyages",
+      "prix": 150550,
+      "airline": "Air Algerie",
+      "departDate": "2026-07-16"
     },
     "economie": 6538,
     "nbSitesDisponibles": 2
@@ -1160,17 +1160,17 @@
       "children": 0,
       "infants": 0
     },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
     "prix": {
-      "volz": 201446,
-      "h24voyages": 194908
+      "volz": 191432,
+      "h24voyages": 184894
     },
     "moinsCher": {
       "site": "h24voyages",
-      "prix": 194908,
+      "prix": 184894,
       "airline": "Air Algerie",
-      "departDate": "2026-07-13"
+      "departDate": "2026-07-16"
     },
     "economie": 6538,
     "nbSitesDisponibles": 2
@@ -1188,17 +1188,17 @@
       "children": 1,
       "infants": 0
     },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
     "prix": {
-      "volz": 178276,
-      "h24voyages": 171738
+      "volz": 169912,
+      "h24voyages": 163374
     },
     "moinsCher": {
       "site": "h24voyages",
-      "prix": 171738,
+      "prix": 163374,
       "airline": "Air Algerie",
-      "departDate": "2026-07-13"
+      "departDate": "2026-07-16"
     },
     "economie": 6538,
     "nbSitesDisponibles": 2
@@ -1216,17 +1216,17 @@
       "children": 0,
       "infants": 0
     },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
     "prix": {
-      "volz": 256206,
-      "h24voyages": 249668
+      "volz": 256192,
+      "h24voyages": 249654
     },
     "moinsCher": {
       "site": "h24voyages",
-      "prix": 249668,
+      "prix": 249654,
       "airline": "Air Algerie",
-      "departDate": "2026-07-13"
+      "departDate": "2026-07-16"
     },
     "economie": 6538,
     "nbSitesDisponibles": 2
@@ -1244,50 +1244,582 @@
       "children": 1,
       "infants": 0
     },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
     "prix": {
-      "volz": 256206,
-      "h24voyages": 249668
+      "volz": 256192,
+      "h24voyages": 249654
     },
     "moinsCher": {
       "site": "h24voyages",
-      "prix": 249668,
+      "prix": 249654,
       "airline": "Air Algerie",
-      "departDate": "2026-07-13"
+      "departDate": "2026-07-16"
     },
     "economie": 6538,
     "nbSitesDisponibles": 2
   },
   {
-    "route": "ALG → DXB",
+    "route": "ALG → CDG",
     "origin": "ALG",
     "originName": "Alger",
-    "destination": "DXB",
-    "destinationName": "Dubai",
+    "destination": "CDG",
+    "destinationName": "Paris",
     "tripType": "RT",
     "cabinClass": "ECONOMY",
     "passengers": {
-      "adults": 2,
+      "adults": 1,
       "children": 0,
       "infants": 0
     },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
     "prix": {
-      "volz": 170488,
-      "h24voyages": 176602
+      "volz": 48425,
+      "h24voyages": 54736
     },
     "moinsCher": {
       "site": "volz",
-      "prix": 170488,
+      "prix": 48425,
       "airline": null,
-      "departDate": "2026-07-13"
+      "departDate": "2026-07-16"
+    },
+    "economie": 6311,
+    "nbSitesDisponibles": 2
+  },
+  {
+    "route": "ALG → DXB",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "DXB",
+    "destinationName": "Dubai",
+    "tripType": "RT",
+    "cabinClass": "ECONOMY",
+    "passengers": {
+      "adults": 2,
+      "children": 0,
+      "infants": 0
+    },
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
+    "prix": {
+      "volz": 183142,
+      "h24voyages": 189256
+    },
+    "moinsCher": {
+      "site": "volz",
+      "prix": 183142,
+      "airline": null,
+      "departDate": "2026-07-16"
     },
     "economie": 6114,
     "nbSitesDisponibles": 2
   },
   {
+    "route": "ALG → DXB",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "DXB",
+    "destinationName": "Dubai",
+    "tripType": "RT",
+    "cabinClass": "ECONOMY",
+    "passengers": {
+      "adults": 1,
+      "children": 1,
+      "infants": 0
+    },
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
+    "prix": {
+      "volz": 170572,
+      "h24voyages": 176686
+    },
+    "moinsCher": {
+      "site": "volz",
+      "prix": 170572,
+      "airline": null,
+      "departDate": "2026-07-16"
+    },
+    "economie": 6114,
+    "nbSitesDisponibles": 2
+  },
+  {
+    "route": "ALG → BCN",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "BCN",
+    "destinationName": "Barcelone",
+    "tripType": "RT",
+    "cabinClass": "ECONOMY",
+    "passengers": {
+      "adults": 1,
+      "children": 0,
+      "infants": 0
+    },
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
+    "prix": {
+      "volz": 61571,
+      "h24voyages": 55732
+    },
+    "moinsCher": {
+      "site": "h24voyages",
+      "prix": 55732,
+      "airline": "Vueling Airlines",
+      "departDate": "2026-07-16"
+    },
+    "economie": 5839,
+    "nbSitesDisponibles": 2
+  },
+  {
+    "route": "ALG → TUN",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "TUN",
+    "destinationName": "Tunis",
+    "tripType": "RT",
+    "cabinClass": "BUSINESS",
+    "passengers": {
+      "adults": 1,
+      "children": 0,
+      "infants": 0
+    },
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
+    "prix": {
+      "volz": 67904,
+      "h24voyages": 62289
+    },
+    "moinsCher": {
+      "site": "h24voyages",
+      "prix": 62289,
+      "airline": "Tunisair",
+      "departDate": "2026-07-16"
+    },
+    "economie": 5615,
+    "nbSitesDisponibles": 2
+  },
+  {
+    "route": "ALG → TUN",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "TUN",
+    "destinationName": "Tunis",
+    "tripType": "RT",
+    "cabinClass": "BUSINESS",
+    "passengers": {
+      "adults": 1,
+      "children": 0,
+      "infants": 1
+    },
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
+    "prix": {
+      "volz": 72889,
+      "h24voyages": 67639
+    },
+    "moinsCher": {
+      "site": "h24voyages",
+      "prix": 67639,
+      "airline": "Tunisair",
+      "departDate": "2026-07-16"
+    },
+    "economie": 5250,
+    "nbSitesDisponibles": 2
+  },
+  {
+    "route": "ALG → IST",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "IST",
+    "destinationName": "Istanbul",
+    "tripType": "RT",
+    "cabinClass": "ECONOMY",
+    "passengers": {
+      "adults": 1,
+      "children": 0,
+      "infants": 0
+    },
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
+    "prix": {
+      "volz": 73140,
+      "h24voyages": 68100
+    },
+    "moinsCher": {
+      "site": "h24voyages",
+      "prix": 68100,
+      "airline": "Turkish Airlines",
+      "departDate": "2026-07-16"
+    },
+    "economie": 5040,
+    "nbSitesDisponibles": 2
+  },
+  {
+    "route": "ALG → SSH",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "SSH",
+    "destinationName": "Sharm El Sheikh",
+    "tripType": "RT",
+    "cabinClass": "ECONOMY",
+    "passengers": {
+      "adults": 1,
+      "children": 0,
+      "infants": 0
+    },
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
+    "prix": {
+      "volz": 105244,
+      "h24voyages": 100204
+    },
+    "moinsCher": {
+      "site": "h24voyages",
+      "prix": 100204,
+      "airline": "Turkish Airlines",
+      "departDate": "2026-07-16"
+    },
+    "economie": 5040,
+    "nbSitesDisponibles": 2
+  },
+  {
+    "route": "ALG → CDG",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "CDG",
+    "destinationName": "Paris",
+    "tripType": "RT",
+    "cabinClass": "ECONOMY",
+    "passengers": {
+      "adults": 1,
+      "children": 0,
+      "infants": 1
+    },
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
+    "prix": {
+      "volz": 54905,
+      "h24voyages": 59886
+    },
+    "moinsCher": {
+      "site": "volz",
+      "prix": 54905,
+      "airline": null,
+      "departDate": "2026-07-16"
+    },
+    "economie": 4981,
+    "nbSitesDisponibles": 2
+  },
+  {
+    "route": "ALG → TUN",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "TUN",
+    "destinationName": "Tunis",
+    "tripType": "RT",
+    "cabinClass": "ECONOMY",
+    "passengers": {
+      "adults": 1,
+      "children": 0,
+      "infants": 0
+    },
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
+    "prix": {
+      "volz": 53237,
+      "h24voyages": 48310
+    },
+    "moinsCher": {
+      "site": "h24voyages",
+      "prix": 48310,
+      "airline": "Tunisair",
+      "departDate": "2026-07-16"
+    },
+    "economie": 4927,
+    "nbSitesDisponibles": 2
+  },
+  {
+    "route": "ALG → DXB",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "DXB",
+    "destinationName": "Dubai",
+    "tripType": "RT",
+    "cabinClass": "ECONOMY",
+    "passengers": {
+      "adults": 1,
+      "children": 0,
+      "infants": 1
+    },
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
+    "prix": {
+      "volz": 107632,
+      "h24voyages": 102732
+    },
+    "moinsCher": {
+      "site": "h24voyages",
+      "prix": 102732,
+      "airline": "Saudi Arabian",
+      "departDate": "2026-07-16"
+    },
+    "economie": 4900,
+    "nbSitesDisponibles": 2
+  },
+  {
+    "route": "ALG → DXB",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "DXB",
+    "destinationName": "Dubai",
+    "tripType": "RT",
+    "cabinClass": "BUSINESS",
+    "passengers": {
+      "adults": 1,
+      "children": 0,
+      "infants": 0
+    },
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
+    "prix": {
+      "volz": 199048,
+      "h24voyages": 194148
+    },
+    "moinsCher": {
+      "site": "h24voyages",
+      "prix": 194148,
+      "airline": "Saudi Arabian",
+      "departDate": "2026-07-16"
+    },
+    "economie": 4900,
+    "nbSitesDisponibles": 2
+  },
+  {
+    "route": "ALG → TUN",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "TUN",
+    "destinationName": "Tunis",
+    "tripType": "RT",
+    "cabinClass": "ECONOMY",
+    "passengers": {
+      "adults": 1,
+      "children": 0,
+      "infants": 1
+    },
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
+    "prix": {
+      "volz": 56852,
+      "h24voyages": 52358
+    },
+    "moinsCher": {
+      "site": "h24voyages",
+      "prix": 52358,
+      "airline": "Tunisair",
+      "departDate": "2026-07-16"
+    },
+    "economie": 4494,
+    "nbSitesDisponibles": 2
+  },
+  {
+    "route": "ALG → AYT",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "AYT",
+    "destinationName": "Antalya",
+    "tripType": "RT",
+    "cabinClass": "ECONOMY",
+    "passengers": {
+      "adults": 1,
+      "children": 0,
+      "infants": 1
+    },
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
+    "prix": {
+      "volz": 99284,
+      "h24voyages": 94925
+    },
+    "moinsCher": {
+      "site": "h24voyages",
+      "prix": 94925,
+      "airline": "Air Algerie",
+      "departDate": "2026-07-16"
+    },
+    "economie": 4359,
+    "nbSitesDisponibles": 2
+  },
+  {
+    "route": "ALG → CAI",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "CAI",
+    "destinationName": "Le Caire",
+    "tripType": "RT",
+    "cabinClass": "ECONOMY",
+    "passengers": {
+      "adults": 1,
+      "children": 0,
+      "infants": 1
+    },
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
+    "prix": {
+      "volz": 96392,
+      "h24voyages": 92033
+    },
+    "moinsCher": {
+      "site": "h24voyages",
+      "prix": 92033,
+      "airline": "Air Algerie",
+      "departDate": "2026-07-16"
+    },
+    "economie": 4359,
+    "nbSitesDisponibles": 2
+  },
+  {
+    "route": "ALG → CDG",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "CDG",
+    "destinationName": "Paris",
+    "tripType": "RT",
+    "cabinClass": "ECONOMY",
+    "passengers": {
+      "adults": 2,
+      "children": 0,
+      "infants": 0
+    },
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
+    "prix": {
+      "volz": 113830,
+      "h24voyages": 109472
+    },
+    "moinsCher": {
+      "site": "h24voyages",
+      "prix": 109472,
+      "airline": "Air Algerie",
+      "departDate": "2026-07-16"
+    },
+    "economie": 4358,
+    "nbSitesDisponibles": 2
+  },
+  {
+    "route": "ALG → CDG",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "CDG",
+    "destinationName": "Paris",
+    "tripType": "RT",
+    "cabinClass": "ECONOMY",
+    "passengers": {
+      "adults": 1,
+      "children": 1,
+      "infants": 0
+    },
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
+    "prix": {
+      "volz": 103390,
+      "h24voyages": 99032
+    },
+    "moinsCher": {
+      "site": "h24voyages",
+      "prix": 99032,
+      "airline": "Air Algerie",
+      "departDate": "2026-07-16"
+    },
+    "economie": 4358,
+    "nbSitesDisponibles": 2
+  },
+  {
+    "route": "ALG → AYT",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "AYT",
+    "destinationName": "Antalya",
+    "tripType": "RT",
+    "cabinClass": "BUSINESS",
+    "passengers": {
+      "adults": 1,
+      "children": 0,
+      "infants": 1
+    },
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
+    "prix": {
+      "volz": 265892,
+      "h24voyages": 269422
+    },
+    "moinsCher": {
+      "site": "volz",
+      "prix": 265892,
+      "airline": null,
+      "departDate": "2026-07-16"
+    },
+    "economie": 3530,
+    "nbSitesDisponibles": 2
+  },
+  {
+    "route": "ALG → CDG",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "CDG",
+    "destinationName": "Paris",
+    "tripType": "RT",
+    "cabinClass": "BUSINESS",
+    "passengers": {
+      "adults": 1,
+      "children": 0,
+      "infants": 0
+    },
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
+    "prix": {
+      "volz": 117747,
+      "h24voyages": 114478
+    },
+    "moinsCher": {
+      "site": "h24voyages",
+      "prix": 114478,
+      "airline": "Air Algerie",
+      "departDate": "2026-07-16"
+    },
+    "economie": 3269,
+    "nbSitesDisponibles": 2
+  },
+  {
+    "route": "ALG → IST",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "IST",
+    "destinationName": "Istanbul",
+    "tripType": "RT",
+    "cabinClass": "BUSINESS",
+    "passengers": {
+      "adults": 1,
+      "children": 0,
+      "infants": 0
+    },
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
+    "prix": {
+      "volz": 130448,
+      "h24voyages": 127179
+    },
+    "moinsCher": {
+      "site": "h24voyages",
+      "prix": 127179,
+      "airline": "Air Algerie",
+      "departDate": "2026-07-16"
+    },
+    "economie": 3269,
+    "nbSitesDisponibles": 2
+  },
+  {
     "route": "ALG → AYT",
     "origin": "ALG",
     "originName": "Alger",
@@ -1300,325 +1832,17 @@
       "children": 0,
       "infants": 0
     },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
     "prix": {
-      "volz": 103130,
-      "h24voyages": 98090
+      "volz": 89574,
+      "h24voyages": 86305
     },
     "moinsCher": {
       "site": "h24voyages",
-      "prix": 98090,
-      "airline": "Turkish Airlines",
-      "departDate": "2026-07-13"
-    },
-    "economie": 5040,
-    "nbSitesDisponibles": 2
-  },
-  {
-    "route": "ALG → DXB",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "DXB",
-    "destinationName": "Dubai",
-    "tripType": "RT",
-    "cabinClass": "ECONOMY",
-    "passengers": {
-      "adults": 1,
-      "children": 0,
-      "infants": 1
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 100675,
-      "h24voyages": 95775
-    },
-    "moinsCher": {
-      "site": "h24voyages",
-      "prix": 95775,
-      "airline": "Saudi Arabian",
-      "departDate": "2026-07-13"
-    },
-    "economie": 4900,
-    "nbSitesDisponibles": 2
-  },
-  {
-    "route": "ALG → DXB",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "DXB",
-    "destinationName": "Dubai",
-    "tripType": "RT",
-    "cabinClass": "BUSINESS",
-    "passengers": {
-      "adults": 1,
-      "children": 0,
-      "infants": 0
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 199061,
-      "h24voyages": 194161
-    },
-    "moinsCher": {
-      "site": "h24voyages",
-      "prix": 194161,
-      "airline": "Saudi Arabian",
-      "departDate": "2026-07-13"
-    },
-    "economie": 4900,
-    "nbSitesDisponibles": 2
-  },
-  {
-    "route": "ALG → CDG",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "CDG",
-    "destinationName": "Paris",
-    "tripType": "RT",
-    "cabinClass": "ECONOMY",
-    "passengers": {
-      "adults": 1,
-      "children": 0,
-      "infants": 1
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 64271,
-      "h24voyages": 59912
-    },
-    "moinsCher": {
-      "site": "h24voyages",
-      "prix": 59912,
+      "prix": 86305,
       "airline": "Air Algerie",
-      "departDate": "2026-07-13"
-    },
-    "economie": 4359,
-    "nbSitesDisponibles": 2
-  },
-  {
-    "route": "ALG → IST",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "IST",
-    "destinationName": "Istanbul",
-    "tripType": "RT",
-    "cabinClass": "ECONOMY",
-    "passengers": {
-      "adults": 1,
-      "children": 0,
-      "infants": 1
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 70256,
-      "h24voyages": 65897
-    },
-    "moinsCher": {
-      "site": "h24voyages",
-      "prix": 65897,
-      "airline": "Air Algerie",
-      "departDate": "2026-07-13"
-    },
-    "economie": 4359,
-    "nbSitesDisponibles": 2
-  },
-  {
-    "route": "ALG → CAI",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "CAI",
-    "destinationName": "Le Caire",
-    "tripType": "RT",
-    "cabinClass": "ECONOMY",
-    "passengers": {
-      "adults": 1,
-      "children": 0,
-      "infants": 1
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 114836,
-      "h24voyages": 110477
-    },
-    "moinsCher": {
-      "site": "h24voyages",
-      "prix": 110477,
-      "airline": "Air Algerie",
-      "departDate": "2026-07-13"
-    },
-    "economie": 4359,
-    "nbSitesDisponibles": 2
-  },
-  {
-    "route": "ALG → CDG",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "CDG",
-    "destinationName": "Paris",
-    "tripType": "RT",
-    "cabinClass": "ECONOMY",
-    "passengers": {
-      "adults": 2,
-      "children": 0,
-      "infants": 0
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 113882,
-      "h24voyages": 109524
-    },
-    "moinsCher": {
-      "site": "h24voyages",
-      "prix": 109524,
-      "airline": "Air Algerie",
-      "departDate": "2026-07-13"
-    },
-    "economie": 4358,
-    "nbSitesDisponibles": 2
-  },
-  {
-    "route": "ALG → CDG",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "CDG",
-    "destinationName": "Paris",
-    "tripType": "RT",
-    "cabinClass": "ECONOMY",
-    "passengers": {
-      "adults": 1,
-      "children": 1,
-      "infants": 0
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 103442,
-      "h24voyages": 99084
-    },
-    "moinsCher": {
-      "site": "h24voyages",
-      "prix": 99084,
-      "airline": "Air Algerie",
-      "departDate": "2026-07-13"
-    },
-    "economie": 4358,
-    "nbSitesDisponibles": 2
-  },
-  {
-    "route": "ALG → IST",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "IST",
-    "destinationName": "Istanbul",
-    "tripType": "RT",
-    "cabinClass": "ECONOMY",
-    "passengers": {
-      "adults": 1,
-      "children": 1,
-      "infants": 0
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 114612,
-      "h24voyages": 110254
-    },
-    "moinsCher": {
-      "site": "h24voyages",
-      "prix": 110254,
-      "airline": "Air Algerie",
-      "departDate": "2026-07-13"
-    },
-    "economie": 4358,
-    "nbSitesDisponibles": 2
-  },
-  {
-    "route": "ALG → CDG",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "CDG",
-    "destinationName": "Paris",
-    "tripType": "RT",
-    "cabinClass": "BUSINESS",
-    "passengers": {
-      "adults": 1,
-      "children": 0,
-      "infants": 0
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 117798,
-      "h24voyages": 114529
-    },
-    "moinsCher": {
-      "site": "h24voyages",
-      "prix": 114529,
-      "airline": "Air Algerie",
-      "departDate": "2026-07-13"
-    },
-    "economie": 3269,
-    "nbSitesDisponibles": 2
-  },
-  {
-    "route": "ALG → IST",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "IST",
-    "destinationName": "Istanbul",
-    "tripType": "RT",
-    "cabinClass": "ECONOMY",
-    "passengers": {
-      "adults": 1,
-      "children": 0,
-      "infants": 0
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 63316,
-      "h24voyages": 60047
-    },
-    "moinsCher": {
-      "site": "h24voyages",
-      "prix": 60047,
-      "airline": "Air Algerie",
-      "departDate": "2026-07-13"
-    },
-    "economie": 3269,
-    "nbSitesDisponibles": 2
-  },
-  {
-    "route": "ALG → IST",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "IST",
-    "destinationName": "Istanbul",
-    "tripType": "RT",
-    "cabinClass": "BUSINESS",
-    "passengers": {
-      "adults": 1,
-      "children": 0,
-      "infants": 0
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 130456,
-      "h24voyages": 127187
-    },
-    "moinsCher": {
-      "site": "h24voyages",
-      "prix": 127187,
-      "airline": "Air Algerie",
-      "departDate": "2026-07-13"
+      "departDate": "2026-07-16"
     },
     "economie": 3269,
     "nbSitesDisponibles": 2
@@ -1636,17 +1860,17 @@
       "children": 0,
       "infants": 0
     },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
     "prix": {
-      "volz": 100723,
-      "h24voyages": 97454
+      "volz": 83966,
+      "h24voyages": 80697
     },
     "moinsCher": {
       "site": "h24voyages",
-      "prix": 97454,
+      "prix": 80697,
       "airline": "Air Algerie",
-      "departDate": "2026-07-13"
+      "departDate": "2026-07-16"
     },
     "economie": 3269,
     "nbSitesDisponibles": 2
@@ -1664,17 +1888,17 @@
       "children": 0,
       "infants": 0
     },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
     "prix": {
-      "volz": 128103,
-      "h24voyages": 124834
+      "volz": 128096,
+      "h24voyages": 124827
     },
     "moinsCher": {
       "site": "h24voyages",
-      "prix": 124834,
+      "prix": 124827,
       "airline": "Air Algerie",
-      "departDate": "2026-07-13"
+      "departDate": "2026-07-16"
     },
     "economie": 3269,
     "nbSitesDisponibles": 2
@@ -1692,75 +1916,75 @@
       "children": 0,
       "infants": 0
     },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
     "prix": {
-      "volz": 85244,
-      "h24voyages": 88301
+      "volz": 91571,
+      "h24voyages": 94628
     },
     "moinsCher": {
       "site": "volz",
-      "prix": 85244,
+      "prix": 91571,
       "airline": null,
-      "departDate": "2026-07-13"
+      "departDate": "2026-07-16"
     },
     "economie": 3057,
     "nbSitesDisponibles": 2
   },
   {
-    "route": "ALG → CDG",
+    "route": "ALG → BCN",
     "origin": "ALG",
     "originName": "Alger",
-    "destination": "CDG",
-    "destinationName": "Paris",
+    "destination": "BCN",
+    "destinationName": "Barcelone",
     "tripType": "RT",
-    "cabinClass": "ECONOMY",
+    "cabinClass": "BUSINESS",
     "passengers": {
-      "adults": 1,
+      "adults": 2,
       "children": 0,
       "infants": 0
     },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
     "prix": {
-      "volz": 56941,
-      "h24voyages": 54762
+      "volz": 1442674,
+      "h24voyages": 1441134
     },
     "moinsCher": {
       "site": "h24voyages",
-      "prix": 54762,
-      "airline": "Air Algerie",
-      "departDate": "2026-07-13"
+      "prix": 1441134,
+      "airline": "Qatar Airways",
+      "departDate": "2026-07-16"
     },
-    "economie": 2179,
+    "economie": 1540,
     "nbSitesDisponibles": 2
   },
   {
-    "route": "ALG → DXB",
+    "route": "ALG → BCN",
     "origin": "ALG",
     "originName": "Alger",
-    "destination": "DXB",
-    "destinationName": "Dubai",
+    "destination": "BCN",
+    "destinationName": "Barcelone",
     "tripType": "RT",
-    "cabinClass": "ECONOMY",
+    "cabinClass": "BUSINESS",
     "passengers": {
       "adults": 1,
       "children": 1,
       "infants": 0
     },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
     "prix": {
-      "volz": 164512,
-      "h24voyages": 165612
+      "volz": 1316394,
+      "h24voyages": 1314854
     },
     "moinsCher": {
-      "site": "volz",
-      "prix": 164512,
-      "airline": null,
-      "departDate": "2026-07-13"
+      "site": "h24voyages",
+      "prix": 1314854,
+      "airline": "Qatar Airways",
+      "departDate": "2026-07-16"
     },
-    "economie": 1100,
+    "economie": 1540,
     "nbSitesDisponibles": 2
   },
   {
@@ -1776,355 +2000,19 @@
       "children": 0,
       "infants": 1
     },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
+    "departDate": "2026-07-16",
+    "returnDate": "2026-07-26",
     "prix": {
-      "volz": 209841,
-      "h24voyages": 209955
+      "volz": 209828,
+      "h24voyages": 209942
     },
     "moinsCher": {
       "site": "volz",
-      "prix": 209841,
+      "prix": 209828,
       "airline": null,
-      "departDate": "2026-07-13"
+      "departDate": "2026-07-16"
     },
     "economie": 114,
     "nbSitesDisponibles": 2
-  },
-  {
-    "route": "ALG → CAI",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "CAI",
-    "destinationName": "Le Caire",
-    "tripType": "RT",
-    "cabinClass": "PREMIUM_ECONOMY",
-    "passengers": {
-      "adults": 1,
-      "children": 0,
-      "infants": 0
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 257772,
-      "h24voyages": null
-    },
-    "moinsCher": {
-      "site": "volz",
-      "prix": 257772,
-      "airline": null,
-      "departDate": "2026-07-13"
-    },
-    "economie": 0,
-    "nbSitesDisponibles": 1
-  },
-  {
-    "route": "ALG → CAI",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "CAI",
-    "destinationName": "Le Caire",
-    "tripType": "RT",
-    "cabinClass": "PREMIUM_ECONOMY",
-    "passengers": {
-      "adults": 2,
-      "children": 0,
-      "infants": 0
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 515544,
-      "h24voyages": null
-    },
-    "moinsCher": {
-      "site": "volz",
-      "prix": 515544,
-      "airline": null,
-      "departDate": "2026-07-13"
-    },
-    "economie": 0,
-    "nbSitesDisponibles": 1
-  },
-  {
-    "route": "ALG → CAI",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "CAI",
-    "destinationName": "Le Caire",
-    "tripType": "RT",
-    "cabinClass": "PREMIUM_ECONOMY",
-    "passengers": {
-      "adults": 1,
-      "children": 1,
-      "infants": 0
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 468954,
-      "h24voyages": null
-    },
-    "moinsCher": {
-      "site": "volz",
-      "prix": 468954,
-      "airline": null,
-      "departDate": "2026-07-13"
-    },
-    "economie": 0,
-    "nbSitesDisponibles": 1
-  },
-  {
-    "route": "ALG → CAI",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "CAI",
-    "destinationName": "Le Caire",
-    "tripType": "RT",
-    "cabinClass": "PREMIUM_ECONOMY",
-    "passengers": {
-      "adults": 1,
-      "children": 0,
-      "infants": 1
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 284265,
-      "h24voyages": null
-    },
-    "moinsCher": {
-      "site": "volz",
-      "prix": 284265,
-      "airline": null,
-      "departDate": "2026-07-13"
-    },
-    "economie": 0,
-    "nbSitesDisponibles": 1
-  },
-  {
-    "route": "ALG → TUN",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "TUN",
-    "destinationName": "Tunis",
-    "tripType": "RT",
-    "cabinClass": "ECONOMY",
-    "passengers": {
-      "adults": 1,
-      "children": 0,
-      "infants": 0
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 96159,
-      "h24voyages": null
-    },
-    "moinsCher": {
-      "site": "volz",
-      "prix": 96159,
-      "airline": null,
-      "departDate": "2026-07-13"
-    },
-    "economie": 0,
-    "nbSitesDisponibles": 1
-  },
-  {
-    "route": "ALG → TUN",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "TUN",
-    "destinationName": "Tunis",
-    "tripType": "RT",
-    "cabinClass": "ECONOMY",
-    "passengers": {
-      "adults": 2,
-      "children": 0,
-      "infants": 0
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 192318,
-      "h24voyages": null
-    },
-    "moinsCher": {
-      "site": "volz",
-      "prix": 192318,
-      "airline": null,
-      "departDate": "2026-07-13"
-    },
-    "economie": 0,
-    "nbSitesDisponibles": 1
-  },
-  {
-    "route": "ALG → TUN",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "TUN",
-    "destinationName": "Tunis",
-    "tripType": "RT",
-    "cabinClass": "ECONOMY",
-    "passengers": {
-      "adults": 1,
-      "children": 1,
-      "infants": 0
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 178658,
-      "h24voyages": null
-    },
-    "moinsCher": {
-      "site": "volz",
-      "prix": 178658,
-      "airline": null,
-      "departDate": "2026-07-13"
-    },
-    "economie": 0,
-    "nbSitesDisponibles": 1
-  },
-  {
-    "route": "ALG → TUN",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "TUN",
-    "destinationName": "Tunis",
-    "tripType": "RT",
-    "cabinClass": "ECONOMY",
-    "passengers": {
-      "adults": 1,
-      "children": 0,
-      "infants": 1
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 108734,
-      "h24voyages": null
-    },
-    "moinsCher": {
-      "site": "volz",
-      "prix": 108734,
-      "airline": null,
-      "departDate": "2026-07-13"
-    },
-    "economie": 0,
-    "nbSitesDisponibles": 1
-  },
-  {
-    "route": "ALG → TUN",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "TUN",
-    "destinationName": "Tunis",
-    "tripType": "RT",
-    "cabinClass": "BUSINESS",
-    "passengers": {
-      "adults": 1,
-      "children": 0,
-      "infants": 0
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 269804,
-      "h24voyages": null
-    },
-    "moinsCher": {
-      "site": "volz",
-      "prix": 269804,
-      "airline": null,
-      "departDate": "2026-07-13"
-    },
-    "economie": 0,
-    "nbSitesDisponibles": 1
-  },
-  {
-    "route": "ALG → TUN",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "TUN",
-    "destinationName": "Tunis",
-    "tripType": "RT",
-    "cabinClass": "BUSINESS",
-    "passengers": {
-      "adults": 2,
-      "children": 0,
-      "infants": 0
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 539608,
-      "h24voyages": null
-    },
-    "moinsCher": {
-      "site": "volz",
-      "prix": 539608,
-      "airline": null,
-      "departDate": "2026-07-13"
-    },
-    "economie": 0,
-    "nbSitesDisponibles": 1
-  },
-  {
-    "route": "ALG → TUN",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "TUN",
-    "destinationName": "Tunis",
-    "tripType": "RT",
-    "cabinClass": "BUSINESS",
-    "passengers": {
-      "adults": 1,
-      "children": 1,
-      "infants": 0
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 493188,
-      "h24voyages": null
-    },
-    "moinsCher": {
-      "site": "volz",
-      "prix": 493188,
-      "airline": null,
-      "departDate": "2026-07-13"
-    },
-    "economie": 0,
-    "nbSitesDisponibles": 1
-  },
-  {
-    "route": "ALG → TUN",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "TUN",
-    "destinationName": "Tunis",
-    "tripType": "RT",
-    "cabinClass": "BUSINESS",
-    "passengers": {
-      "adults": 1,
-      "children": 0,
-      "infants": 1
-    },
-    "departDate": "2026-07-13",
-    "returnDate": "2026-07-23",
-    "prix": {
-      "volz": 294944,
-      "h24voyages": null
-    },
-    "moinsCher": {
-      "site": "volz",
-      "prix": 294944,
-      "airline": null,
-      "departDate": "2026-07-13"
-    },
-    "economie": 0,
-    "nbSitesDisponibles": 1
   }
 ]
