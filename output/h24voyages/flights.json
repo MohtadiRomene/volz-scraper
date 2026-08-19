@@ -12,52 +12,12 @@
       "children": 0,
       "infants": 0
     },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 79768,
+    "departDate": "2026-08-19",
+    "returnDate": "2026-08-29",
+    "price": 290865,
     "currency": "DZD",
-    "airline": "Asl Airlines France",
-    "scraped_at": "2026-08-16T16:35:07.462Z"
-  },
-  {
-    "site": "h24voyages",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "CDG",
-    "destinationName": "Paris",
-    "tripType": "RT",
-    "cabinClass": "ECONOMY",
-    "passengers": {
-      "adults": 2,
-      "children": 0,
-      "infants": 0
-    },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 159536,
-    "currency": "DZD",
-    "airline": "Asl Airlines France",
-    "scraped_at": "2026-08-16T16:35:13.084Z"
-  },
-  {
-    "site": "h24voyages",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "CDG",
-    "destinationName": "Paris",
-    "tripType": "RT",
-    "cabinClass": "ECONOMY",
-    "passengers": {
-      "adults": 1,
-      "children": 1,
-      "infants": 0
-    },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 147736,
-    "currency": "DZD",
-    "airline": "Asl Airlines France",
-    "scraped_at": "2026-08-16T16:35:19.430Z"
+    "airline": "Turkish Airlines",
+    "scraped_at": "2026-08-19T16:34:40.966Z"
   },
   {
     "site": "h24voyages",
@@ -72,12 +32,12 @@
       "children": 0,
       "infants": 1
     },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 91673,
+    "departDate": "2026-08-19",
+    "returnDate": "2026-08-29",
+    "price": 315525,
     "currency": "DZD",
-    "airline": "Air France",
-    "scraped_at": "2026-08-16T16:35:25.357Z"
+    "airline": "Turkish Airlines",
+    "scraped_at": "2026-08-19T16:34:58.045Z"
   },
   {
     "site": "h24voyages",
@@ -92,19 +52,79 @@
       "children": 0,
       "infants": 0
     },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 147043,
+    "departDate": "2026-08-19",
+    "returnDate": "2026-08-29",
+    "price": 835816,
+    "currency": "DZD",
+    "airline": "Qatar Airways",
+    "scraped_at": "2026-08-19T16:35:24.210Z"
+  },
+  {
+    "site": "h24voyages",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "IST",
+    "destinationName": "Istanbul",
+    "tripType": "RT",
+    "cabinClass": "ECONOMY",
+    "passengers": {
+      "adults": 1,
+      "children": 0,
+      "infants": 0
+    },
+    "departDate": "2026-08-19",
+    "returnDate": "2026-08-29",
+    "price": 182711,
+    "currency": "DZD",
+    "airline": "Turkish Airlines",
+    "scraped_at": "2026-08-19T18:05:18.497Z"
+  },
+  {
+    "site": "h24voyages",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "IST",
+    "destinationName": "Istanbul",
+    "tripType": "RT",
+    "cabinClass": "ECONOMY",
+    "passengers": {
+      "adults": 1,
+      "children": 0,
+      "infants": 1
+    },
+    "departDate": "2026-08-19",
+    "returnDate": "2026-08-29",
+    "price": 199451,
+    "currency": "DZD",
+    "airline": "Turkish Airlines",
+    "scraped_at": "2026-08-19T18:05:31.491Z"
+  },
+  {
+    "site": "h24voyages",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "IST",
+    "destinationName": "Istanbul",
+    "tripType": "RT",
+    "cabinClass": "BUSINESS",
+    "passengers": {
+      "adults": 1,
+      "children": 0,
+      "infants": 0
+    },
+    "departDate": "2026-08-19",
+    "returnDate": "2026-08-29",
+    "price": 128925,
     "currency": "DZD",
     "airline": "Air Algerie",
-    "scraped_at": "2026-08-16T16:35:53.797Z"
+    "scraped_at": "2026-08-19T18:05:51.937Z"
   },
   {
     "site": "h24voyages",
     "origin": "ALG",
     "originName": "Alger",
-    "destination": "CDG",
-    "destinationName": "Paris",
+    "destination": "IST",
+    "destinationName": "Istanbul",
     "tripType": "RT",
     "cabinClass": "BUSINESS",
     "passengers": {
@@ -112,19 +132,19 @@
       "children": 0,
       "infants": 0
     },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 294086,
+    "departDate": "2026-08-19",
+    "returnDate": "2026-08-29",
+    "price": 257850,
     "currency": "DZD",
     "airline": "Air Algerie",
-    "scraped_at": "2026-08-16T16:35:59.989Z"
+    "scraped_at": "2026-08-19T18:05:56.353Z"
   },
   {
     "site": "h24voyages",
     "origin": "ALG",
     "originName": "Alger",
-    "destination": "CDG",
-    "destinationName": "Paris",
+    "destination": "IST",
+    "destinationName": "Istanbul",
     "tripType": "RT",
     "cabinClass": "BUSINESS",
     "passengers": {
@@ -132,19 +152,19 @@
       "children": 1,
       "infants": 0
     },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 270566,
+    "departDate": "2026-08-19",
+    "returnDate": "2026-08-29",
+    "price": 257850,
     "currency": "DZD",
     "airline": "Air Algerie",
-    "scraped_at": "2026-08-16T16:36:06.894Z"
+    "scraped_at": "2026-08-19T18:06:00.543Z"
   },
   {
     "site": "h24voyages",
     "origin": "ALG",
     "originName": "Alger",
-    "destination": "CDG",
-    "destinationName": "Paris",
+    "destination": "IST",
+    "destinationName": "Istanbul",
     "tripType": "RT",
     "cabinClass": "BUSINESS",
     "passengers": {
@@ -152,172 +172,12 @@
       "children": 0,
       "infants": 1
     },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 160203,
+    "departDate": "2026-08-19",
+    "returnDate": "2026-08-29",
+    "price": 141555,
     "currency": "DZD",
     "airline": "Air Algerie",
-    "scraped_at": "2026-08-16T16:36:17.733Z"
-  },
-  {
-    "site": "h24voyages",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "IST",
-    "destinationName": "Istanbul",
-    "tripType": "RT",
-    "cabinClass": "ECONOMY",
-    "passengers": {
-      "adults": 1,
-      "children": 0,
-      "infants": 0
-    },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 132243,
-    "currency": "DZD",
-    "airline": "Turkish Airlines",
-    "scraped_at": "2026-08-16T16:36:45.667Z"
-  },
-  {
-    "site": "h24voyages",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "IST",
-    "destinationName": "Istanbul",
-    "tripType": "RT",
-    "cabinClass": "ECONOMY",
-    "passengers": {
-      "adults": 2,
-      "children": 0,
-      "infants": 0
-    },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 264486,
-    "currency": "DZD",
-    "airline": "Turkish Airlines",
-    "scraped_at": "2026-08-16T16:36:51.552Z"
-  },
-  {
-    "site": "h24voyages",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "IST",
-    "destinationName": "Istanbul",
-    "tripType": "RT",
-    "cabinClass": "ECONOMY",
-    "passengers": {
-      "adults": 1,
-      "children": 1,
-      "infants": 0
-    },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 240066,
-    "currency": "DZD",
-    "airline": "Turkish Airlines",
-    "scraped_at": "2026-08-16T16:36:58.026Z"
-  },
-  {
-    "site": "h24voyages",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "IST",
-    "destinationName": "Istanbul",
-    "tripType": "RT",
-    "cabinClass": "ECONOMY",
-    "passengers": {
-      "adults": 1,
-      "children": 0,
-      "infants": 1
-    },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 143943,
-    "currency": "DZD",
-    "airline": "Turkish Airlines",
-    "scraped_at": "2026-08-16T16:37:04.014Z"
-  },
-  {
-    "site": "h24voyages",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "IST",
-    "destinationName": "Istanbul",
-    "tripType": "RT",
-    "cabinClass": "BUSINESS",
-    "passengers": {
-      "adults": 1,
-      "children": 0,
-      "infants": 0
-    },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 248325,
-    "currency": "DZD",
-    "airline": "Turkish Airlines",
-    "scraped_at": "2026-08-16T16:37:31.822Z"
-  },
-  {
-    "site": "h24voyages",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "IST",
-    "destinationName": "Istanbul",
-    "tripType": "RT",
-    "cabinClass": "BUSINESS",
-    "passengers": {
-      "adults": 2,
-      "children": 0,
-      "infants": 0
-    },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 496650,
-    "currency": "DZD",
-    "airline": "Turkish Airlines",
-    "scraped_at": "2026-08-16T16:37:38.434Z"
-  },
-  {
-    "site": "h24voyages",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "IST",
-    "destinationName": "Istanbul",
-    "tripType": "RT",
-    "cabinClass": "BUSINESS",
-    "passengers": {
-      "adults": 1,
-      "children": 1,
-      "infants": 0
-    },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 450910,
-    "currency": "DZD",
-    "airline": "Turkish Airlines",
-    "scraped_at": "2026-08-16T16:37:44.526Z"
-  },
-  {
-    "site": "h24voyages",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "IST",
-    "destinationName": "Istanbul",
-    "tripType": "RT",
-    "cabinClass": "BUSINESS",
-    "passengers": {
-      "adults": 1,
-      "children": 0,
-      "infants": 1
-    },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 268555,
-    "currency": "DZD",
-    "airline": "Turkish Airlines",
-    "scraped_at": "2026-08-16T16:37:50.335Z"
+    "scraped_at": "2026-08-19T18:06:04.971Z"
   },
   {
     "site": "h24voyages",
@@ -332,52 +192,12 @@
       "children": 0,
       "infants": 0
     },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 168754,
+    "departDate": "2026-08-19",
+    "returnDate": "2026-08-29",
+    "price": 200072,
     "currency": "DZD",
     "airline": "Turkish Airlines",
-    "scraped_at": "2026-08-16T16:38:19.402Z"
-  },
-  {
-    "site": "h24voyages",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "AYT",
-    "destinationName": "Antalya",
-    "tripType": "RT",
-    "cabinClass": "ECONOMY",
-    "passengers": {
-      "adults": 2,
-      "children": 0,
-      "infants": 0
-    },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 337508,
-    "currency": "DZD",
-    "airline": "Turkish Airlines",
-    "scraped_at": "2026-08-16T16:38:27.164Z"
-  },
-  {
-    "site": "h24voyages",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "AYT",
-    "destinationName": "Antalya",
-    "tripType": "RT",
-    "cabinClass": "ECONOMY",
-    "passengers": {
-      "adults": 1,
-      "children": 1,
-      "infants": 0
-    },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 306468,
-    "currency": "DZD",
-    "airline": "Turkish Airlines",
-    "scraped_at": "2026-08-16T16:38:36.815Z"
+    "scraped_at": "2026-08-19T18:06:26.495Z"
   },
   {
     "site": "h24voyages",
@@ -392,12 +212,12 @@
       "children": 0,
       "infants": 1
     },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 183104,
+    "departDate": "2026-08-19",
+    "returnDate": "2026-08-29",
+    "price": 217552,
     "currency": "DZD",
     "airline": "Turkish Airlines",
-    "scraped_at": "2026-08-16T16:38:49.985Z"
+    "scraped_at": "2026-08-19T18:06:44.845Z"
   },
   {
     "site": "h24voyages",
@@ -412,12 +232,12 @@
       "children": 0,
       "infants": 0
     },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 299696,
+    "departDate": "2026-08-19",
+    "returnDate": "2026-08-29",
+    "price": 233482,
     "currency": "DZD",
     "airline": "Turkish Airlines",
-    "scraped_at": "2026-08-16T16:39:19.186Z"
+    "scraped_at": "2026-08-19T18:07:09.839Z"
   },
   {
     "site": "h24voyages",
@@ -432,12 +252,12 @@
       "children": 0,
       "infants": 0
     },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 599392,
+    "departDate": "2026-08-19",
+    "returnDate": "2026-08-29",
+    "price": 466964,
     "currency": "DZD",
     "airline": "Turkish Airlines",
-    "scraped_at": "2026-08-16T16:39:25.993Z"
+    "scraped_at": "2026-08-19T18:07:16.464Z"
   },
   {
     "site": "h24voyages",
@@ -452,12 +272,12 @@
       "children": 1,
       "infants": 0
     },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 545652,
+    "departDate": "2026-08-19",
+    "returnDate": "2026-08-29",
+    "price": 419238,
     "currency": "DZD",
     "airline": "Turkish Airlines",
-    "scraped_at": "2026-08-16T16:39:33.146Z"
+    "scraped_at": "2026-08-19T18:07:24.285Z"
   },
   {
     "site": "h24voyages",
@@ -472,12 +292,12 @@
       "children": 0,
       "infants": 1
     },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 323126,
+    "departDate": "2026-08-19",
+    "returnDate": "2026-08-29",
+    "price": 250762,
     "currency": "DZD",
     "airline": "Turkish Airlines",
-    "scraped_at": "2026-08-16T16:39:40.498Z"
+    "scraped_at": "2026-08-19T18:07:31.171Z"
   },
   {
     "site": "h24voyages",
@@ -492,12 +312,12 @@
       "children": 0,
       "infants": 0
     },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 140201,
+    "departDate": "2026-08-19",
+    "returnDate": "2026-08-29",
+    "price": 334876,
     "currency": "DZD",
     "airline": "Turkish Airlines",
-    "scraped_at": "2026-08-16T16:40:17.714Z"
+    "scraped_at": "2026-08-19T18:07:55.180Z"
   },
   {
     "site": "h24voyages",
@@ -508,76 +328,16 @@
     "tripType": "RT",
     "cabinClass": "ECONOMY",
     "passengers": {
-      "adults": 2,
-      "children": 0,
-      "infants": 0
-    },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 280402,
-    "currency": "DZD",
-    "airline": "Turkish Airlines",
-    "scraped_at": "2026-08-16T16:40:24.453Z"
-  },
-  {
-    "site": "h24voyages",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "CAI",
-    "destinationName": "Le Caire",
-    "tripType": "RT",
-    "cabinClass": "BUSINESS",
-    "passengers": {
       "adults": 1,
       "children": 0,
-      "infants": 0
+      "infants": 1
     },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 364181,
+    "departDate": "2026-08-19",
+    "returnDate": "2026-08-29",
+    "price": 368726,
     "currency": "DZD",
     "airline": "Turkish Airlines",
-    "scraped_at": "2026-08-16T16:41:08.086Z"
-  },
-  {
-    "site": "h24voyages",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "CAI",
-    "destinationName": "Le Caire",
-    "tripType": "RT",
-    "cabinClass": "BUSINESS",
-    "passengers": {
-      "adults": 2,
-      "children": 0,
-      "infants": 0
-    },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 728362,
-    "currency": "DZD",
-    "airline": "Turkish Airlines",
-    "scraped_at": "2026-08-16T16:41:14.921Z"
-  },
-  {
-    "site": "h24voyages",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "CAI",
-    "destinationName": "Le Caire",
-    "tripType": "RT",
-    "cabinClass": "BUSINESS",
-    "passengers": {
-      "adults": 1,
-      "children": 1,
-      "infants": 0
-    },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 661202,
-    "currency": "DZD",
-    "airline": "Turkish Airlines",
-    "scraped_at": "2026-08-16T16:41:21.655Z"
+    "scraped_at": "2026-08-19T18:08:10.576Z"
   },
   {
     "site": "h24voyages",
@@ -590,14 +350,74 @@
     "passengers": {
       "adults": 1,
       "children": 0,
-      "infants": 1
+      "infants": 0
     },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 397032,
+    "departDate": "2026-08-19",
+    "returnDate": "2026-08-29",
+    "price": 238404,
     "currency": "DZD",
     "airline": "Turkish Airlines",
-    "scraped_at": "2026-08-16T16:41:28.647Z"
+    "scraped_at": "2026-08-19T18:08:36.678Z"
+  },
+  {
+    "site": "h24voyages",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "CAI",
+    "destinationName": "Le Caire",
+    "tripType": "RT",
+    "cabinClass": "BUSINESS",
+    "passengers": {
+      "adults": 2,
+      "children": 0,
+      "infants": 0
+    },
+    "departDate": "2026-08-19",
+    "returnDate": "2026-08-29",
+    "price": 645968,
+    "currency": "DZD",
+    "airline": "Turkish Airlines",
+    "scraped_at": "2026-08-19T18:08:46.695Z"
+  },
+  {
+    "site": "h24voyages",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "CAI",
+    "destinationName": "Le Caire",
+    "tripType": "RT",
+    "cabinClass": "BUSINESS",
+    "passengers": {
+      "adults": 1,
+      "children": 1,
+      "infants": 0
+    },
+    "departDate": "2026-08-19",
+    "returnDate": "2026-08-29",
+    "price": 589108,
+    "currency": "DZD",
+    "airline": "Turkish Airlines",
+    "scraped_at": "2026-08-19T18:09:13.069Z"
+  },
+  {
+    "site": "h24voyages",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "CAI",
+    "destinationName": "Le Caire",
+    "tripType": "RT",
+    "cabinClass": "BUSINESS",
+    "passengers": {
+      "adults": 1,
+      "children": 0,
+      "infants": 1
+    },
+    "departDate": "2026-08-19",
+    "returnDate": "2026-08-29",
+    "price": 258674,
+    "currency": "DZD",
+    "airline": "Turkish Airlines",
+    "scraped_at": "2026-08-19T18:09:19.384Z"
   },
   {
     "site": "h24voyages",
@@ -612,12 +432,12 @@
       "children": 0,
       "infants": 0
     },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 247302,
+    "departDate": "2026-08-19",
+    "returnDate": "2026-08-29",
+    "price": 257757,
     "currency": "DZD",
     "airline": "Turkish Airlines",
-    "scraped_at": "2026-08-16T16:42:03.851Z"
+    "scraped_at": "2026-08-19T18:09:45.100Z"
   },
   {
     "site": "h24voyages",
@@ -632,12 +452,12 @@
       "children": 0,
       "infants": 1
     },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 272660,
+    "departDate": "2026-08-19",
+    "returnDate": "2026-08-29",
+    "price": 284164,
     "currency": "DZD",
     "airline": "Turkish Airlines",
-    "scraped_at": "2026-08-16T16:42:25.814Z"
+    "scraped_at": "2026-08-19T18:09:58.787Z"
   },
   {
     "site": "h24voyages",
@@ -652,12 +472,12 @@
       "children": 0,
       "infants": 0
     },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 341888,
+    "departDate": "2026-08-19",
+    "returnDate": "2026-08-29",
+    "price": 304001,
     "currency": "DZD",
     "airline": "Turkish Airlines",
-    "scraped_at": "2026-08-16T16:42:56.377Z"
+    "scraped_at": "2026-08-19T18:10:21.458Z"
   },
   {
     "site": "h24voyages",
@@ -672,12 +492,12 @@
       "children": 0,
       "infants": 0
     },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 683776,
+    "departDate": "2026-08-19",
+    "returnDate": "2026-08-29",
+    "price": 741842,
     "currency": "DZD",
     "airline": "Turkish Airlines",
-    "scraped_at": "2026-08-16T16:43:02.566Z"
+    "scraped_at": "2026-08-19T18:10:26.410Z"
   },
   {
     "site": "h24voyages",
@@ -692,12 +512,12 @@
       "children": 1,
       "infants": 0
     },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 622256,
+    "departDate": "2026-08-19",
+    "returnDate": "2026-08-29",
+    "price": 673062,
     "currency": "DZD",
     "airline": "Turkish Airlines",
-    "scraped_at": "2026-08-16T16:43:08.627Z"
+    "scraped_at": "2026-08-19T18:10:34.404Z"
   },
   {
     "site": "h24voyages",
@@ -712,12 +532,12 @@
       "children": 0,
       "infants": 1
     },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 372746,
+    "departDate": "2026-08-19",
+    "returnDate": "2026-08-29",
+    "price": 331068,
     "currency": "DZD",
     "airline": "Turkish Airlines",
-    "scraped_at": "2026-08-16T16:43:15.221Z"
+    "scraped_at": "2026-08-19T18:10:41.683Z"
   },
   {
     "site": "h24voyages",
@@ -732,12 +552,12 @@
       "children": 0,
       "infants": 0
     },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 298188,
+    "departDate": "2026-08-19",
+    "returnDate": "2026-08-29",
+    "price": 329572,
     "currency": "DZD",
     "airline": "Turkish Airlines",
-    "scraped_at": "2026-08-16T16:43:44.678Z"
+    "scraped_at": "2026-08-19T18:11:14.377Z"
   },
   {
     "site": "h24voyages",
@@ -747,17 +567,57 @@
     "destinationName": "Dubai",
     "tripType": "RT",
     "cabinClass": "ECONOMY",
+    "passengers": {
+      "adults": 1,
+      "children": 0,
+      "infants": 1
+    },
+    "departDate": "2026-08-19",
+    "returnDate": "2026-08-29",
+    "price": 358492,
+    "currency": "DZD",
+    "airline": "Turkish Airlines",
+    "scraped_at": "2026-08-19T18:11:33.191Z"
+  },
+  {
+    "site": "h24voyages",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "DXB",
+    "destinationName": "Dubai",
+    "tripType": "RT",
+    "cabinClass": "BUSINESS",
+    "passengers": {
+      "adults": 1,
+      "children": 0,
+      "infants": 0
+    },
+    "departDate": "2026-08-19",
+    "returnDate": "2026-08-29",
+    "price": 732970,
+    "currency": "DZD",
+    "airline": "Turkish Airlines",
+    "scraped_at": "2026-08-19T18:12:04.553Z"
+  },
+  {
+    "site": "h24voyages",
+    "origin": "ALG",
+    "originName": "Alger",
+    "destination": "DXB",
+    "destinationName": "Dubai",
+    "tripType": "RT",
+    "cabinClass": "BUSINESS",
     "passengers": {
       "adults": 2,
       "children": 0,
       "infants": 0
     },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 596376,
+    "departDate": "2026-08-19",
+    "returnDate": "2026-08-29",
+    "price": 1599780,
     "currency": "DZD",
     "airline": "Turkish Airlines",
-    "scraped_at": "2026-08-16T16:43:51.304Z"
+    "scraped_at": "2026-08-19T18:12:10.637Z"
   },
   {
     "site": "h24voyages",
@@ -766,58 +626,18 @@
     "destination": "DXB",
     "destinationName": "Dubai",
     "tripType": "RT",
-    "cabinClass": "ECONOMY",
+    "cabinClass": "BUSINESS",
     "passengers": {
       "adults": 1,
       "children": 1,
       "infants": 0
     },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 536746,
+    "departDate": "2026-08-19",
+    "returnDate": "2026-08-29",
+    "price": 1427760,
     "currency": "DZD",
     "airline": "Turkish Airlines",
-    "scraped_at": "2026-08-16T16:43:57.900Z"
-  },
-  {
-    "site": "h24voyages",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "DXB",
-    "destinationName": "Dubai",
-    "tripType": "RT",
-    "cabinClass": "ECONOMY",
-    "passengers": {
-      "adults": 1,
-      "children": 0,
-      "infants": 1
-    },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 323968,
-    "currency": "DZD",
-    "airline": "Turkish Airlines",
-    "scraped_at": "2026-08-16T16:44:05.409Z"
-  },
-  {
-    "site": "h24voyages",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "DXB",
-    "destinationName": "Dubai",
-    "tripType": "RT",
-    "cabinClass": "BUSINESS",
-    "passengers": {
-      "adults": 1,
-      "children": 0,
-      "infants": 0
-    },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 425638,
-    "currency": "DZD",
-    "airline": "Qatar Airways",
-    "scraped_at": "2026-08-16T16:44:41.510Z"
+    "scraped_at": "2026-08-19T18:12:15.890Z"
   },
   {
     "site": "h24voyages",
@@ -832,12 +652,12 @@
       "children": 0,
       "infants": 1
     },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 476798,
+    "departDate": "2026-08-19",
+    "returnDate": "2026-08-29",
+    "price": 797020,
     "currency": "DZD",
-    "airline": "Qatar Airways",
-    "scraped_at": "2026-08-16T16:45:01.234Z"
+    "airline": "Turkish Airlines",
+    "scraped_at": "2026-08-19T18:12:21.723Z"
   },
   {
     "site": "h24voyages",
@@ -852,52 +672,12 @@
       "children": 0,
       "infants": 0
     },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 90391,
+    "departDate": "2026-08-19",
+    "returnDate": "2026-08-29",
+    "price": 198716,
     "currency": "DZD",
-    "airline": "Vueling Airlines",
-    "scraped_at": "2026-08-16T16:45:35.210Z"
-  },
-  {
-    "site": "h24voyages",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "BCN",
-    "destinationName": "Barcelone",
-    "tripType": "RT",
-    "cabinClass": "ECONOMY",
-    "passengers": {
-      "adults": 2,
-      "children": 0,
-      "infants": 0
-    },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 180782,
-    "currency": "DZD",
-    "airline": "Vueling Airlines",
-    "scraped_at": "2026-08-16T16:45:40.970Z"
-  },
-  {
-    "site": "h24voyages",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "BCN",
-    "destinationName": "Barcelone",
-    "tripType": "RT",
-    "cabinClass": "ECONOMY",
-    "passengers": {
-      "adults": 1,
-      "children": 1,
-      "infants": 0
-    },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 180782,
-    "currency": "DZD",
-    "airline": "Vueling Airlines",
-    "scraped_at": "2026-08-16T16:45:47.134Z"
+    "airline": "Turkish Airlines",
+    "scraped_at": "2026-08-19T18:12:57.236Z"
   },
   {
     "site": "h24voyages",
@@ -912,12 +692,12 @@
       "children": 0,
       "infants": 1
     },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 112132,
+    "departDate": "2026-08-19",
+    "returnDate": "2026-08-29",
+    "price": 218112,
     "currency": "DZD",
-    "airline": "Vueling Airlines",
-    "scraped_at": "2026-08-16T16:45:53.266Z"
+    "airline": "Turkish Airlines",
+    "scraped_at": "2026-08-19T18:13:15.131Z"
   },
   {
     "site": "h24voyages",
@@ -932,12 +712,12 @@
       "children": 0,
       "infants": 0
     },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 773993,
+    "departDate": "2026-08-19",
+    "returnDate": "2026-08-29",
+    "price": 361274,
     "currency": "DZD",
-    "airline": "Qatar Airways",
-    "scraped_at": "2026-08-16T16:46:19.279Z"
+    "airline": "Turkish Airlines",
+    "scraped_at": "2026-08-19T18:13:46.432Z"
   },
   {
     "site": "h24voyages",
@@ -952,12 +732,12 @@
       "children": 0,
       "infants": 1
     },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 892824,
+    "departDate": "2026-08-19",
+    "returnDate": "2026-08-29",
+    "price": 392200,
     "currency": "DZD",
-    "airline": "Qatar Airways",
-    "scraped_at": "2026-08-16T16:46:36.332Z"
+    "airline": "Turkish Airlines",
+    "scraped_at": "2026-08-19T18:14:04.216Z"
   },
   {
     "site": "h24voyages",
@@ -972,52 +752,12 @@
       "children": 0,
       "infants": 0
     },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 188417,
+    "departDate": "2026-08-19",
+    "returnDate": "2026-08-29",
+    "price": 199318,
     "currency": "DZD",
     "airline": "Turkish Airlines",
-    "scraped_at": "2026-08-16T16:47:08.096Z"
-  },
-  {
-    "site": "h24voyages",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "MAD",
-    "destinationName": "Madrid",
-    "tripType": "RT",
-    "cabinClass": "ECONOMY",
-    "passengers": {
-      "adults": 2,
-      "children": 0,
-      "infants": 0
-    },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 376834,
-    "currency": "DZD",
-    "airline": "Turkish Airlines",
-    "scraped_at": "2026-08-16T16:47:14.197Z"
-  },
-  {
-    "site": "h24voyages",
-    "origin": "ALG",
-    "originName": "Alger",
-    "destination": "MAD",
-    "destinationName": "Madrid",
-    "tripType": "RT",
-    "cabinClass": "ECONOMY",
-    "passengers": {
-      "adults": 1,
-      "children": 1,
-      "infants": 0
-    },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 344224,
-    "currency": "DZD",
-    "airline": "Turkish Airlines",
-    "scraped_at": "2026-08-16T16:47:20.747Z"
+    "scraped_at": "2026-08-19T18:14:25.467Z"
   },
   {
     "site": "h24voyages",
@@ -1032,12 +772,12 @@
       "children": 0,
       "infants": 1
     },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 207318,
+    "departDate": "2026-08-19",
+    "returnDate": "2026-08-29",
+    "price": 219316,
     "currency": "DZD",
     "airline": "Turkish Airlines",
-    "scraped_at": "2026-08-16T16:47:27.436Z"
+    "scraped_at": "2026-08-19T18:14:41.014Z"
   },
   {
     "site": "h24voyages",
@@ -1052,12 +792,12 @@
       "children": 0,
       "infants": 0
     },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 814643,
+    "departDate": "2026-08-19",
+    "returnDate": "2026-08-29",
+    "price": 356206,
     "currency": "DZD",
-    "airline": "Qatar Airways",
-    "scraped_at": "2026-08-16T16:48:00.193Z"
+    "airline": "Turkish Airlines",
+    "scraped_at": "2026-08-19T18:15:01.900Z"
   },
   {
     "site": "h24voyages",
@@ -1072,12 +812,12 @@
       "children": 0,
       "infants": 0
     },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 1629286,
+    "departDate": "2026-08-19",
+    "returnDate": "2026-08-29",
+    "price": 712412,
     "currency": "DZD",
-    "airline": "Qatar Airways",
-    "scraped_at": "2026-08-16T16:48:06.044Z"
+    "airline": "Turkish Airlines",
+    "scraped_at": "2026-08-19T18:15:06.940Z"
   },
   {
     "site": "h24voyages",
@@ -1092,12 +832,12 @@
       "children": 1,
       "infants": 0
     },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 1479566,
+    "departDate": "2026-08-19",
+    "returnDate": "2026-08-29",
+    "price": 649692,
     "currency": "DZD",
-    "airline": "Qatar Airways",
-    "scraped_at": "2026-08-16T16:48:12.057Z"
+    "airline": "Turkish Airlines",
+    "scraped_at": "2026-08-19T18:15:12.077Z"
   },
   {
     "site": "h24voyages",
@@ -1112,11 +852,11 @@
       "children": 0,
       "infants": 1
     },
-    "departDate": "2026-08-16",
-    "returnDate": "2026-08-26",
-    "price": 941074,
+    "departDate": "2026-08-19",
+    "returnDate": "2026-08-29",
+    "price": 387164,
     "currency": "DZD",
-    "airline": "Qatar Airways",
-    "scraped_at": "2026-08-16T16:48:18.174Z"
+    "airline": "Turkish Airlines",
+    "scraped_at": "2026-08-19T18:15:17.253Z"
   }
 ]
